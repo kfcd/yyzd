@@ -1,0 +1,6234 @@
+丫	丫	a1			
+呀	呀	a1			
+啊	啊	a1	啊！好美啊，啊！下雪了，啊！失火了，啊！太精彩了	（叹词）表示赞叹、惊异、吃惊等语气	
+鸦	鴉	a1			
+哑	啞	a1	咿哑，哑哑学语	（语气助词）呀；（象声词）形容乌鸦叫声、小儿学说话等声音	
+吖	吖	a1			
+锕	錒	a1			
+哑	啞	a2	哑巴，哑铃，哑子，哑剧，哑谜，聋哑，沙哑，嘶哑，哑巴亏，哑口无言，哑然无声，装聋作哑	不能说话，说不出话来	
+啊	啊	a2	啊？你说什么，啊？你再说，啊？这怎么回事，啊？有这种事啊	（叹词）表示疑问、疑惑、反问、追问、惊异、惊疑等语气	
+亚	亞	a3			
+阿	阿	a3	阿姨，阿飞		
+氩	氬	a3			
+娅	婭	a3			
+啊	啊	a3	啊！好吧，啊！原来是你，不错啊，多美啊，快来啊，很好啊，小心啊	（叹词）表示应诺、醒悟、明白等语气；（助词）表示赞叹、惊叹、疑问、肯定、辩解、催促，停顿、列举等语气	
+鸭	鴨	ab3			
+压	壓	ad3			
+押	押	ad3			
+遏	遏	ad3			
+揠	揠	ad3			
+猰	猰	ad3			
+轧	軋	ad3/zad3	轧平，倾轧，轧花机，轧棉花	碾压，滚压	
+轭	軛	ag1			
+挨	挨	ai1	挨户，挨家，挨近	依次，顺次，靠近	
+隘	隘	ai3			
+俺	俺	an2			
+晏	晏	an3			
+罂	罌	ang1		大腹小口的瓶子	
+拗	拗	ao3			
+坳	坳	ao3/ao1			
+叭	叭	ba1			
+疤	疤	ba1			
+粑	粑	ba1			
+芭	芭	ba1			
+笆	笆	ba1			
+爸	爸	ba1			
+葩	葩	ba1			
+巴	巴	ba1			
+吧	吧	ba1	吧枱，吧嗒，吧唧，酒吧，沙拉吧，吧的一声	（音译词）小酒馆；（象声词）爆裂声	
+钯	鈀	ba2			
+靶	靶	ba2			
+把	把	ba2			
+霸	霸	ba3			
+坝	壩	ba3			
+吧	吧	ba6	好吧，去吧，说吧，不会吧，算了吧	（语气助词）表示可以，允许，推测，估量，命令等	
+罢	罷	ba6			
+捌	捌	bad3			
+八	八	bad3			
+茇	茇	bad6			
+迫	迫	bag1/big1			
+伯	伯	bag3			
+佰	佰	bag3			
+百	百	bag3			
+匐	匐	bag6			
+帛	帛	bag6			
+卜	蔔	bag6			
+白	白	bag6			
+掰	掰	bai1/mag3			
+摆	擺	bai2			
+摆	襬	bai2			
+捭	捭	bai2			
+拜	拜	bai3			
+败	敗	bai6			
+稗	稗	bai6			
+斑	斑	ban1			
+班	班	ban1			
+瘢	瘢	ban1			
+颁	頒	ban1			
+版	版	ban2			
+舨	舨	ban2			
+板	板	ban2			
+板	闆	ban2			
+坂	坂	ban2			阪
+扮	扮	ban3	扮演，扮鬼脸，女扮男装，扮老头儿	化装成，面部表情装成	
+扮	扮	ban6	打扮，装扮	打扮，装扮	
+办	辦	ban6			
+湴	湴	ban6			
+蹦	蹦	bang6			
+褒	褒	bao1			
+包	包	bao1			
+鲍	鮑	bao1	鲍鱼	指活鲍鱼	
+苞	苞	bao1			
+胞	胞	bao1			
+孢	孢	bao1			
+饱	飽	bao2			
+爆	爆	bao3			
+鲍	鮑	bao6	鲍鱼	姓；也指干鲍鱼	
+龅	齙	bao6			
+不	不	bed1			
+笔	筆	bed1			
+毕	畢	bed1			
+钚	鈈	bed1			
+哔	嗶	bed1			
+筚	篳	bed1			
+跸	蹕	bed1			
+荜	蓽	bed1			
+拔	拔	bed6			
+钹	鈸	bed6			
+弼	弼	bed6			
+跋	跋	bed6			
+苾	苾	bed6			
+菝	菝	bed6			
+北	北	beg1			
+跛	跛	bei1/bo2			
+蔽	蔽	bei3			
+闭	閉	bei3			
+赑	贔	bei3			
+敝	敝	bei6			
+弊	弊	bei6			
+陛	陛	bei6			
+毙	斃	bei6			
+狴	狴	bei6			
+币	幣	bei6			
+泵	泵	bem1			
+乓	乓	bem1/pong1			
+奔	奔	ben1			
+槟	檳	ben1			
+宾	賓	ben1			
+缤	繽	ben1			
+滨	濱	ben1			
+斌	斌	ben1			
+彬	彬	ben1			
+贲	賁	ben1	贲张，贲门，虎贲	膈膜，横隔膜	
+濒	瀕	ben1/pen4			
+品	品	ben2			
+禀	稟	ben2			
+摈	擯	ben3			
+殡	殯	ben3			
+鬓	鬢	ben3			
+笨	笨	ben6			
+崩	崩	beng1			
+镚	鏰	beng1			
+绷	繃	beng1	绷紧，绷带，绷子，绷硬，绷亮，绷脆，绷直，紧绷，绷床，紧绷绷，绷场面，绷了一道缝儿	张紧，拉紧，包扎；裂开；（用于形容词前表示程度深）非常，很	綳
+觱	觱	bid1			
+必	必	bid1			
+别	彆	bid3			
+憋	憋	bid3			
+鳖	鱉	bid3			
+蹩	蹩	bid6			
+别	別	bid6			
+瘪	癟	bid6			
+壁	壁	big1			
+碧	碧	big1			
+逼	逼	big1			
+愎	愎	big1			
+璧	璧	big1			
+襞	襞	big1			
+边	邊	bin1			
+辫	辮	bin1			
+鞭	鞭	bin1			
+煸	煸	bin1			
+砭	砭	bin1			
+扁	扁	bin2	扁平，踩扁		
+匾	匾	bin2			
+贬	貶	bin2			
+变	變	bin3			
+便	便	bin6	便利，方便		
+卞	卞	bin6			
+辩	辯	bin6			
+辨	辨	bin6			
+汴	汴	bin6			
+兵	兵	bing1			
+冰	冰	bing1			
+乒	乒	bing1/ping1			
+丙	丙	bing2			
+秉	秉	bing2			
+炳	炳	bing2			
+屏	屏	bing2	屏气，屏息，屏除，屏弃，屏住呼吸	压制，抑止，停止，排除	
+饼	餅	bing2	饼干，馅饼		
+昺	昺	bing2			
+迸	迸	bing3			
+并	併	bing3/ping3			
+并	並	bing6			
+镳	鑣	biu1			
+彪	彪	biu1			
+标	標	biu1			
+表	錶	biu1			
+镖	鏢	biu1			
+飙	飆	biu1			
+膘	膘	biu1			
+骠	驃	biu1	黄骠马	一种黄毛夹有白色斑点的马	
+婊	婊	biu2			
+表	表	biu2			
+波	波	bo1			
+玻	玻	bo1			
+菠	菠	bo1			
+般	般	bo1	般若	（梵文音译词）	
+簸	簸	bo3	簸箕	（名词）	
+播	播	bo3			
+簸	簸	bo3/bo2	颠簸	（动词）	
+膊	膊	bog3			
+博	博	bog3			
+搏	搏	bog3			
+驳	駁	bog3			
+亳	亳	bog3			
+缚	縛	bog3/fog3			
+铂	鉑	bog6			
+泊	泊	bog6	湖泊，水泊，血泊，梁山泊，罗布泊	湖	
+箔	箔	bog6			
+礴	礴	bog6			
+雹	雹	bog6			
+薄	薄	bog6			
+舶	舶	bog6/pag3			
+泊	泊	bog6/pag3	停泊，漂泊，泊位，淡泊	停船靠岸	
+梆	梆	bong1			
+帮	幫	bong1			
+邦	邦	bong1			
+绑	綁	bong2			
+膀	膀	bong2	肩膀，臂膀，翅膀		
+榜	榜	bong2			
+蒡	蒡	bong2			
+傍	傍	bong6			
+镑	鎊	bong6			
+磅	磅	bong6	磅秤，过磅，磅体重，磅一磅	称重量的仪器；用磅秤称重量；（量词）英美制重量单位	
+晡	晡	bou1			
+保	保	bou2			
+鸨	鴇	bou2			
+堡	堡	bou2			
+圃	圃	bou2			
+宝	寶	bou2			
+葆	葆	bou2			
+补	補	bou2			
+褓	褓	bou2			
+布	佈	bou3			
+埔	埔	bou3			
+怖	怖	bou3			
+报	報	bou3			
+布	布	bou3			
+步	步	bou6			
+捕	捕	bou6			
+暴	暴	bou6			
+哺	哺	bou6			
+簿	簿	bou6			
+部	部	bou6			
+埠	埠	bou6/feo6			
+钵	缽	bud3			鉢，砵
+荸	荸	bud6			
+渤	渤	bud6			
+拨	撥	bud6			
+勃	勃	bud6			
+脖	脖	bud6			
+卜	卜	bug1			
+曝	曝	bug6			
+仆	僕	bug6			
+瀑	瀑	bug6			
+濮	濮	bug6			
+蹼	蹼	bug6			
+杯	杯	bui1			盃
+贝	貝	bui3			
+背	背	bui3	背部，背后，背景，背面，背影，背光，背脊，背叛，背弃，背约，背阴，背离，违背，驼背，后背，手背，纸背，背对着，背着脸，背地里，背着人，背山面海，背井离乡，背道而驰，背信弃义，背水一战，腹背受敌，芒刺在背，汗流浃背，人心向背，力透纸背	（名词）背部	
+辈	輩	bui3			
+狈	狽	bui3			
+背	背	bui3	背债，背负，背包，背枪，背黑锅，背包袱，背小孩，背责任，背起来，背得起，背负重任	（动词）用脊背驮东西	揹
+钡	鋇	bui3			
+背	背	bui6	背书，背诵，背熟，背静，很背，背运，背时，耳背，背听，背台词，手气背，背街小巷	（动词、形容词）默念，记忆；偏僻；听力不好	
+悖	悖	bui6			
+焙	焙	bui6			
+般	般	bun1	一般，那般，百般，万般无奈，如此这般	种，样，种类	
+搬	搬	bun1			
+本	本	bun2			
+畚	畚	bun2			
+苯	苯	bun2			
+半	半	bun3			
+拌	拌	bun6			
+叛	叛	bun6			
+绊	絆	bun6			
+畔	畔	bun6			
+胖	胖	bun6			
+伴	伴	bun6/pun2			
+甭	甭	bung3			
+啤	啤	bé1			
+呗	唄	bé6			
+碑	碑	béi1			
+卑	卑	béi1			
+裨	裨	béi1	裨益，无裨于事，大有裨益	补助	
+悲	悲	béi1			
+屄	屄	béi1			
+比	比	béi2			
+彼	彼	béi2			
+妣	妣	béi2			
+秕	秕	béi2			
+吡	吡	béi2	吡啶，吡咯	（音译用字）一种有机化合物	
+匕	匕	béi2/béi3			
+臂	臂	béi3			
+痹	痺	béi3			
+秘	秘	béi3			祕
+泌	泌	béi3			
+庇	庇	béi3			
+辔	轡	béi3			
+铋	鉍	béi3			
+贲	賁	béi3	贲临，贲然	装饰美好，华丽，光洁	
+备	備	béi6			
+被	被	béi6	被动，被害，被迫		
+鼻	鼻	béi6			
+箆	箆	béi6			
+避	避	béi6			
+糒	糒	béi6			
+惫	憊	béi6/bai6			
+饼	餅	béng2		（语音）	
+柄	柄	béng3/bing3			
+病	病	béng6/bing6			
+差	差	ca1	差别，差异，差错，差距，差劲，差点，偏差，时差，很差，差不多，差一点	不同，不同点，错误，缺，不好，不相合	
+叉	叉	ca1			
+杈	杈	ca1		一种叉形农具，用以堆柴草	
+岔	岔	ca3			
+杈	杈	ca3			
+诧	詫	ca3			
+衩	衩	ca3			
+姹	姹	ca3			奼
+杈	杈	ca3	杈子，树杈	植物的分枝	
+汊	汊	ca3			
+碴	碴	ca4			
+茬	茬	ca4			
+查	查	ca4	查看，检查	察看，核对	
+茶	茶	ca4			
+搽	搽	ca4			
+槎	槎	ca4			
+垞	垞	ca4			
+插	插	cab3			
+锸	鍤	cab3			
+刷	刷	cad3			
+獭	獺	cad3			
+擦	擦	cad3			
+察	察	cad3			
+唰	唰	cad3			
+礤	礤	cad3			
+刹	剎	cad3/sad3	刹那，古刹，刹那间	佛寺	
+拆	拆	cag3			
+册	冊	cag3			
+策	策	cag3			
+栅	柵	cag3			
+鲗	鰂	cag6			
+贼	賊	cag6			
+猜	猜	cai1			
+钗	釵	cai1			
+差	差	cai1	差遣，差役，差使，差事，兼差，出差，邮差，当差	派遣去作事	
+揣	揣	cai1	揣手，揣在怀里，揣在兜里	藏在衣服里	
+搋	搋	cai1			
+踩	踩	cai2			
+踹	踹	cai2			
+虿	蠆	cai3			
+柴	柴	cai4			
+豺	豺	cai4			
+侪	儕	cai4			
+搀	攙	cam1			
+参	參	cam1	参加，参与，参见，参考，参阅，参观，参军，参赛	加入	
+掺	摻	cam1			
+惨	慘	cam2			
+忏	懺	cam3			
+杉	杉	cam3/sam1			
+惭	慚	cam4			
+谗	讒	cam4			
+馋	饞	cam4			
+蚕	蠶	cam4			
+餐	餐	can1			
+产	產	can2			
+铲	鏟	can2			
+灿	燦	can3			
+璨	璨	can3			
+粲	粲	can3			
+残	殘	can4			
+撑	撐	cang1			
+瞠	瞠	cang1			
+橙	橙	cang4/cang2			
+锃	鋥	cang6			
+抄	抄	cao1			
+钞	鈔	cao1			
+吵	吵	cao2			
+炒	炒	cao2			
+肏	肏	cao3			操
+巢	巢	cao4			
+葺	葺	ceb1			
+缉	緝	ceb1			
+辑	輯	ceb1			
+漆	漆	ced1			
+柒	柒	ced1			
+七	七	ced1			
+测	測	ceg1			
+恻	惻	ceg1			
+凄	淒	cei1			
+妻	妻	cei1			
+栖	棲	cei1			
+悽	悽	cei1			
+砌	砌	cei3			
+沏	沏	cei3			
+切	切	cei3	一切	所有的	
+齐	齊	cei4			
+荠	薺	cei4	荸荠	一种可供食用的草本植物	
+蛴	蠐	cei4			
+荠	薺	cei5	荠菜，其甘如荠	一种可入药草本植物	
+侵	侵	cem1			
+棽	棽	cem1			
+参	參	cem1/cam1	参差，参差不齐	大小不一，不整齐的样子	
+寝	寢	cem2			
+碜	磣	cem2			
+谶	讖	cem3/cam3			
+沉	沉	cem4			沈
+寻	尋	cem4			
+荨	蕁	cem4			
+鲟	鱘	cem4			
+蕈	蕈	cem5			
+亲	親	cen1	亲戚，探亲		
+嗔	嗔	cen1			
+瞋	瞋	cen1			
+诊	診	cen2			
+哂	哂	cen2			
+矧	矧	cen2			
+疹	疹	cen2			
+缜	縝	cen2/zen2			
+衬	襯	cen3			
+趁	趁	cen3			
+亲	親	cen3	亲家，亲家公，亲家母	指两家儿女相婚配的亲戚关系	
+龀	齔	cen3			
+尘	塵	cen4			
+陈	陳	cen4			
+曾	曾	ceng4	曾经，未曾		
+层	層	ceng4			
+嶒	嶒	ceng4			
+秋	鞦	ceo1			
+抽	抽	ceo1			
+鳅	鰍	ceo1			
+秋	秋	ceo1			
+楸	楸	ceo1			
+丑	丑	ceo2			
+丑	醜	ceo2			
+瞅	瞅	ceo2			
+臭	臭	ceo3			
+糗	糗	ceo3			
+嗅	嗅	ceo3			
+凑	湊	ceo3			
+溴	溴	ceo3			
+惆	惆	ceo4			
+酬	酬	ceo4			
+绸	綢	ceo4			
+稠	稠	ceo4			
+畴	疇	ceo4			
+踌	躊	ceo4			
+囚	囚	ceo4			
+筹	籌	ceo4			
+泅	泅	ceo4			
+仇	仇	ceo4		（俗，姓）	
+俦	儔	ceo4			
+遒	遒	ceo4			
+初	初	co1			
+雏	雛	co1			
+刍	芻	co1			
+磋	磋	co1			
+搓	搓	co1			
+楚	楚	co2			
+础	礎	co2			
+憷	憷	co2			
+错	錯	co3	错误，犯错		
+锉	銼	co3			
+挫	挫	co3			
+锄	鋤	co4			
+痤	痤	co4			
+坐	坐	co5		（口语）	
+错	錯	cog3	错乱，交错，错杂，错综复杂，犬牙交错		
+采	採	coi2			
+睬	睬	coi2			
+采	采	coi2			
+彩	綵	coi2			
+彩	彩	coi2			
+菜	菜	coi3			
+赛	賽	coi3			
+蔡	蔡	coi3			
+塞	塞	coi3	塞外，要塞，边塞，关塞，塞翁失马	边界上的险要地方	
+材	材	coi4			
+裁	裁	coi4			
+才	才	coi4			纔
+财	財	coi4			
+沧	滄	cong1			
+创	創	cong1	创伤，创痕，创口，重创，刀创，重创敌军	伤口，打击	
+伧	傖	cong1			
+疮	瘡	cong1			
+苍	蒼	cong1			
+舱	艙	cong1			
+仓	倉	cong1			
+敞	敞	cong2			
+厂	廠	cong2			
+闯	闖	cong2			
+氅	氅	cong2			
+昶	昶	cong2			
+创	創	cong3	创办，创建，创刊，创举，首创	初次，开始做	
+藏	藏	cong4	躲藏，隐藏，收藏	躲，收好	
+床	床	cong4			牀
+幢	幢	cong4	幢幡，旗幢，人影幢幢	（古）旌旗的一种	
+操	操	cou1	操作，体操	拿，掌握，锻炼，从事	
+粗	粗	cou1			
+草	草	cou2			
+措	措	cou3			
+糙	糙	cou3			
+醋	醋	cou3			
+躁	躁	cou3			
+燥	燥	cou3			
+噪	噪	cou3			
+造	造	cou3	造诣，造就，造访，造次，深造，登峰造极	成就，培养，到，去，达到，前往	
+酢	酢	cou3	酬酢	醋	
+操	操	cou3/cou1	操行，操守，贞操，节操	品行，行为，德行，品格	
+曹	曹	cou4			
+嘈	嘈	cou4			
+漕	漕	cou4			
+槽	槽	cou4			
+螬	螬	cou4			
+搐	搐	cug1			
+束	束	cug1			
+矗	矗	cug1			
+蹙	蹙	cug1			
+畜	畜	cug1			
+簇	簇	cug1			
+蓄	蓄	cug1			
+促	促	cug1			
+速	速	cug1			
+簌	簌	cug1			
+蹴	蹴	cug1			
+龊	齪	cug1			
+亍	亍	cug1			
+俶	俶	cug1			
+触	觸	cug1/zug1			
+匆	匆	cung1			
+忡	忡	cung1			
+冲	衝	cung1			
+聪	聰	cung1			
+冲	沖	cung1			
+囱	囪	cung1			
+憧	憧	cung1			
+葱	蔥	cung1			
+涌	涌	cung1			
+充	充	cung1			
+枞	樅	cung1	枞树，枞酸	（树名）冷杉	
+骢	驄	cung1			
+衷	衷	cung1/zung1			
+宠	寵	cung2			
+冢	冢	cung2			塚
+从	從	cung4	从前，从来，从没，从此，从事，从军，从速，从简，从宽，从严，跟从，服从，顺从，从头来过，力不从心	跟随，依顺，处理；由，自	
+丛	叢	cung4			
+重	重	cung4	重新，重复，重来，重叠，重建，重申，重演，重逢，重温，重围，重洋，重重，双重，九重天，重整旗鼓，重蹈覆辙，重见天日，旧地重游，卷土重来	再，另，又一次	
+松	松	cung4			
+琮	琮	cung4			
+虫	蟲	cung4			
+重	重	cung5	重量，重负，重担，重金，重赏，重罚，重罪，重伤，重病，重听，重型，重兵，轻重，深重，体重，净重，举重，繁重，超重，载重，比重，很重，重武器，避重就轻，举足轻重，忍辱负重	分量大，数量多，程度深	
+奢	奢	cé1			
+车	車	cé1	汽车，马车，公车，火车，纺车，水车，风车	指有轮子的运输工具	
+伡	俥	cé1/gêu1			
+扯	扯	cé2			
+且	且	cé2			
+邪	邪	cé4	邪恶，邪门，邪说，邪念，无邪，中邪，风邪，邪魔外道，改邪归正	不正当	
+斜	斜	cé4			
+𪨶	輋	cé4			
+尺	尺	cég3			
+赤	赤	cég3			
+呎	呎	cég3			
+出	齣	cêd1			
+出	出	cêd1			
+卓	卓	cêg3			
+戳	戳	cêg3			
+绰	綽	cêg3			
+辵	辵	cêg3			
+焯	焯	cêg3	焯菠菜	在开水中略煮一下	
+春	春	cên1			
+椿	椿	cên1			
+蠢	蠢	cên2			
+旬	旬	cên4			
+循	循	cên4			
+秦	秦	cên4			
+巡	巡	cên4			
+嗪	嗪	cên4			
+螓	螓	cên4			
+枪	槍	cêng1			鎗
+鲳	鯧	cêng1			
+呛	嗆	cêng1	呛水，呛着，够呛	食物进入气管而引起咳嗽	
+昌	昌	cêng1			
+窗	窗	cêng1			
+戗	戧	cêng1	戗风，说戗了，说话戗人	逆，不顺，方向相对；决裂，言语冲突	
+猖	猖	cêng1			
+菖	菖	cêng1			
+锵	鏘	cêng1			
+抢	搶	cêng1	抢风，抢眼，呼天抢地	触，撞，触碰，碰撞	
+伥	倀	cêng1			
+娼	娼	cêng1			
+抢	搶	cêng2	抢劫，抢夺，抢救，抢先，抢走，争抢	夺取，硬拿	
+唱	唱	cêng3			
+戗	戧	cêng3	戗住，戗面，够戧，戗不住	支撑，支持，承受；填	
+怅	悵	cêng3			
+倡	倡	cêng3			
+畅	暢	cêng3			
+跄	蹌	cêng3			
+呛	嗆	cêng3	呛人	刺激性的气味使人呼吸感到难受	
+炝	熗	cêng3			
+鬯	鬯	cêng3			
+祥	祥	cêng4			
+墙	牆	cêng4			墻
+蔷	薔	cêng4			
+翔	翔	cêng4			
+肠	腸	cêng4			
+场	場	cêng4			
+戕	戕	cêng4			
+长	長	cêng4	长度，专长	（形容词）	
+樯	檣	cêng4			
+详	詳	cêng4			
+苌	萇	cêng4			
+催	催	cêu1			
+炊	炊	cêu1			
+摧	摧	cêu1			
+吹	吹	cêu1			
+趋	趨	cêu1			
+崔	崔	cêu1			
+榱	榱	cêu1			
+衰	衰	cêu1	衰序，等衰	次序，等级	
+璀	璀	cêu1/cêu2			
+娶	娶	cêu2			
+取	取	cêu2			
+揣	揣	cêu2/qun2	揣测，揣度，揣摩，挣揣，不揣冒昧	估量，忖度；挣扎	
+脆	脆	cêu3			
+趣	趣	cêu3			
+啐	啐	cêu3			
+觑	覷	cêu3			
+翠	翠	cêu3			
+焠	焠	cêu3/sêu6			
+淬	淬	cêu3/sêu6			
+除	除	cêu4			
+槌	槌	cêu4			
+隋	隋	cêu4			
+捶	捶	cêu4			搥
+锤	錘	cêu4			鎚
+蜍	蜍	cêu4			
+徐	徐	cêu4			
+随	隨	cêu4			
+滁	滁	cêu4			
+打	打	da1	一打鸡蛋，一打铅笔	（量词）指十二个	
+打	打	da2	打鼓，打扫，打更，打碎，打人，打架，打仗，打猎，打开，打赌，打算，敲打，拍打，攻打，殴打，打招呼，打擂台，打喷嚏，打呵欠，打草惊蛇，打抱不平，打退堂鼓，精打细算，一网打尽，趁火打劫，无精打采	拍，敲，捶，敲击，拍打；也表示某些特定的动作、活动、行动等	
+搭	搭	dab3			
+耷	耷	dab3			
+答	答	dab3			
+瘩	瘩	dab3			
+踏	踏	dab6			
+蹋	蹋	dab6			
+沓	沓	dab6			
+靼	靼	dad3			
+妲	妲	dad3/tan2			
+达	達	dad6			
+繨	繨	dad6			
+哒	噠	dad6			
+荙	薘	dad6			
+呆	呆	dai1	呆子，书呆子，呆一会儿	发愣，死板，不灵活，不自然	獃
+歹	歹	dai2			
+带	帶	dai3			
+戴	戴	dai3			
+大	大	dai6			
+担	擔	dam1	担米，担柴，担水，担当，担心，担负，担任，担忧，担保，担待，负担，承担，分担，担风险，担当重任，担负责任	用肩膀挑，负责，负起，承当；忧虑，记挂，操心	
+耽	耽	dam1			
+眈	眈	dam1			
+儋	儋	dam1			
+聃	聃	dam1			
+胆	膽	dam2			
+石	石	dam3	一石米	市制容量单位	
+担	擔	dam3	担子，扁担，重担，货郎担，挑重担，勇挑重担，生活重担	挑东西的工具；肩负的责任、工作、任务	
+氮	氮	dam6			
+淡	淡	dam6	淡忘，冷淡，平淡，淡月，淡季，淡淡地说	感情不深，不热心；没有意味；生意不兴旺	
+澹	澹	dam6	澹灾	消除	
+窞	窞	dam6			
+萏	萏	dam6			
+淡	淡	dam6/tam5	淡水，淡绿，淡酒，清淡	盐份少，不咸；某成分少，不浓	
+单	單	dan1	单薄，单独，单纯，单程，简单，帐单，床单	一个，独自，不复杂	
+郸	鄲	dan1			
+丹	丹	dan1			
+殚	殫	dan1			
+瘅	癉	dan1	瘅疟，瘅热	中医指疟疾的一种	
+弹	彈	dan2	弹头，弹丸，弹弓，弹道，弹药，子弹，导弹，炮弹，炸弹，中弹，原子弹，手榴弹	（口语）弹弓或枪械发射的小丸；炸弹之类的爆炸物	
+旦	旦	dan3			
+诞	誕	dan3			
+瘅	癉	dan3	瘅恶，卒瘅，彰善瘅恶	憎恨	
+掸	撢	dan5	掸子，掸土，掸衣服，鸡毛掸子	拂尘用具，以鸡毛或不条作成；用掸子扫去灰尘	撣
+掸	撣	dan5	掸掸	儆戒；恭敬	
+蛋	蛋	dan6			
+但	但	dan6			
+弹	彈	dan6	弹射，弹性，弹力，弹簧，弹指，弹跳，弹头，弹丸，弹弓，弹道，弹药，动弹，反弹，子弹，导弹，炮弹，炸弹，中弹，弹棉花，原子弹，手榴弹	（名词）弹弓或枪械发射的小丸；炸弹之类的爆炸物；（动词）物体由紧缩到伸展产生力量	
+惮	憚	dan6			
+疍	疍	dan6			
+突	突	ded6			
+凸	凸	ded6			
+吐	吐	ded6	吐谷浑	（中国古代少数民族）	
+德	德	deg1			
+得	得	deg1			
+特	特	deg6			
+低	低	dei1			
+磾	磾	dei1			
+抵	抵	dei2			
+柢	柢	dei2			
+底	底	dei2			
+骶	骶	dei2			
+诋	詆	dei2			
+邸	邸	dei2			
+碲	碲	dei3			
+帝	帝	dei3			
+蒂	蒂	dei3			
+缔	締	dei3			
+谛	諦	dei3			
+弟	弟	dei6			
+悌	悌	dei6			
+棣	棣	dei6			
+递	遞	dei6			
+第	第	dei6			
+隶	隸	dei6			
+逮	逮	dei6/doi6			
+墩	墩	den2	门墩，桥墩	厚而粗的木头、石头等	
+炖	燉	den6			
+灯	燈	deng1			
+蹬	蹬	deng1			
+登	登	deng1			
+噔	噔	deng1			
+等	等	deng2			
+凳	凳	deng3			櫈
+镫	鐙	deng3			
+磴	磴	deng3			
+邓	鄧	deng6			
+瞪	瞪	deng6/deng1			
+兜	兜	deo1			
+陡	陡	deo2			
+斗	斗	deo2			
+抖	抖	deo2			
+蚪	蚪	deo2			
+纠	糾	deo2/geo2			
+斗	鬥	deo3			
+窦	竇	deo6			
+痘	痘	deo6			
+逗	逗	deo6			
+读	讀	deo6	句读	（古）文章里停顿的地方	
+豆	豆	deo6/deo2			
+叠	疊	dib6			
+碟	碟	dib6			
+蝶	蝶	dib6			
+喋	喋	dib6			
+牒	牒	dib6			
+谍	諜	dib6			
+鲽	鰈	dib6			
+跌	跌	did3			
+耋	耋	did6			
+迭	迭	did6			
+秩	秩	did6			
+瓞	瓞	did6			
+嫡	嫡	dig1			
+滴	滴	dig1			
+的	的	dig1			
+迪	迪	dig6			
+狄	狄	dig6			
+翟	翟	dig6	墨翟	（古）长尾野鸡的羽毛	
+涤	滌	dig6			
+敌	敵	dig6			
+荻	荻	dig6			
+掂	掂	dim1			
+点	點	dim2			
+店	店	dim3			
+玷	玷	dim3			
+惦	惦	dim3			
+踮	踮	dim3			
+颠	顛	din1			
+巅	巔	din1			
+癫	癲	din1			
+碘	碘	din1	碘酒		
+垫	墊	din2	垫子，椅垫，鞋垫，靠垫，草垫	（名词）衬托的东西	
+典	典	din2			
+碘	碘	din2		化学元素53	
+垫	墊	din3	垫高，垫好，垫平，垫上，垫桌子	（动词）衬托	
+靛	靛	din6			
+淀	澱	din6			
+电	電	din6			
+垫	墊	din6	垫钱，垫款	暂时替别人付款	
+佃	佃	din6			
+殿	殿	din6			
+甸	甸	din6			
+奠	奠	din6			
+丁	丁	ding1			
+仃	仃	ding1			
+汀	汀	ding1		（俗）	
+町	町	ding1			
+玎	玎	ding1			
+钉	釘	ding1/déng1			
+叮	叮	ding1/déng1			
+盯	盯	ding1/déng1			
+顶	頂	ding2			
+酊	酊	ding2			
+鼎	鼎	ding2			
+碇	碇	ding3			
+锭	錠	ding3/ding6			
+订	訂	ding3/ding6			
+定	定	ding6			
+啶	啶	ding6			
+雕	雕	diu1			彫
+貂	貂	diu1			
+叼	叼	diu1			
+鲷	鯛	diu1			
+凋	凋	diu1			
+刁	刁	diu1			
+丢	丟	diu1			
+碉	碉	diu1			
+雕	鵰	diu1			
+屌	屌	diu2			
+吊	弔	diu3	吊唁，吊孝，吊丧	祭奠死者	
+吊	吊	diu3	悬吊，吊桥，吊销	悬挂，悬挂的；收回，扣留	
+钓	釣	diu3			
+铞	銱	diu3			
+掉	掉	diu6			
+调	調	diu6	调查，调动，调职，调遣，调离，调配，调子，曲调，腔调，低调，强调，声调，论调，情调，步调，单调		
+多	多	do1			
+哆	哆	do1			
+跺	跺	do2			跥
+躲	躲	do2			
+亸	嚲	do2			
+埵	埵	do2			
+朵	朵	do2/dê2			
+剁	剁	do2/dêg3			
+驮	馱	do6	驮子，一驮粮，一驮货	（名词、量词）用于牲口载的货	
+惰	惰	do6			
+堕	墮	do6			
+度	度	dog6	忖度，揣度，测度，度德量力，以己度人	计算，推测，估计	
+铎	鐸	dog6			
+踱	踱	dog6			
+袋	袋	doi6			
+待	待	doi6			
+甙	甙	doi6			
+岱	岱	doi6			
+黛	黛	doi6			
+叇	靆	doi6			
+代	代	doi6			
+玳	玳	doi6			
+殆	殆	doi6/toi5			
+怠	怠	doi6/toi5			
+铛	鐺	dong1			
+当	噹	dong1			
+当	當	dong1	当下，当中，当然，当心，当时，当代，当众，当兵，当官，当家，当初，当地，当头，当局，当选，当道，当面，应当，担当，敢当，正当，相当，当老师，不敢当	担任，执掌，承担，面向，阻拦，应该，正在	
+裆	襠	dong1			
+挡	擋	dong2			
+党	黨	dong2			
+档	檔	dong3			
+当	當	dong3	当成，当日，当真，当铺，上当，不当，妥当，恰当，适当，失当，勾当，当作，便当，停当，典当	合适，抵得上，认为，作为，圈套，事情发生的同一时间，典押，抵押	
+荡	蕩	dong6			
+荡	盪	dong6			
+宕	宕	dong6			
+砀	碭	dong6			
+菪	菪	dong6			
+都	都	dou1			
+嘟	嘟	dou1			
+叨	叨	dou1	叨念，叨叨，唠叨，絮叨，念叨，磨叨，絮絮叨叨	罗嗦，话多	
+刀	刀	dou1			
+倒	倒	dou2	倒塌，倒向，倒霉，倒闭，倒换，倒茶，倒水，倒胃口，摔倒，跌倒，颠倒，倒垃圾，排山倒海	竖立的东西落下来；转换，更换，调转；使容器里的东西出来	
+赌	賭	dou2			
+堵	堵	dou2			
+捣	搗	dou2			
+岛	島	dou2			
+睹	睹	dou2			
+倒	倒	dou3	倒是，倒车，倒立，倒数，倒退，倒序，倒过来，倒不如，喝倒彩，倒背如流，本末倒置	相反的，反面的，位置弄反了的；向后；跟意料相反	
+妒	妒	dou3			
+蠹	蠹	dou3			
+到	到	dou3			
+盗	盜	dou6			
+稻	稻	dou6			
+杜	杜	dou6			
+导	導	dou6			
+蹈	蹈	dou6			
+度	度	dou6	度过，度假，度量，角度，温度，长度，高度，进度，限度，制度，态度，风度，气度，程度，再度，过度，年度，度量衡，度日如年，一年一度		
+渡	渡	dou6			
+悼	悼	dou6			
+道	道	dou6			
+镀	鍍	dou6			
+芏	芏	dou6			
+督	督	dug1			
+笃	篤	dug1			
+叾	叾	dug1			
+犊	犢	dug6			
+毒	毒	dug6			
+渎	瀆	dug6			
+黩	黷	dug6			
+牍	牘	dug6			
+独	獨	dug6			
+读	讀	dug6	读书，阅读	（动词）看书	
+碡	碡	dug6			
+髑	髑	dug6			
+椟	櫝	dug6			
+冬	冬	dung1			
+氡	氡	dung1			
+东	東	dung1			
+咚	咚	dung1			
+懂	懂	dung2			
+董	董	dung2			
+踵	踵	dung2			
+冻	凍	dung3			
+栋	棟	dung3			
+恸	慟	dung6			
+胴	胴	dung6			
+恫	恫	dung6			
+洞	洞	dung6			
+侗	侗	dung6			
+动	動	dung6			
+爹	爹	dé1			
+嗲	嗲	dé2			
+籴	糴	dég6			
+笛	笛	dég6			
+地	地	déi6			
+咄	咄	dêd1	咄咄逼人	斥责，呵叱	
+啄	啄	dêg3			
+琢	琢	dêg3			
+斫	斲	dêg3	斫轮，斫丧	砍，削，雕	
+涿	涿	dêg3			
+墩	墩	dên1	土墩	量词，也指土堆	
+蹲	蹲	dên1			
+惇	惇	dên1			
+敦	敦	dên1			
+遁	遁	dên6			
+顿	頓	dên6			
+钝	鈍	dên6			
+沌	沌	dên6			
+盹	盹	dên6			
+吨	噸	dên6			
+堆	堆	dêu1			
+对	對	dêu3			
+队	隊	dêu6			
+兑	兌	dêu6			
+夺	奪	düd6			
+端	端	dün1			
+短	短	dün2			
+锻	鍛	dün3			
+煅	煅	dün3			
+断	斷	dün3	断定，断案，断然，诊断，下断语，当机立断	判断，决定，判定，一定，绝对	
+段	段	dün6			
+缎	緞	dün6			
+断	斷	dün6	断绝，断电，断交，断奶，断气，割断，截断，绳子断了	长形的东西折掉或从中间截开，隔绝，不继续	
+哑	啞	eg1	哑哑，哑然失笑，笑之哑哑	（象声词）形容笑声	
+厄	厄	eg1/ag1			
+扼	扼	eg1/ag1			
+幄	幄	eg1/ag1			
+握	握	eg1/ag1			
+渥	渥	eg1/ag1			
+龌	齷	eg1/ag1			
+哎	哎	ei1			
+唉	唉	ei1	唉声叹气	（叹词）表示失望或无可奈何	
+矮	矮	ei2			
+唉	唉	ei3		（叹词）表示伤感或惋惜	
+缢	縊	ei3			
+屃	屭	ei3			屓
+鹌	鵪	em1			
+庵	庵	em1			
+谙	諳	em1			
+黯	黯	em2			
+揞	揞	em2			
+暗	暗	em3			
+莺	鶯	eng1			
+罂	罌	eng1	罂粟	一种花	
+区	區	eo1		（姓）	
+欧	歐	eo1			
+鸥	鷗	eo1			
+瓯	甌	eo1			
+讴	謳	eo1			
+沤	漚	eo1	浮沤	水泡	
+呕	嘔	eo2			
+殴	毆	eo2/eo1			
+怄	慪	eo3			
+沤	漚	eo3	沤肥，沤田，沤麻	在水中长时间地浸泡以使起变化	
+凹	凹	eo3/neb1	凹透镜，凹凸不平	洼下，跟“凸”相反	
+花	花	fa1			
+化	化	fa3			
+珐	琺	fad3			
+发	髮	fad3			
+法	法	fad3			
+发	發	fad3			
+快	快	fai3			
+块	塊	fai3			
+傀	傀	fai3			
+筷	筷	fai3			
+哙	噲	fai3			
+番	番	fan1	一番，轮番，三番五次	（量词）种，样，回，次，遍；更替，替换	
+旛	旛	fan1			
+幡	幡	fan1			
+翻	翻	fan1			飜，繙
+番	番	fan1	番人，番邦，番茄，番薯，番石榴	未开化的；外国的，外族的	蕃
+反	反	fan2			
+返	返	fan2			
+犯	犯	fan2	战犯，要犯，贪污犯	（名词）犯罪的人	
+贩	販	fan3/fan2			
+泛	泛	fan3/fan6			氾，汎
+繁	繁	fan4			
+帆	帆	fan4			
+凡	凡	fan4			
+烦	煩	fan4			
+钒	釩	fan4			
+藩	藩	fan4			
+樊	樊	fan4			
+矾	礬	fan4			
+蕃	蕃	fan4	蕃茂，蕃昌	草木茂盛	
+璠	璠	fan4			
+梵	梵	fan4/fan6			
+瓣	瓣	fan6			
+饭	飯	fan6			
+范	範	fan6			
+犯	犯	fan6	犯错，犯病，犯忌，犯不着	（动词）	
+范	范	fan6			
+拂	拂	fed1			
+惚	惚	fed1			
+囫	囫	fed1			
+弗	弗	fed1			
+忽	忽	fed1			
+窟	窟	fed1			
+氟	氟	fed1			
+笏	笏	fed1			
+佛	彿	fed1			
+伐	伐	fed6			
+筏	筏	fed6			
+佛	佛	fed6			
+阀	閥	fed6			
+乏	乏	fed6			
+罚	罰	fed6			
+晖	暉	fei1			
+挥	揮	fei1			
+辉	輝	fei1			
+徽	徽	fei1			
+撝	撝	fei1			
+煇	煇	fei1			
+袆	褘	fei1			
+隳	隳	fei1			
+痱	痱	fei2			
+沸	沸	fei3			
+废	廢	fei3			
+肺	肺	fei3			
+费	費	fei3			
+狒	狒	fei3			
+吠	吠	fei6			
+婚	婚	fen1			
+薰	薰	fen1			
+氛	氛	fen1			
+纷	紛	fen1			
+分	分	fen1	分开，分别，分数，分裂，分明，分离，分出，分散，分隔，分辨，分割，分成，分手，分担，分支，分局，分会，分校，分贝，分配，分钟，分队，分头，区分，满分，划分，零分，分工作，分公司，一百分，百分之一，分清是非，分一杯羹，不分青红皁白	把整体变成几个局部的个体；辨别，区别，离别；（量词）长度、时间、成绩、钱等的单位	
+熏	熏	fen1			
+熏	燻	fen1			
+醺	醺	fen1			
+荤	葷	fen1			
+昏	昏	fen1			
+酚	酚	fen1			
+芬	芬	fen1			
+吩	吩	fen1			
+勋	勳	fen1			勛
+棻	棻	fen1			
+粉	粉	fen2			
+粪	糞	fen3			
+训	訓	fen3			
+坟	墳	fen4			
+焚	焚	fen4			
+汾	汾	fen4			
+愤	憤	fen5			
+奋	奮	fen5			
+忿	忿	fen5			
+份	份	fen6			
+分	分	fen6	分量，部分，成分，身分，过分，本分，名分，缘分，情分，糖分，养分	整体中的局部	份
+否	否	feo2	否认，否定，否决，否则，是否，可否，与否	不然，反对，不同意	
+浮	浮	feo4			
+涪	涪	feo4			
+阜	阜	feo6			
+科	科	fo1			
+蝌	蝌	fo1			
+伙	伙	fo2			
+火	火	fo2			
+颗	顆	fo2			
+伙	夥	fo2			
+课	課	fo3			
+货	貨	fo3			
+攫	攫	fog3			
+霍	霍	fog3			
+藿	藿	fog3			
+矍	矍	fog3			
+方	方	fong1			
+荒	荒	fong1			
+芳	芳	fong1			
+慌	慌	fong1			
+坊	坊	fong1			
+肪	肪	fong1			
+邡	邡	fong1			
+谎	謊	fong1/fong2			
+恍	恍	fong2			
+幌	幌	fong2			
+纺	紡	fong2			
+访	訪	fong2			
+仿	彷	fong2	仿佛	好像，似乎	
+晃	晃	fong2			
+仿	仿	fong2			倣
+舫	舫	fong2			
+况	況	fong3			
+放	放	fong3			
+妨	妨	fong4			
+房	房	fong4			
+防	防	fong4			
+俘	俘	fu1			
+枯	枯	fu1			
+呼	呼	fu1			
+麸	麩	fu1			
+孵	孵	fu1			
+肤	膚	fu1			
+孚	孚	fu1			
+敷	敷	fu1			
+夫	夫	fu1			
+骷	骷	fu1			
+轷	軤	fu1			
+刳	刳	fu1			
+跗	跗	fu1			
+伕	伕	fu1			
+唬	唬	fu2			
+腑	腑	fu2			
+抚	撫	fu2			
+釜	釜	fu2			
+拊	拊	fu2			
+琥	琥	fu2			
+俯	俯	fu2			
+甫	甫	fu2			
+斧	斧	fu2			
+府	府	fu2			
+虎	虎	fu2			
+苦	苦	fu2			
+富	富	fu3			
+赋	賦	fu3			
+库	庫	fu3			
+副	副	fu3			
+裤	褲	fu3			
+绔	絝	fu3			
+戽	戽	fu3			
+芙	芙	fu4			
+乎	乎	fu4			
+扶	扶	fu4			
+符	符	fu4			
+苻	苻	fu4			
+妇	婦	fu5			
+腐	腐	fu6			
+仆	仆	fu6	前仆后继	跌倒；以面伏地	
+赴	赴	fu6			
+负	負	fu6			
+附	附	fu6			
+辅	輔	fu6			
+父	父	fu6			
+讣	訃	fu6			
+咐	咐	fu6			
+付	付	fu6			
+傅	傅	fu6			
+鲋	鮒	fu6			
+驸	駙	fu6			
+阔	闊	fud3			
+复	複	fug1			
+辐	輻	fug1			
+覆	覆	fug1			
+福	福	fug1			
+幅	幅	fug1			
+馥	馥	fug1			
+蝮	蝮	fug1			
+蝠	蝠	fug1			
+腹	腹	fug1			
+伏	伏	fug6			
+袱	袱	fug6			
+复	復	fug6			
+服	服	fug6			
+茯	茯	fug6			
+宓	宓	fug6		（姓）	
+恢	恢	fui1			
+魁	魁	fui1			
+灰	灰	fui1			
+诙	詼	fui1			
+奎	奎	fui1/kwei1			
+鲔	鮪	fui2			
+悔	悔	fui3			
+诲	誨	fui3			
+晦	晦	fui3			
+髋	髖	fun1			
+獾	貛	fun1			
+宽	寬	fun1			
+欢	歡	fun1			
+款	款	fun2			
+丰	豐	fung1			
+疯	瘋	fung1			
+风	風	fung1			
+烽	烽	fung1			
+丰	丰	fung1			
+枫	楓	fung1			
+峰	峰	fung1			峯
+锋	鋒	fung1			
+蜂	蜂	fung1			
+封	封	fung1			
+犎	犎	fung1			
+酆	酆	fung1			
+讽	諷	fung3			
+逢	逢	fung4			
+冯	馮	fung4			
+缝	縫	fung4	缝纫，缝补，缝上，裁缝	（动词）用针线连结	
+缝	縫	fung4/fung6	缝子，缝隙，裂缝，门缝	（名词）空隙，细长的口子；接合的地方	
+凤	鳳	fung6			
+奉	奉	fung6			
+俸	俸	fung6/fung2			
+啡	啡	fé1			
+非	非	féi1			
+飞	飛	féi1			
+妃	妃	féi1			
+绯	緋	féi1			
+鲱	鯡	féi1			
+菲	菲	féi1	菲菲，芳菲	花草茂盛	
+蜚	蜚	féi1			
+扉	扉	féi1			
+霏	霏	féi1			
+斐	斐	féi2			
+翡	翡	féi2			
+匪	匪	féi2			
+诽	誹	féi2			
+榧	榧	féi2			
+悱	悱	féi2			
+菲	菲	féi2	妄自菲薄	微薄	
+腓	腓	féi4			
+肥	肥	féi4			
+加	加	ga1			
+珈	珈	ga1			
+迦	迦	ga1			
+家	家	ga1			
+枷	枷	ga1			
+袈	袈	ga1			
+伽	伽	ga1			
+家	傢	ga1			
+嘉	嘉	ga1			
+痂	痂	ga1			
+镓	鎵	ga1			
+噶	噶	ga1			
+豭	豭	ga1			
+茄	茄	ga1	雪茄	（音译用字）	
+贾	賈	ga2		（姓）	
+架	架	ga2	架子，书架，衣架，骨架	用做支承的东西	
+尕	尕	ga2			
+假	假	ga2	假设，虚假，造假	（形容词）	
+斝	斝	ga2			
+槚	檟	ga2			
+驾	駕	ga3			
+嫁	嫁	ga3			
+稼	稼	ga3			
+假	假	ga3	假期，放假，度假	（名词）	
+咖	咖	ga3			
+价	價	ga3			
+架	架	ga3	架桥，打架，吵架，招架，绑架	支承；殴打，争吵；抵挡；（量词）指有架的东西	
+蛱	蛺	gab3			
+钾	鉀	gab3			
+颊	頰	gab3			
+甲	甲	gab3			
+饸	餄	gab3			
+荚	莢	gab3			
+夹	夾	gab3			
+胛	胛	gab3			
+郏	郟	gab3			
+岬	岬	gab3			
+袷	袷	gab3			
+嗑	嗑	gab3	嗑儿，嗑牙，唠嗑，闲嗑	（方言）话	
+轧	軋	gad3	轧账，轧朋友，人轧人	（方言）挤，结交，核对	
+骼	骼	gag3			
+膈	膈	gag3			
+革	革	gag3	革命，革新，革除，革履，革職，皮革，改革，變革，洗心革面	去毛加工的兽皮；改变，变更	
+格	格	gag3			
+胳	胳	gag3			
+嗝	嗝	gag3			
+镉	鎘	gag3			
+隔	隔	gag3			
+佳	佳	gai1			
+皆	皆	gai1			
+街	街	gai1			
+偕	偕	gai1			
+秸	秸	gai1			
+阶	階	gai1			
+解	解	gai2	解释，解决，解答，解渴，解约，解数，了解，不解，瓦解，注解，浑身解数	分开，分裂，说明，打开，消除；手段，本事	
+蚧	蚧	gai2/gwai2			
+诫	誡	gai3			
+介	介	gai3			
+届	屆	gai3			
+尬	尬	gai3			
+界	界	gai3			
+戒	戒	gai3			
+芥	芥	gai3			
+疥	疥	gai3			
+解	解	gai3	解送，解款，押解，起解	押送	
+监	監	gam1	监督，监视，监听，监狱，监牢		
+缄	緘	gam1			
+尴	尷	gam1/gam3			
+减	減	gam2			
+监	監	gam3	太监		
+鉴	鑑	gam3			鑒
+奸	奸	gan1			
+间	間	gan1	时间，空间，房间，中间，期间，之间，人间，洗手间，刹那间	时空的段落；两个事物之中；地方，处所	
+奸	姦	gan1			
+艰	艱	gan1			
+柬	柬	gan2			
+拣	揀	gan2			
+简	簡	gan2			
+茧	繭	gan2			
+锏	鐧	gan2			
+碱	鹼	gan2			礆，硷
+笕	筧	gan2			
+间	間	gan3	间接，间断，间谍，间隔，间隙，间或，相间，反间，挑拨离间，亲密无间	空隙；分隔，隔开；挑拨，分化，使人不和	
+谏	諫	gan3			
+涧	澗	gan3			
+間	間	gan3	时间	（俗）	
+耕	耕	gang1			
+更	更	gang1	打更，三更半夜，更深人静	（口语）一夜的五分之一的时间	
+胶	膠	gao1			
+茭	茭	gao1			
+郊	郊	gao1			
+蛟	蛟	gao1			
+交	交	gao1			
+跤	跤	gao1			
+鲛	鮫	gao1			
+皎	皎	gao2			
+佼	佼	gao2			
+铰	鉸	gao2	铰孔，铰开，铰开，铰接	（动词）用剪刀剪或切削	
+绞	絞	gao2			
+搅	攪	gao2			
+姣	姣	gao2			
+狡	狡	gao2			
+饺	餃	gao2			
+搞	搞	gao2			
+较	較	gao3			
+铰	鉸	gao3	铰刀，铰链	（名词）剪刀；合页	
+窖	窖	gao3			
+觉	覺	gao3	睡觉，午觉	（名词）指睡眠	
+教	教	gao3			敎
+校	校	gao3	校对，校正，校改，校订，校官，校勘，校稿，校样，将校，上校，中校，少校	纠正，订正，改正；一种军衔	
+滘	滘	gao3			
+酵	酵	gao3/hao1			
+急	急	geb1			
+鸽	鴿	geb3			
+蛤	蛤	geb3	蛤蜊，蛤蚧		
+盖	蓋	geb3		（姓）	
+吉	吉	ged1			
+讫	訖	ged1			
+纥	紇	ged1	纥繨	纱线、织物等打成的结	
+桔	桔	ged1			
+嘎	嘎	ged3			
+疙	疙	ged6			
+鸡	雞	gei1			鷄
+笄	笄	gei1			
+计	計	gei3			
+髻	髻	gei3			
+蓟	薊	gei3			
+继	繼	gei3			
+炔	炔	gei3		（姓）	
+偈	偈	gei6	偈语，偈子，偈颂，佛偈	佛经中的唱词	
+金	金	gem1			
+柑	柑	gem1			
+今	今	gem1			
+甘	甘	gem1			
+苷	苷	gem1			
+禁	禁	gem1	不禁，禁不起，情不自禁	承受，忍住，忍耐	
+泔	泔	gem1			
+感	感	gem2			
+敢	敢	gem2			
+橄	橄	gem2			
+锦	錦	gem2			
+禁	禁	gem3	禁止，禁忌，严禁	不准，不许	
+赣	贛	gem3			
+淦	淦	gem3			
+噤	噤	gem3			
+筋	筋	gen1			觔
+跟	跟	gen1			
+根	根	gen1			
+巾	巾	gen1			
+斤	斤	gen1			
+哏	哏	gen1			
+紧	緊	gen2			
+堇	堇	gen2			
+谨	謹	gen2			
+仅	僅	gen2			
+馑	饉	gen2			
+瑾	瑾	gen2			
+靳	靳	gen3			
+艮	艮	gen3			
+觐	覲	gen3/gen2			
+近	近	gen6			
+庚	庚	geng1			
+更	更	geng1	更改，更换，更衣，更动，更新，更正，变更，打更，更迭，更生，更定	改变；经历；一夜的五分之一的时间	
+羹	羹	geng1			
+粳	粳	geng1			
+赓	賡	geng1			
+梗	梗	geng2			
+耿	耿	geng2			
+亘	亙	geng2			
+埂	埂	geng2			
+哽	哽	geng2			
+鲠	鯁	geng2/keng2			
+更	更	geng3	更好，更加，更快，更多，更上一层楼	再，又，越发	
+钩	鉤	geo1			鈎
+阄	鬮	geo1			
+佝	佝	geo1			
+龟	龜	geo1	龟兹	（古）国名	
+鸠	鳩	geo1/keo1			
+韭	韭	geo2			
+枸	枸	geo2	枸杞		
+苟	苟	geo2			
+狗	狗	geo2			
+久	久	geo2			
+九	九	geo2			
+玖	玖	geo2			
+灸	灸	geo3			
+够	夠	geo3			
+咎	咎	geo3			
+柩	柩	geo3			
+究	究	geo3			
+疚	疚	geo3			
+救	救	geo3			
+诟	詬	geo3			
+垢	垢	geo3			
+厩	廄	geo3			
+旧	舊	geo6			
+劫	劫	gib3			刦，刼，刧
+洁	潔	gid3			
+结	結	gid3			
+拮	拮	gid3			
+杰	傑	gid6			
+桀	桀	gid6			
+偈	偈	gid6		勇武	
+棘	棘	gig1			
+激	激	gig1			
+击	擊	gig1			
+戟	戟	gig1			
+亟	亟	gig1			
+殛	殛	gig1			
+革	革	gig1	病革	急，危急	
+极	極	gig6			
+兼	兼	gim1			
+鹣	鶼	gim1			
+搛	搛	gim1			
+捡	撿	gim2			
+睑	瞼	gim2			
+检	檢	gim2			
+剑	劍	gim3			
+俭	儉	gim6			
+坚	堅	gin1			
+肩	肩	gin1			
+犍	犍	gin1	犍牛	阉割过的公牛	
+鲣	鰹	gin1			
+蹇	蹇	gin2			
+腱	腱	gin3			
+建	建	gin3			
+见	見	gin3			
+健	健	gin6			
+件	件	gin6			
+键	鍵	gin6			
+惊	驚	ging1			
+荆	荊	ging1			
+兢	兢	ging1			
+泾	涇	ging1			
+经	經	ging1			
+矜	矜	ging1			
+京	京	ging1			
+景	景	ging2			
+境	境	ging2			
+警	警	ging2			
+竟	竟	ging2			
+儆	儆	ging2			
+憬	憬	ging2			
+璟	璟	ging2			
+径	徑	ging3			
+敬	敬	ging3			
+劲	勁	ging3	使劲，差劲，费劲，不对劲	力气，效力，兴趣	
+径	逕	ging3			迳
+竞	競	ging6			
+劲	勁	ging6	劲敌，强劲	坚强有力	
+痉	痙	ging6			
+娇	嬌	giu1			
+骄	驕	giu1			
+浇	澆	giu1/hiu1			
+矫	矯	giu2			
+缴	繳	giu2			
+皦	皦	giu2			
+叫	叫	giu3			
+撬	撬	giu6			
+轿	轎	giu6			
+仡	仡	go1			
+哥	哥	go1			
+歌	歌	go1			
+旮	旮	go1/gog3			
+菏	菏	go1/ho4			
+个	個	go3			
+割	割	god3			
+葛	葛	god3			
+咯	咯	gog1	咯噔，咯吱，咯咯，咯咯笑	（象声词）形容笑声	
+各	各	gog3			
+角	角	gog3			
+搁	擱	gog3			
+阁	閣	gog3			
+觉	覺	gog3	觉得，感觉	（动词）指感想、发觉	
+桷	桷	gog3			
+珏	珏	gog3			
+硌	硌	gog3/kag3	硌脚，硌牙	（动词）碰到坚硬的东西而觉得不舒服	
+该	該	goi1			
+赅	賅	goi1			
+改	改	goi2			
+盖	蓋	goi3	盖子，铺盖，瓶盖，膝盖，锅盖，杯盖	（名词）	
+干	乾	gon1	干净，擦干		
+杆	杆	gon1			
+肝	肝	gon1			
+竿	竿	gon1			
+干	干	gon1	干涉，干扰，干系		
+擀	擀	gon2			
+赶	趕	gon2			
+杆	桿	gon2			
+干	幹	gon3	干部，树干		
+缸	缸	gong1			
+罡	罡	gong1			
+肛	肛	gong1			
+江	江	gong1			
+纲	綱	gong1			
+冈	岡	gong1			
+岗	崗	gong1			
+刚	剛	gong1			
+茳	茳	gong1			
+讲	講	gong2			
+港	港	gong2			
+绛	絳	gong3			
+钢	鋼	gong3			
+降	降	gong3	降落，降价，下降		
+杠	槓	gong3			
+高	高	gou1			
+糕	糕	gou1			
+膏	膏	gou1			
+羔	羔	gou1			
+睾	睾	gou1			
+皋	皋	gou1			
+稿	稿	gou2			
+槁	槁	gou2			
+镐	鎬	gou2	镐头，铁镐	刨土的工具	
+缟	縞	gou2			
+杲	杲	gou2			
+藁	藁	gou2			
+锆	鋯	gou3			
+告	告	gou3			
+郜	郜	gou3			
+诰	誥	gou6			
+姑	姑	gu1			
+沽	沽	gu1			
+蛄	蛄	gu1			
+轱	軲	gu1			
+咕	咕	gu1			
+孤	孤	gu1			
+辜	辜	gu1			
+菇	菇	gu1			菰
+觚	觚	gu1			
+菰	菰	gu1		茭白	
+蛊	蠱	gu2			
+钴	鈷	gu2			
+牯	牯	gu2			
+贾	賈	gu2	商贾	指商人或买卖	
+古	古	gu2			
+估	估	gu2			
+鼓	鼓	gu2			
+股	股	gu2			
+诂	詁	gu2			
+雇	僱	gu3			雇
+顾	顧	gu3			
+锢	錮	gu3			
+故	故	gu3			
+固	固	gu3			
+谷	谷	gug1			
+鹄	鵠	gug1			
+毂	轂	gug1			
+谷	穀	gug1			
+掬	掬	gug1			
+鞠	鞠	gug1			
+梏	梏	gug1			
+嚳	嚳	gug1			
+菊	菊	gug1			
+局	局	gug6			
+焗	焗	gug6			
+锔	鋦	gug6			
+冠	冠	gun1	冠冕，桂冠	（名词）指帽子	
+官	官	gun1			
+棺	棺	gun1			
+观	觀	gun1	观察，观摩，观念，乐观，参观，壮观，奇观，客观，静观其变，走马观花	看，看法，样子，景象	
+莞	莞	gun1	莞草	（姓、植物名）	
+倌	倌	gun1			
+管	管	gun2			
+馆	館	gun2			
+莞	莞	gun2	东莞	（地名）	
+脘	脘	gun2			
+鹳	鸛	gun3			
+冠	冠	gun3	冠军，夺冠，冠以	（动词）指戴帽子或加上名号，也指竞赛中获得第一名	
+灌	灌	gun3			
+盥	盥	gun3			
+罐	罐	gun3			
+贯	貫	gun3			
+观	觀	gun3	道观，楼观	道教的寺庙	
+蚣	蚣	gung1			
+恭	恭	gung1			
+供	供	gung1	供给，供应，供水，供电，供词，提供，口供，招供，自供，逼供，录供	把东西给需要的人使用；向别人提供某种条件；受审的人交代案情	
+弓	弓	gung1			
+龚	龔	gung1			
+躬	躬	gung1			
+宫	宮	gung1			
+功	功	gung1			
+工	工	gung1			
+攻	攻	gung1			
+公	公	gung1			
+巩	鞏	gung2			
+拱	拱	gung2			
+珙	珙	gung2			
+栱	栱	gung2			
+贡	貢	gung3			
+供	供	gung3	供奉，供品，供桌，供佛，供职，供事，上供，摆供	把香烛或祭品设在牌位等处以表示敬奉；从事，担任	
+共	共	gung6			
+呱	呱	gwa1	呱呱叫		
+瓜	瓜	gwa1			
+寡	寡	gwa2			
+呱	呱	gwa2	拉呱儿	（方言）闲谈	
+挂	掛	gwa3			
+卦	卦	gwa3			
+褂	褂	gwa3			
+刮	刮	gwad3			
+刮	颳	gwad3			
+掴	摑	gwag3			
+乖	乖	gwai1			
+拐	拐	gwai2			
+柺	柺	gwai2			
+蒯	蒯	gwai2			
+怪	怪	gwai3			
+关	關	gwan1			
+鳏	鰥	gwan1			
+掼	摜	gwan3			
+惯	慣	gwan3			
+橘	橘	gwed1			桔
+骨	骨	gwed1			
+汩	汩	gwed1			
+倔	倔	gwed6			
+掘	掘	gwed6			
+崛	崛	gwed6			
+龟	龜	gwei1			
+硅	硅	gwei1			
+闺	閨	gwei1			
+归	歸	gwei1			
+圭	圭	gwei1			
+瑰	瑰	gwei1	瑰丽		
+鲑	鮭	gwei1			
+皈	皈	gwei1			
+珪	珪	gwei1			
+晷	晷	gwei2			
+鬼	鬼	gwei2			
+轨	軌	gwei2			
+诡	詭	gwei2			
+簋	簋	gwei2			
+癸	癸	gwei3			
+瑰	瑰	gwei3	玫瑰		
+季	季	gwei3			
+桂	桂	gwei3			
+悸	悸	gwei3			
+贵	貴	gwei3			
+炅	炅	gwei3		（姓）	
+刿	劌	gwei3			
+柜	櫃	gwei6			
+馈	饋	gwei6			
+跪	跪	gwei6			
+篑	簣	gwei6			
+筠	筠	gwen1		（地名）	
+君	君	gwen1			
+钧	鈞	gwen1			
+军	軍	gwen1			
+均	均	gwen1			
+纶	綸	gwen1	纶巾	青丝带	
+鋆	鋆	gwen1		（人名用字）	
+锟	錕	gwen1			
+鲲	鯤	gwen1			
+莙	莙	gwen1			
+龟	龜	gwen1	龟裂	皮肤音寒冷干燥而开裂	
+滚	滾	gwen2			
+鲧	鯀	gwen2			
+棍	棍	gwen3			
+郡	郡	gwen6			
+珺	珺	gwen6			
+薨	薨	gweng1			
+肱	肱	gweng1			
+訇	訇	gweng1			
+轰	轟	gweng1			
+虢	虢	gwig1			
+隙	隙	gwig1/kwing1			
+炯	炯	gwing2			
+迥	迥	gwing2			
+炅	炅	gwing2		日光，光明，明亮，热	
+戈	戈	gwo1			
+裹	裹	gwo2			
+果	果	gwo2			菓
+过	過	gwo3			
+郭	郭	gwog3			
+腘	膕	gwog3			
+国	國	gwog3			
+帼	幗	gwog3			
+椁	槨	gwog3			
+蝈	蟈	gwog3			
+廓	廓	gwog3/kwog3			
+胱	胱	gwong1			
+光	光	gwong1			
+桄	桄	gwong1	桄榔	一种常绿乔木	
+犷	獷	gwong2			
+广	廣	gwong2			
+诳	誑	gwong2			
+桄	桄	gwong3	桄子，线桄儿	指桄子，一种绕线器具	
+饥	飢	géi1			饑
+基	基	géi1			
+乩	乩	géi1			
+箕	箕	géi1			
+奇	奇	géi1	奇数，奇偶，有奇	单的，单数的	
+肌	肌	géi1			
+畸	畸	géi1			
+姬	姬	géi1			
+犄	犄	géi1			
+矶	磯	géi1			
+讥	譏	géi1			
+叽	嘰	géi1			
+羁	覊	géi1			羈
+几	几	géi1	茶几，窗明几净	矮小的桌子	
+畿	畿	géi1			
+玑	璣	géi1			
+机	機	géi1			
+几	幾	géi1	几乎	非常接近	
+期	期	géi1	期年，期月	一周年，一整月	
+纪	紀	géi2	纪实，世纪，纪录片		
+几	幾	géi2	几何，几个，几点	表示二到九之间不确定的数目	
+己	己	géi2			
+杞	杞	géi2			
+觊	覬	géi3			
+纪	紀	géi3	纪念	（又音）	
+寄	寄	géi3			
+既	既	géi3			
+记	記	géi3			
+妓	妓	géi6			
+芰	芰	géi6			
+技	技	géi6			
+伎	伎	géi6			
+忌	忌	géi6			
+惊	驚	géng1		（语音）	
+颈	頸	géng2			
+镜	鏡	géng3			
+锯	鋸	gê3/gêu3			
+脚	腳	gêg3			
+僵	僵	gêng1			
+羌	羌	gêng1			
+僵	殭	gêng1			
+蜣	蜣	gêng1			
+姜	薑	gêng1			
+缰	韁	gêng1			
+疆	疆	gêng1			
+姜	姜	gêng1			
+强	強	gêng6	强嘴，倔强	执拗，固执，不屈服，不听劝，强硬不屈	犟
+糨	糨	gêng6			
+居	居	gêu1			
+据	据	gêu1			
+车	車	gêu1	车马炮，丢卒保车	象棋棋子的一种	
+车	車	gêu1	车骑，车驾，车笠，车仆，车马，车服，车徒，车辙，车师，车右，辅车，车同轨，车在马前，车怠马烦，车殆马烦，车水马龙，车笠之盟，车载斗量，车马喧阗，车马殷阗，车骑将军，前车之鉴，辅车相依，辅车唇齿，轻车熟路，杯水车薪，学富五车，安步当车，老牛破车，螳臂当车，闭门造车	（用于古汉语）	
+琚	琚	gêu1			
+裾	裾	gêu1			
+举	舉	gêu2			
+矩	矩	gêu2			
+榉	櫸	gêu2			
+蒟	蒟	gêu2			
+龋	齲	gêu2			
+莒	莒	gêu2			
+枸	枸	gêu2	枸橼	一种植物	
+踞	踞	gêu3			
+据	據	gêu3			
+句	句	gêu3			
+讵	詎	gêu6			
+惧	懼	gêu6			
+炬	炬	gêu6			
+巨	鉅	gêu6			
+遽	遽	gêu6			
+巨	巨	gêu6			
+具	具	gêu6			
+飓	颶	gêu6			
+苣	苣	gêu6			
+秬	秬	gêu6			
+捐	捐	gün1			
+鹃	鵑	gün1			
+娟	娟	gün1			
+涓	涓	gün1			
+蠲	蠲	gün1			
+卷	卷	gün2			
+卷	捲	gün2			
+绢	絹	gün3			
+券	券	gün3	奖券，赠券	（俗）	
+眷	眷	gün3			
+鄄	鄄	gün3			
+倦	倦	gün6			
+圈	圈	gün6	猪圈，羊圈，牛圈	养猪羊等牲畜的栅栏	
+哈	哈	ha1			
+虾	蝦	ha1			
+遐	遐	ha4			
+瑕	瑕	ha4			
+蛤	蛤	ha4	蛤蟆，癞蛤蟆		
+霞	霞	ha4			
+夏	夏	ha6			
+下	下	ha6			
+暇	暇	ha6			
+厦	廈	ha6			厦
+呷	呷	hab3			
+嗑	嗑	hab3	嗑破，嗑瓜子	咬有壳等的硬东西	
+掐	掐	hab3			
+匣	匣	hab6			
+柙	柙	hab6			
+箧	篋	hab6			
+狎	狎	hab6			
+峡	峽	hab6			
+狭	狹	hab6/hab3			
+侠	俠	hab6/heb6			
+赫	赫	hag1			
+吓	嚇	hag3			
+客	客	hag3			
+揩	揩	hai1			
+嗨	嗨	hai1			
+咳	咳	hai1		（叹词）表示惊讶、惋惜、后悔	
+孩	孩	hai4			
+谐	諧	hai4			
+骸	骸	hai4			
+鞋	鞋	hai4			
+骇	駭	hai5			
+獬	獬	hai5			
+蟹	蟹	hai5			
+懈	懈	hai6			
+械	械	hai6			
+解	解	hai6	解县	（姓、地名）	
+瀣	瀣	hai6			
+邂	邂	hai6/hai5			
+喊	喊	ham3			
+函	函	ham4			
+涵	涵	ham4			
+咸	鹹	ham4			
+咸	咸	ham4			
+衔	銜	ham4			
+啣	啣	ham4			
+槛	檻	ham5			
+陷	陷	ham6			
+馅	餡	ham6			
+闲	閒	han4			閑
+痫	癇	han4			
+娴	嫺	han4			嫻
+限	限	han6			
+夯	夯	hang1			
+坑	坑	hang1			
+行	行	hang4		走（用于口语）	
+哮	哮	hao1			
+敲	敲	hao1			
+烤	烤	hao1/hao2			
+考	考	hao2			攷
+巧	巧	hao2			
+拷	拷	hao2			
+栲	栲	hao2			
+孝	孝	hao3			
+校	校	hao6	校长，校园，校址，校舍，学校，母校，夜校	教学的地方	
+効	効	hao6			
+效	效	hao6			
+傚	傚	hao6			
+恰	恰	heb1			
+洽	洽	heb1			
+合	合	heb6			閤
+磕	磕	heb6			
+盒	盒	heb6			
+瞌	瞌	heb6			
+阖	闔	heb6			
+颌	頜	heb6			
+嗑	嗑	heb6	噬嗑	六十四卦之一	
+乞	乞	hed1			
+瞎	瞎	hed6			
+辖	轄	hed6			
+阂	閡	hed6			
+劾	劾	hed6			
+檄	檄	hed6			
+龁	齕	hed6			
+纥	紇	hed6	回纥	古代少数民族名称	
+搳	搳	hed6			
+核	核	hed6/wed6			
+克	克	heg1			
+刻	刻	heg1			
+黑	黑	heg1			
+氪	氪	heg1			
+克	剋	heg1			
+可	可	heg1	可汗		
+奚	奚	hei4			
+兮	兮	hei4			
+鼷	鼷	hei4			
+蹊	蹊	hei4	蹊径，山蹊	小路	
+系	係	hei6			
+系	繫	hei6			
+系	系	hei6			
+勘	勘	hem1	勘误，勘正，校勘	校对，核定	
+蚶	蚶	hem1			
+龛	龕	hem1			
+戡	戡	hem1			
+堪	堪	hem1			
+憨	憨	hem1			
+坩	坩	hem1			
+砍	砍	hem2			
+坎	坎	hem2			
+崁	崁	hem3			
+磡	磡	hem3			
+勘	勘	hem3	勘探，勘验，勘测，推勘	细查，审查	
+瞰	瞰	hem3			
+嵌	嵌	hem3/hem6			
+含	含	hem4			
+酣	酣	hem4			
+晗	晗	hem4			
+颔	頷	hem5			
+撼	撼	hem6			
+憾	憾	hem6			
+很	很	hen2			
+狠	狠	hen2			
+恳	懇	hen2			
+垦	墾	hen2			
+痕	痕	hen4			
+恨	恨	hen6			
+铿	鏗	heng1			
+哼	哼	heng1	哼唱，哼歌，哼出来	（动词）低声歌唱	
+亨	亨	heng1			
+茎	莖	heng1/ging3			
+肯	肯	heng2			
+啃	啃	heng2			
+桁	桁	heng4			
+恒	恆	heng4			
+衡	衡	heng4			
+姮	姮	heng4			
+珩	珩	heng4			
+行	行	heng4	行走，行军，行李，行销，行灶，行商，行营，行礼，行文，行装，行箧，行头，进行，通行，发行，风行，另行，即行，举行，实行，日行千里，见机行事	走	
+行	行	heng4/hong4	行辈，排行	兄弟姐妹长幼的次序	
+悻	悻	heng6			
+杏	杏	heng6			
+幸	幸	heng6			
+幸	倖	heng6			
+婞	婞	heng6			
+行	行	heng6	言行，品行，罪行，德行，操行，道行，行将，不行，行了，真行	足以表明品质的举止行动；可以；能干；快要；僧道修行的功夫	
+齁	齁	heo1			
+口	口	heo2			
+吼	吼	heo3			
+猴	猴	heo4			
+侯	侯	heo4			
+喉	喉	heo4			
+篌	篌	heo4			
+瘊	瘊	heo4			
+厚	厚	heo5			
+后	後	heo6			
+逅	逅	heo6			
+后	后	heo6			
+鲎	鱟	heo6			
+候	候	heo6			
+堠	堠	heo6			
+胁	脅	hib3			
+歉	歉	hib3			
+协	協	hib3			
+怯	怯	hib3			
+挟	挾	hib3/hab6			
+惬	愜	hib6			
+歇	歇	hid3			
+蝎	蠍	hid3			
+谦	謙	him1			
+险	險	him2			
+芡	芡	him3			
+欠	欠	him3			
+掀	掀	hin1			
+牵	牽	hin1			
+轩	軒	hin1			
+骞	騫	hin1			
+遣	遣	hin2			
+显	顯	hin2			
+谴	譴	hin2			
+蚬	蜆	hin2			
+缱	繾	hin2			
+献	獻	hin3			
+宪	憲	hin3			
+兄	兄	hing1			
+卿	卿	hing1			
+兴	興	hing1	兴建，兴奋，兴盛，兴旺，兴隆，兴衰，兴起，振兴，复兴，中兴，时兴，新兴	发动，创办，昌盛，旺盛，流行	
+馨	馨	hing1			
+氢	氫	hing1			
+轻	輕	hing1/héng1			
+磬	磬	hing3			
+罄	罄	hing3			
+兴	興	hing3	兴趣，兴致，高兴，扫兴，雅兴，助兴，尽兴，即兴，乘兴，败兴，兴高采烈	喜爱的情绪	
+庆	慶	hing3			
+胫	脛	hing5/ging3			
+侥	僥	hiu1			
+鸮	鴞	hiu1			
+骁	驍	hiu1			
+枭	梟	hiu1			
+嚣	囂	hiu1			
+橇	橇	hiu1/cêu3			
+晓	曉	hiu2			
+窍	竅	hiu3/kiu3			
+哼	哼	hng6		（叹词）表示不满，怀疑，轻蔑，威胁，怨恨	
+苛	苛	ho1			
+诃	訶	ho1			
+呵	呵	ho1			
+可	可	ho2	可以，宁可		
+坷	坷	ho2			
+岢	岢	ho2			
+嗬	嗬	ho2			
+何	何	ho4			
+河	河	ho4			
+荷	荷	ho4	荷花，荷塘，荷包，荷兰，薄荷，荷尔蒙	莲花	
+贺	賀	ho6			
+荷	荷	ho6	负荷，荷载，荷重，电荷，感荷	扛，背，負擔，承受	
+渴	渴	hod3			
+喝	喝	hod3			
+鞨	鞨	hod3			
+褐	褐	hod3			
+壳	殼	hog3			
+貉	貉	hog6			
+鹤	鶴	hog6			
+学	學	hog6			
+开	開	hoi1			
+咍	咍	hoi1			
+锎	鐦	hoi1			
+恺	愷	hoi2			
+海	海	hoi2			
+铠	鎧	hoi2			
+凯	凱	hoi2			
+闿	闓	hoi2			
+剀	剴	hoi2			
+垲	塏	hoi2			
+害	害	hoi6			
+亥	亥	hoi6			
+氦	氦	hoi6			
+看	看	hon1	看门，看家，看羊，看管，看守，看护，看押，看待	守护，监视，监管，照管，照顾，放牧	
+侃	侃	hon2			
+罕	罕	hon2			
+刊	刊	hon2/hon1			
+看	看	hon3	看见，看书，看病，看望，看戏，看脉，察看，观看，好看，看电影，看得起，试试看，看风使舵，刮目相看，另眼相看	瞧，注视，观察，拜访，探望	
+汉	漢	hon3			
+韩	韓	hon4			
+邯	邯	hon4			
+鼾	鼾	hon4			
+寒	寒	hon4			
+汗	汗	hon4	可汗		
+旱	旱	hon5			
+悍	悍	hon6			
+瀚	瀚	hon6			
+捍	捍	hon6			
+汗	汗	hon6	汗水，流汗		
+翰	翰	hon6			
+焊	焊	hon6			
+匡	匡	hong1			
+康	康	hong1			
+糠	糠	hong1			
+腔	腔	hong1			
+劻	劻	hong1			
+诓	誆	hong1			
+眶	眶	hong1/kwang1			
+筐	筐	hong1/kwang1			
+慷	慷	hong2/kong2			
+行	行	hong4	行列，行家，行市，同行，外行，车行，单行，双行，几行字	行列，排；职业	
+航	航	hong4			
+杭	杭	hong4			
+降	降	hong4	降服，投降	向敌人屈服	
+吭	吭	hong4			
+沆	沆	hong4			
+项	項	hong6			
+行	行	hong6	行行，树行子	刚强的样子；排成行列的树木	
+巷	巷	hong6/hong2			
+蒿	蒿	hou1			
+薅	薅	hou1			
+好	好	hou2	好处，好听，好汉，良好	（形容词）有利的，使人满意的	
+犒	犒	hou3			
+好	好	hou3	好客，好奇，嗜好，癖好	（动词）喜爱，喜欢	
+耗	耗	hou3			
+蠔	蠔	hou4			
+豪	豪	hou4			
+嗥	嗥	hou4			
+壕	壕	hou4			
+毫	毫	hou4			
+嚎	嚎	hou4			
+号	號	hou4	号叫，号啕，号哭，呼号	（动词）高声叫喊	
+濠	濠	hou4			
+昊	昊	hou6			
+浩	浩	hou6			
+号	號	hou6	号码，符号，记号	（名词）标记，名称	
+镐	鎬	hou6		（地名）西周的国都	
+灏	灝	hou6			
+皓	皓	hou6			
+颢	顥	hou6			
+哭	哭	hug1			
+酷	酷	hug6			
+槲	槲	hug6			
+匈	匈	hung1			
+凶	凶	hung1			
+箜	箜	hung1			
+崆	崆	hung1			
+胸	胸	hung1			
+汹	洶	hung1			
+凶	兇	hung1			凶
+空	空	hung1			
+哄	哄	hung1	哄传，哄动，哄然，哄劝，乱哄哄，哄堂大笑，哄抬物价	许多人同时发出喧哗声或大笑声	
+恐	恐	hung2			
+孔	孔	hung2			
+哄	哄	hung3	哄骗，哄孩子	逗弄，用假话骗人	
+控	控	hung3			
+哄	哄	hung3	哄骗，哄人，哄孩子	逗弄，用假话骗人	
+烘	烘	hung3/hung1			
+哄	鬨	hung3/hung6	哄闹，起哄，一哄而散	喧闹，笑闹	
+虹	虹	hung4			
+熊	熊	hung4			
+洪	洪	hung4			
+雄	雄	hung4			
+鸿	鴻	hung4			
+红	紅	hung4			
+蕻	蕻	hung4	雪里蕻	一种花	
+讧	訌	hung4/hung3			
+蕻	蕻	hung6	菜蕻	茂盛的样子	
+汞	汞	hung6/hung3			銾
+吃	吃	hég3			喫
+嘿	嘿	héi1			
+烯	烯	héi1			
+禧	禧	héi1			
+熙	熙	héi1			
+嬉	嬉	héi1			
+曦	曦	héi1			
+牺	犧	héi1			
+稀	稀	héi1			
+羲	羲	héi1			
+醯	醯	héi1			
+欷	欷	héi1			
+希	希	héi1			
+嘻	嘻	héi1			
+唏	唏	héi1			
+欺	欺	héi1			
+熹	熹	héi1			
+浠	浠	héi1			
+娸	娸	héi1			
+豨	豨	héi1			
+喜	喜	héi2			
+岂	豈	héi2			
+起	起	héi2			
+囍	囍	héi2			
+憩	憩	héi3			
+戏	戲	héi3			
+器	器	héi3			
+汽	汽	héi3			
+弃	棄	héi3			
+气	氣	héi3			
+靴	靴	hê1			
+香	香	hêng1			
+乡	鄉	hêng1			
+享	享	hêng2			
+响	響	hêng2			
+飨	饗	hêng2			
+饷	餉	hêng2			
+晌	晌	hêng2			
+蠁	蠁	hêng2			
+向	向	hêng3			
+向	嚮	hêng3			
+墟	墟	hêu1			
+吁	吁	hêu1			
+嘘	噓	hêu1			
+虚	虛	hêu1			
+歔	歔	hêu1			
+盱	盱	hêu1			
+诩	詡	hêu2			
+许	許	hêu2			
+栩	栩	hêu2			
+煦	煦	hêu2/hêu3			
+去	去	hêu3			
+血	血	hüd3			
+圈	圈	hün1	圈子，圈套，圈点，圈选，圆圈，花圈，绕圈，项圈	环形的东西	
+萱	萱	hün1			
+喧	喧	hün1			
+暄	暄	hün1			
+埙	壎	hün1			塤
+禤	禤	hün1			
+禢	禢	hün1			
+犬	犬	hün2			
+畎	畎	hün2			
+劝	勸	hün3			
+券	券	hün3	奖券，赠券		
+绚	絢	hün3			
+绻	綣	hün3			
+蜘	蜘	ji1			
+脂	脂	ji1			
+支	支	ji1			
+枝	枝	ji1			
+姿	姿	ji1			
+咨	咨	ji1			
+滋	滋	ji1			
+孜	孜	ji1			
+兹	茲	ji1	今兹，来兹，兹启者，兹事体大，念兹在兹	此，这个，现在，此时，此地	
+吱	吱	ji1	吱声，咯吱，嘎吱，吱吱叫，吱吱响，不吱声，吱喽喽，吱的一声	（象声词）尖细的声音，小动物的叫声；发出声音	
+辎	輜	ji1			
+肢	肢	ji1			
+芝	芝	ji1			
+龇	齜	ji1			
+谘	諮	ji1			
+之	之	ji1			
+知	知	ji1			
+赀	貲	ji1			
+资	資	ji1			
+鼒	鼒	ji1		上端口敛而口小的鼎	
+淄	淄	ji1			
+氏	氏	ji1	阏氏，月氏		
+祗	祗	ji1	祗仰，祗候，祗待，祗候光临，祗请尊安	恭敬	
+鲻	鯔	ji1			
+栀	梔	ji1			
+孳	孳	ji1			
+仔	仔	ji1	仔肩	责任，负担	
+卮	卮	ji1			
+子	子	ji2			
+止	止	ji2			
+只	只	ji2			祗
+指	指	ji2			
+纸	紙	ji2			
+旨	旨	ji2			
+紫	紫	ji2			
+址	址	ji2			
+籽	籽	ji2			
+滓	滓	ji2			
+梓	梓	ji2			
+咫	咫	ji2			
+姊	姊	ji2			
+仔	仔	ji2	仔细，仔密	小心，细心	
+祉	祉	ji2			
+酯	酯	ji2			
+趾	趾	ji2			
+芷	芷	ji2			
+秭	秭	ji2			
+致	致	ji3			
+轾	輊	ji3			
+至	至	ji3			
+致	緻	ji3			
+质	質	ji3	质押，质当，人质	用人或财物作抵押品	
+志	誌	ji3			
+志	志	ji3			
+置	置	ji3			
+挚	摯	ji3			
+智	智	ji3			
+痣	痣	ji3			
+踬	躓	ji3			
+贽	贄	ji3			
+识	識	ji3	标识，款识，博闻强识	标记，记号	
+恣	恣	ji3/qi3			
+祀	祀	ji6			
+巳	巳	ji6			
+雉	雉	ji6			
+字	字	ji6			
+痔	痔	ji6			
+俟	俟	ji6	俟机，俟候	等待，等候	
+治	治	ji6			
+自	自	ji6			
+稚	稚	ji6			
+饲	飼	ji6			
+嗣	嗣	ji6			
+耜	耜	ji6			
+伺	伺	ji6	伺机，伺便，伺探，窥伺	观察，探察，侦候	
+彘	彘	ji6			
+兕	兕	ji6			
+寺	寺	ji6/ji2			
+峙	峙	ji6/qi5			
+豸	豸	ji6/zai6			
+楫	楫	jib3			
+折	摺	jib3			
+褶	褶	jib3			
+嗫	囁	jib3			
+辄	輒	jib3			
+浃	浹	jib3			
+接	接	jib3			
+唧	唧	jid1			
+浙	浙	jid3			
+节	節	jid3			
+蜇	蜇	jid3			
+疖	癤	jid3			
+栉	櫛	jid3			
+哲	哲	jid3			喆
+婕	婕	jid3			
+折	折	jid3			
+截	截	jid6			
+睫	睫	jid6			
+捷	捷	jid6			
+职	職	jig1			
+稷	稷	jig1			
+鲫	鯽	jig1			
+即	即	jig1			
+积	積	jig1			
+织	織	jig1			
+迹	跡	jig1			蹟
+绩	績	jig1			
+陟	陟	jig1			
+渍	漬	jig1/ji3			
+瘠	瘠	jig3			
+炙	炙	jig3/zég3			
+脊	脊	jig3/zég3			
+直	直	jig6			
+藉	藉	jig6	狼藉，草藉，枕藉，慰藉，蕴藉，杯盘狼藉		
+值	值	jig6			
+席	席	jig6			
+植	植	jig6			
+殖	殖	jig6			
+籍	籍	jig6			
+寂	寂	jig6			
+矽	矽	jig6			
+汐	汐	jig6			
+夕	夕	jig6			
+埴	埴	jig6			
+褯	褯	jig6			
+借	借	jig6/zé3	借口	假托，利用	
+蓆	蓆	jig6/zég6			
+瞻	瞻	jim1			
+占	占	jim1			
+詹	詹	jim1			
+谵	譫	jim1			
+尖	尖	jim1			
+沾	沾	jim1			
+沾	霑	jim1	沾水，黄沾	（多用于人名）浸湿	
+占	佔	jim3			
+渐	漸	jim6			
+煎	煎	jin1			
+笺	箋	jin1			
+膻	羶	jin1			羴
+毡	氈	jin1			氊
+栴	栴	jin1			
+鹯	鸇	jin1			
+展	展	jin2			
+辗	輾	jin2			
+碾	碾	jin2	碾米，碾碎	（俗）	
+剪	剪	jin2			
+翦	翦	jin2			
+搌	搌	jin2			
+戬	戩	jin2			
+阐	闡	jin2/qin2			
+箭	箭	jin3			
+颤	顫	jin3			
+溅	濺	jin3			
+战	戰	jin3			
+饯	餞	jin3			
+荐	薦	jin3			
+贱	賤	jin6			
+征	征	jing1			
+怔	怔	jing1			
+征	徵	jing1			
+正	正	jing1	正月，新正	农历每年的第一月	
+旌	旌	jing1			
+晶	晶	jing1			
+精	精	jing1			
+祯	禎	jing1			
+钲	鉦	jing1			
+贞	貞	jing1			
+菁	菁	jing1			
+侦	偵	jing1			
+蒸	蒸	jing1			
+睛	睛	jing1			
+烝	烝	jing1			
+症	癥	jing1			
+箐	箐	jing1			
+桢	楨	jing1			
+整	整	jing2			
+井	井	jing2/zéng2			
+症	症	jing3			
+证	證	jing3			証
+正	正	jing3	正式，正常，正当，正经，正面，正义，正门，正好，正派，修正，改正，纠正，端正，公正，纯正，方正	不偏斜的，不歪斜的，符合规范的，符合标准方向的	
+政	政	jing3			
+帧	幀	jing3			
+靖	靖	jing6			
+静	靜	jing6			
+净	淨	jing6			
+靓	靚	jing6	靓衣，靓妆	妆饰或打扮艳丽、美好	
+婧	婧	jing6			
+阱	阱	jing6/zéng6			
+椒	椒	jiu1			
+朝	朝	jiu1	朝夕，朝气，今朝，朝思暮想	早晨	
+焦	焦	jiu1			
+礁	礁	jiu1			
+蕉	蕉	jiu1			
+招	招	jiu1			
+沼	沼	jiu2			
+剿	剿	jiu2			
+照	照	jiu3			
+诏	詔	jiu3			
+醮	醮	jiu3			
+召	召	jiu6	召唤，号召	呼唤，招致	
+赵	趙	jiu6			
+嚼	嚼	jiu6	倒嚼，反嚼，回嚼	反刍	
+侏	侏	ju1			
+诸	諸	ju1			
+朱	朱	ju1			
+铢	銖	ju1			
+诛	誅	ju1			
+茱	茱	ju1			
+珠	珠	ju1			
+猪	豬	ju1			
+蛛	蛛	ju1			
+株	株	ju1			
+主	主	ju2			
+煮	煮	ju2			
+拄	拄	ju2			
+渚	渚	ju2			
+驻	駐	ju3			
+蛀	蛀	ju3			
+著	著	ju3	土著	（俗）世居本地的人	
+注	註	ju3			
+著	著	ju3	着作，着名，着书，着者，着称，着述，名着，原着，译着，巨着，新着，大着，遗着，论着，编着，撰着，专着，显着，卓着，昭着，着作权，着书立说，彰明较着，臭名昭着，见微知着	显出，明显；写作；文章，书，小说等	
+注	注	ju3			
+炷	炷	ju3			
+铸	鑄	ju3			
+住	住	ju6			
+箸	箸	ju6			
+辍	輟	jud3			
+拙	拙	jud3			
+啜	啜	jud3			
+茁	茁	jud3			
+咄	咄	jud3	咄咄逼人	（俗）斥责，呵叱	
+掇	掇	jud3			
+绝	絕	jud6			
+砖	磚	jun1			
+颛	顓	jun1			
+尊	尊	jun1			
+专	專	jun1			
+鳟	鱒	jun1/jun3			
+镌	鐫	jun1/zên3			
+转	轉	jun2		（及物动词）	
+纂	纂	jun2			
+传	傳	jun2	传记，自传，外传，别传，列传，经传，纪传体，不见经传	（口语）记载某人一生事迹的文字	
+撙	撙	jun2			
+转	轉	jun3		（不及物动词）	
+钻	鑽	jun3	钻石，电钻，钻戒	（名词）穿孔的工具；钻石	
+钻	鑽	jun3/jun1	钻井，钻孔，钻研	（动词）穿孔；深入研究	
+传	傳	jun6	传记，自传，外传，别传，列传，经传，纪传体，不见经传	记载某人一生事迹的文字	
+喀	喀	ka1			
+卡	卡	ka1	卡车，卡通，卡规，卡尺，大卡，卡路里，卡宾枪	（音译用字）	
+卡	卡	ka2/ka1	卡住，卡紧，卡子，关卡，发卡，税卡	夹在中间不能活动；夹子	
+髂	髂	ka3			
+卡	卡	kad1	卡片，刷卡，磁卡，信用卡，借书卡，资料卡	卡片的简称	
+揢	揢	kag3			
+咯	咯	kag3	咯血，咯痰	呕，吐	
+楷	楷	kai2			
+蒈	蒈	kai2			
+锴	鍇	kai2/gai1			
+铐	銬	kao3			
+靠	靠	kao3			
+岌	岌	keb1			
+给	給	keb1			
+吸	吸	keb1			
+汲	汲	keb1			
+笈	笈	keb1			
+级	級	keb1			
+歙	歙	keb1		收敛，吸气	
+及	及	keb6			
+芨	芨	keb6/geb1			
+咳	咳	ked1	咳嗽，干咳		
+稽	稽	kei1	滑稽，稽查，稽留，稽延，稽核，无稽之谈，反唇相稽	停留，延迟，考核，计较	
+溪	溪	kei1			
+嵇	嵇	kei1/hei4			
+启	啟	kei2			啓
+稽	稽	kei2	稽首	（古）一种类似磕头的跪拜礼	
+契	契	kei3			
+襟	襟	kem1			
+衾	衾	kem1			
+噙	噙	kem4			
+禽	禽	kem4			
+擒	擒	kem4			
+琴	琴	kem4			琹
+妗	妗	kem5			
+勤	勤	ken4			
+芹	芹	ken4			
+近	近	ken5		（口语）	
+抠	摳	keo1			
+篝	篝	keo1/geo1			
+沟	溝	keo1/geo1			
+叩	叩	keo3			
+扣	扣	keo3			
+寇	寇	keo3			
+扣	釦	keo3			
+蔻	蔻	keo3			
+构	構	keo3/geo3			
+媾	媾	keo3/geo3			
+购	購	keo3/geo3			
+裘	裘	keo4			
+毬	毬	keo4			
+球	球	keo4			
+求	求	keo4			
+仇	仇	keo4		（姓）	
+虬	虯	keo4			
+犰	犰	keo4			
+逑	逑	keo4			
+璆	璆	keo4			
+俅	俅	keo4			
+𨱇	銶	keo4			
+舅	舅	keo5/keo3			
+臼	臼	keo5/keo3			
+黠	黠	kid3			
+孑	孑	kid3			
+揭	揭	kid3			
+诘	詰	kid3			
+羯	羯	kid3			
+竭	竭	kid3			
+锲	鍥	kid3			
+颉	頡	kid3			
+碣	碣	kid3			
+劼	劼	kid3			
+撷	擷	kid3/gid3			
+黔	黔	kim4			
+钳	鉗	kim4			
+虔	虔	kin4			
+掮	掮	kin4			
+乾	乾	kin4	乾坤，乾宅	八卦之一	
+犍	犍	kin4	犍为县	（地名）	
+倾	傾	king1			
+顷	頃	king2			
+琼	瓊	king4			
+擎	擎	king4			
+鲸	鯨	king4			
+黥	黥	king4			
+跷	蹺	kiu1/hiu1	跷着脚，跷跷板	垫起脚后跟走	
+跷	蹺	kiu2	高跷，踩高跷		
+翘	翹	kiu3/hiu3	翘尾巴，翘起来	一端向上扬起，突起，高起	
+侨	僑	kiu4			
+桥	橋	kiu4			
+翘	翹	kiu4	翘首，翘望	举起，抬起，向上	
+荞	蕎	kiu4			
+乔	喬	kiu4			
+跷	蹺	kiu5	跷腿，跷大拇指	抬起，竖起	
+确	確	kog3			
+榷	榷	kog3			
+郝	郝	kog3			
+恪	恪	kog3			
+悫	慤	kog3			
+壑	壑	kog3			
+涸	涸	kog3			
+丐	丐	koi3			
+溉	溉	koi3			
+钙	鈣	koi3			
+慨	慨	koi3			
+盖	蓋	koi3	盖上，盖好，盖世，盖章，覆盖，遮盖，涵盖，盖被子，盖房子，盖不住	（动词）	
+概	概	koi3			
+忾	愾	koi3			
+欬	欬	koi3			
+扛	扛	kong1			
+亢	亢	kong3			
+抗	抗	kong3			
+伉	伉	kong3			
+扩	擴	kong3	扩散，扩大	（俗）	
+炕	炕	kong3			
+闶	閌	kong3			
+𫛭	鵟	kong4			
+箍	箍	ku1			
+豁	豁	kud3			
+聒	聒	kud3			
+蛞	蛞	kud3			
+括	括	kud3			
+曲	曲	kug1			
+曲	麴	kug1			
+刽	劊	kui2			
+贿	賄	kui2			
+溃	潰	kui2			
+狯	獪	kui2			
+聩	聵	kui2			
+绘	繪	kui2			
+脍	膾	kui2			
+鲙	鱠	kui2			
+侩	儈	kui2			
+桧	檜	kui2			
+浍	澮	kui2			
+郐	鄶	kui2			
+会	會	kui2/wui6	会计，会计师	总计，会计	
+穷	窮	kung4			
+穹	穹	kung4			
+邛	邛	kung4			
+垮	垮	kwa1			
+夸	夸	kwa1			
+夸	誇	kwa1			
+侉	侉	kwa2			
+胯	胯	kwa3			
+跨	跨	kwa3			
+挎	挎	kwa3			
+框	框	kwang1/hong1			
+逛	逛	kwang3			
+亏	虧	kwei1			
+窥	窺	kwei1			
+盔	盔	kwei1			
+规	規	kwei1			
+岿	巋	kwei1			
+畦	畦	kwei4			
+携	攜	kwei4			
+睽	睽	kwei4			
+馗	馗	kwei4			
+喹	喹	kwei4			
+暌	暌	kwei4			
+夔	夔	kwei4			
+葵	葵	kwei4			
+逵	逵	kwei4			
+揆	揆	kwei4/kwei5			
+愧	愧	kwei5			
+坤	坤	kwen1			堃
+昆	昆	kwen1			
+昆	崑	kwen1			
+髡	髡	kwen1			
+晜	晜	kwen1			
+焜	焜	kwen1/wen6			
+菌	菌	kwen2			
+捆	捆	kwen2			綑
+困	困	kwen3			
+窘	窘	kwen3			
+困	睏	kwen3			
+群	群	kwen4			羣
+裙	裙	kwen4			
+扩	擴	kwog3	扩散，扩大		
+旷	曠	kwong3			
+纩	纊	kwong3			
+圹	壙	kwong3			
+矿	礦	kwong3/kong3			
+邝	鄺	kwong3/kong3			
+狂	狂	kwong4			
+茄	茄	ké2	茄子，番茄	一种蔬菜	
+骑	騎	ké4	骑马，骑车，骑墙	指骑马，也泛指两腿跨在东西上	
+瘸	瘸	ké4			
+屐	屐	kég6			
+剧	劇	kég6			
+崎	崎	kéi1			
+蹊	蹊	kéi1/kei1	蹊跷，跷蹊	奇怪，可疑	
+暨	暨	kéi3			
+冀	冀	kéi3			
+骥	驥	kéi3			
+骑	騎	kéi3	骑士，骑兵，骑哨，轻骑，铁骑，坐骑，车骑，骑从，骑手，单骑，边骑，探骑，突骑，胡骑，骁骑，枭骑，骠骑，精骑，骑置，驿骑，一骑，千骑	指马兵，骑兵，或骑马的人	
+耆	耆	kéi4			
+鳍	鰭	kéi4			
+俟	俟	kéi4	万俟	（姓）	
+旗	旗	kéi4			
+奇	奇	kéi4	奇怪，奇迹，奇兵，稀奇，惊奇，不足为奇	特别，怪异，罕见，特殊，不寻常	
+岐	岐	kéi4			
+棋	棋	kéi4			
+琪	琪	kéi4			
+旂	旂	kéi4			
+琦	琦	kéi4			
+歧	歧	kéi4			
+淇	淇	kéi4			
+祈	祈	kéi4			
+其	其	kéi4			
+萁	萁	kéi4			
+麒	麒	kéi4			
+期	期	kéi4	期间，期限，期待，期望，期刊，期末，期满，时期，到期，长期，假期，定期，星期，如期，过期，学期，周期，初期，不期而遇，遥遥无期	限定的时间	
+祺	祺	kéi4			
+祁	祁	kéi4			
+蕲	蘄	kéi4			
+祇	祇	kéi4	神祇	（古）地神	祗
+锜	錡	kéi4			
+圻	圻	kéi4		边界，地界；方圆千里之地	
+企	企	kéi5			
+却	卻	kêg3			
+噱	噱	kêg6			
+强	強	kêng4	强壮，强大，坚强	有力	
+强	強	kêng5	强迫，强求，勉强，牵强，强词夺理，强人所难，牵强附会	硬要，迫使，勉强	
+羟	羥	kêng5			
+襁	襁	kêng5			
+区	區	kêu1		区域，地区	
+拘	拘	kêu1			
+驱	驅	kêu1			
+俱	俱	kêu1			
+躯	軀	kêu1			
+岖	嶇	kêu1			
+祛	祛	kêu1			
+驹	駒	kêu1			
+胠	胠	kêu1			
+袪	袪	kêu1			
+璩	璩	kêu4			
+蠼	蠼	kêu4			蠷
+瞿	瞿	kêu4			
+渠	渠	kêu4			
+衢	衢	kêu4			
+朐	朐	kêu4			
+劬	劬	kêu4			
+距	距	kêu5			
+拒	拒	kêu5			
+獗	獗	küd3			
+决	決	küd3			
+诀	訣	küd3			
+缺	缺	küd3			
+抉	抉	küd3			
+蹶	蹶	küd3			
+厥	厥	küd3			
+孓	孓	küd3			
+蕨	蕨	küd3			
+撅	撅	küd3			噘
+阙	闕	küd3			
+玦	玦	küd3			
+阕	闋	küd3			
+炔	炔	küd3	炔烃，乙炔		
+橛	橛	küd3/güd6			
+蜷	蜷	kün4			
+颧	顴	kün4			
+拳	拳	kün4			
+权	權	kün4			
+鬈	鬈	kün4			
+啦	啦	la1			
+喇	喇	la1	喇嘛	藏传佛教的僧侣	
+拉	拉	la1	拉话，拉闲，拉家常，拉呱儿，拉舌头	闲谈	
+喇	喇	la3	喇叭	一种管乐器	
+立	立	lab6			
+蜡	蠟	lab6			
+垃	垃	lab6			
+腊	臘	lab6			
+砬	砬	lab6			
+𫚭	鱲	lab6			
+邋	邋	lab6/lad6			
+辣	辣	lad6			
+拉	拉	lad6	拉开，拉下，拉口子，拉下一块肉，拉了一个口子	用刀割，切开，割开，切断，划破	
+拉	拉	lai1	拉车，拉扯，拉长，拉开，拉拢，拉锯，拉货，拉倒，拉拔，拉屎，拖拉，拉关系，拉生意，拉交情，拉买卖，拉警报，拉肚子，拉胡琴，拉二胡，拉下水，手拉手，拉手风琴，拉小提琴	拖，扯，拔，拽，牵引	
+癞	癩	lai3			
+赖	賴	lai6			
+籁	籟	lai6			
+落	落	lai6	落下，丢三落四	丢下，遗漏，忘了拿，被丢在后面	
+篮	籃	lam4			
+褴	襤	lam4			
+婪	婪	lam4			
+蓝	藍	lam4			
+岚	嵐	lam4			
+览	覽	lam5			
+揽	攬	lam5			
+榄	欖	lam5			
+缆	纜	lam6			
+滥	濫	lam6			
+舰	艦	lam6			
+兰	蘭	lan4			
+襕	襴	lan4			
+斓	斕	lan4			
+栏	欄	lan4			
+拦	攔	lan4			
+阑	闌	lan4			
+澜	瀾	lan4			
+懒	懶	lan5			
+烂	爛	lan6			
+冷	冷	lang5			
+捞	撈	lao4	捞鱼，捞取，捞起，捞面，打捞，捕捞，捞鱼虾，捞稻草，水中捞月，海底捞针	将东西从水中取出来	
+笠	笠	leb1			
+甩	甩	led1			
+勒	勒	leg6/lag6			
+肋	肋	leg6/lag6			
+鳓	鰳	leg6/lag6			
+藜	藜	lei4			
+犂	犂	lei4			
+黎	黎	lei4			
+犁	犁	lei4			
+黧	黧	lei4			
+蠡	蠡	lei4/lei5			
+礼	禮	lei5			
+鳢	鱧	lei5			
+醴	醴	lei5			
+澧	澧	lei5			
+励	勵	lei6			
+丽	麗	lei6			
+蛎	蠣	lei6			
+厉	厲	lei6			
+例	例	lei6			
+砺	礪	lei6			
+荔	荔	lei6			
+俪	儷	lei6			
+疠	癘	lei6			
+林	林	lem4			
+啉	啉	lem4			
+淋	淋	lem4			
+琳	琳	lem4			
+霖	霖	lem4			
+临	臨	lem4			
+凛	凜	lem5			
+懔	懍	lem5			
+喽	嘍	leo1			
+搂	摟	leo2			
+浏	瀏	leo4			
+榴	榴	leo4			
+娄	婁	leo4			
+流	流	leo4			
+琉	琉	leo4			
+刘	劉	leo4			
+螻	螻	leo4			
+楼	樓	leo4			
+硫	硫	leo4			
+偻	僂	leo4			
+髅	髏	leo4			
+瘤	瘤	leo4			
+留	留	leo4			
+骝	騮	leo4			
+鎏	鎏	leo4			
+篓	簍	leo5			
+柳	柳	leo5			
+绺	綹	leo5			
+蹓	蹓	leo6			
+陋	陋	leo6			
+漏	漏	leo6			
+溜	溜	leo6	溜冰，溜达，溜走，溜圆，溜光，溜槽，溜狗，滑溜，水溜，大溜，檐溜，溜滑梯，溜冰场，溜旱冰，光溜溜，圆溜溜，酸溜溜，乌溜溜，顺口溜，一溜烟，随大溜，溜须拍马	滑行，平滑，无阻碍；急流，房檐滴下的水；（量词）条，排	
+馏	餾	leo6			
+遛	遛	leo6			
+镂	鏤	leo6			
+哩	哩	li1	哩哩啦啦	零零散散或断断续续的样子	
+猎	獵	lib6			
+鬣	鬣	lib6			
+裂	裂	lid6			
+烈	烈	lid6			
+列	列	lid6			
+捩	捩	lid6			
+冽	冽	lid6			
+䴕	鴷	lid6			
+雳	靂	lig1			
+砾	礫	lig1			
+枥	櫪	lig1			
+栎	櫟	lig1	栎树	一种落叶乔木	
+沥	瀝	lig1/lig6			
+力	力	lig6			
+历	歷	lig6			
+历	曆	lig6			
+郦	酈	lig6			
+令	令	lim1	一令纸	（量词）	
+帘	簾	lim4			
+帘	帘	lim4			
+镰	鐮	lim4			
+廉	廉	lim4			
+脸	臉	lim5			
+殓	殮	lim5			
+蔹	蘞	lim5			
+敛	斂	lim6			
+裣	襝	lim6			斂
+潋	瀲	lim6			
+链	鏈	lin4			
+连	連	lin4			
+莲	蓮	lin4			
+涟	漣	lin4			
+怜	憐	lin4			
+鲢	鰱	lin4			
+辇	輦	lin5			
+撵	攆	lin5			
+炼	煉	lin6			鍊
+练	練	lin6			
+绫	綾	ling4			
+棱	稜	ling4			
+羚	羚	ling4			
+苓	苓	ling4			
+呤	呤	ling4			
+櫺	櫺	ling4			
+翎	翎	ling4			
+菱	菱	ling4			
+零	零	ling4			
+铃	鈴	ling4			
+灵	靈	ling4			
+鲮	鯪	ling4			
+玲	玲	ling4			
+囹	囹	ling4			
+凌	凌	ling4			
+龄	齡	ling4			
+聆	聆	ling4			
+陵	陵	ling4			
+令	令	ling4	令狐	（复姓）	
+伶	伶	ling4			
+蛉	蛉	ling4			
+崚	崚	ling4			
+领	領	ling5/léng5			
+岭	嶺	ling5/léng5			
+令	令	ling6	命令，口令	使，使得；上级的指示；季节	
+另	另	ling6			
+愣	愣	ling6			楞
+溜	溜	liu1	溜走，溜开，偷溜，溜课，溜工，溜掉，开溜，溜回家，溜之大吉	偷偷地走开	
+撩	撩	liu1	撩开，撩起，撩水，撩起来，撩裙子，撩起门帘，撩上点水	提，掀起；用手洒水	
+溜	溜	liu1	溜走，溜开，溜之大吉	偷偷地走开	
+撂	撂	liu1			
+嘹	嘹	liu4			
+缭	繚	liu4			
+辽	遼	liu4			
+僚	僚	liu4			
+镣	鐐	liu4			
+獠	獠	liu4			
+寮	寮	liu4			
+了	瞭	liu4	明了，了如指掌	明白，清楚	
+瞭	瞭	liu4	瞭望，瞭望台	远远地望，从高处远望	
+燎	燎	liu4			
+撩	撩	liu4	撩拨，撩惹，撩人，撩逗，撩动，花香撩人	挑弄，招惹，引逗，挑逗	
+疗	療	liu4			
+聊	聊	liu4			
+寥	寥	liu4			
+了	瞭	liu5	了解，一目了然		
+钌	釕	liu5	钌铞儿	扣住门窗等的铁片	
+蓼	蓼	liu5		一种植物	
+了	了	liu5	了得，了断，了结，了账，了却，走了，终了，未了，聪了，了了，了不起，了不得，看完了，说过了，做好了，办得了，做得了，受不了，动不了，来不了，了却心愿，了无新意，了无生趣，一了百了，不了了之，没完没了	结束，完全，全然；（动词后）可能；（语助词）表示动作已完成	
+潦	潦	liu5/liu2			
+料	料	liu6			
+廖	廖	liu6			
+尥	尥	liu6			
+钌	釕	liu6		金属元素，符号Ru	
+囉	囉	lo1			
+咯	咯	lo1	当然咯	（语气助词）	
+旯	旯	lo1/log3			
+裸	裸	lo2			
+猡	玀	lo4			
+逻	邏	lo4			
+罗	羅	lo4			
+锣	鑼	lo4			
+箩	籮	lo4			
+萝	蘿	lo4			
+螺	螺	lo4/lo2			
+络	絡	log3			
+烙	烙	log3			
+铬	鉻	log3			
+饹	餎	log3			
+珞	珞	log3			
+酪	酪	log3			
+硌	硌	log3		（名词）山上的大石	
+洛	洛	log3/log6			
+骆	駱	log3/log6			
+乐	樂	log6	乐趣，乐意，快乐，取乐	欢喜，快活	
+落	落	log6	落下，坠落		
+咯	咯	log6	吡咯	一种有机化合物	
+莱	萊	loi4			
+来	來	loi4			
+徕	徠	loi4			
+涞	淶	loi4			
+崃	崍	loi4			
+睐	睞	loi6			
+赉	賚	loi6			
+耒	耒	loi6/lêu6			
+啷	啷	long1			
+郎	郎	long2	令郎，大郎	（旧）称别人的儿子	
+狼	狼	long4			
+琅	瑯	long4			
+郎	郎	long4	郎君，郎中，新郎，情郎，牛郎，女郎，郎才女貌	称年轻男子	
+廊	廊	long4			
+螂	螂	long4			
+锒	鋃	long4			
+榔	榔	long4			
+莨	莨	long4	莨菪	一种多年生草本植物	
+阆	閬	long4	闶阆，阆阆	高大，空旷	
+朗	朗	long5			
+晾	晾	long6			
+浪	浪	long6			
+蒗	蒗	long6			
+阆	閬	long6	阆中，阆苑	（地名）	
+捞	撈	lou1	捞钱，捞本，捞一把，捞油水，捞外快，捞资本，捞了一笔	用不正当的手段取得	
+噜	嚕	lou1			
+佬	佬	lou2			
+胪	臚	lou4			
+痨	癆	lou4			
+颅	顱	lou4			
+卢	盧	lou4			
+炉	爐	lou4			
+庐	廬	lou4			
+劳	勞	lou4	劳动，劳累，劳驾，功劳，疲劳，操劳，勤劳，不劳而获，吃苦耐劳	辛勤，努力，勤苦做事	
+牢	牢	lou4			
+醪	醪	lou4			
+芦	蘆	lou4			
+轳	轤	lou4			
+唠	嘮	lou4			
+鲈	鱸	lou4			
+泸	瀘	lou4			
+栌	櫨	lou4			
+老	老	lou5			
+姥	姥	lou5			
+掳	擄	lou5			
+鲁	魯	lou5			
+卤	鹵	lou5			
+虏	虜	lou5			
+卤	滷	lou5			鹵
+橹	櫓	lou5			
+露	露	lou6			
+璐	璐	lou6			
+路	路	lou6			
+涝	澇	lou6			
+鹭	鷺	lou6			
+劳	勞	lou6	劳军，劳兵，犒劳，慰劳	慰问，慰勉辛苦或有功劳的人	
+赂	賂	lou6			
+辂	輅	lou6			
+潞	潞	lou6			
+嫪	嫪	lou6			
+麓	麓	lug1			
+辘	轆	lug1			
+碌	碌	lug1	碌碌，忙碌，庸碌，劳碌，一骨碌	繁忙，繁杂；平凡，没有才能	
+禄	祿	lug6			
+戮	戮	lug6			
+氯	氯	lug6			
+六	六	lug6			
+录	錄	lug6			
+碌	碌	lug6	碌碡	一种石制的农具	
+陆	陸	lug6			
+绿	綠	lug6			
+鹿	鹿	lug6			
+漉	漉	lug6			
+琭	琭	lug6			
+蓼	蓼	lug6		形容植物长大的样子	
+隆	隆	lung4			
+龙	龍	lung4			
+窿	窿	lung4			
+笼	籠	lung4	笼子，鸟笼，蒸笼，灯笼	（名词）指笼子	
+咙	嚨	lung4			
+聋	聾	lung4			
+眬	矓	lung4			
+胧	朧	lung4			
+珑	瓏	lung4			
+昽	曨	lung4			
+茏	蘢	lung4			
+砻	礱	lung4			
+笼	籠	lung5	笼罩，笼统，笼络	（动词）指遮住，像笼子一样罩住	
+拢	攏	lung5			
+垄	壟	lung5			
+陇	隴	lung5			
+弄	弄	lung6			
+咧	咧	lé1		（助词）了，啦	
+哩	哩	lé1		（助词）呢	
+咧	咧	lé2	咧嘴，咧着嘴笑	嘴巴斜着张开	
+璃	璃	léi1	玻璃		
+喱	喱	léi1			
+缡	縭	léi4			
+璃	璃	léi4	琉璃		
+罹	罹	léi4			
+狸	狸	léi4			貍
+梨	梨	léi4			
+蜊	蜊	léi4			
+漓	漓	léi4			
+鲡	鱺	léi4			
+离	離	léi4			
+厘	釐	léi4			
+篱	籬	léi4			
+骊	驪	léi4			
+瓈	瓈	léi4			
+琍	琍	léi4			
+俚	俚	léi5			
+履	履	léi5			
+李	李	léi5			
+里	里	léi5			
+鲤	鯉	léi5			
+锂	鋰	léi5			
+逦	邐	léi5			
+理	理	léi5			
+娌	娌	léi5			
+哩	哩	léi5		英美制长度单位	
+利	利	léi6			
+吏	吏	léi6			
+莉	莉	léi6			
+莅	蒞	léi6			
+俐	俐	léi6			
+痢	痢	léi6			
+猁	猁	léi6			
+詈	詈	léi6			
+靓	靚	léng3	靓仔，靓女	（方言）漂亮，好看	
+鹬	鷸	lêd6		（俗）	
+栗	慄	lêd6			
+傈	傈	lêd6			
+律	律	lêd6			
+率	率	lêd6	比率，利率，效率，频率，功率，税率，速率，圆周率，百分率	一定的标准、准则或比例	
+栗	栗	lêd6			
+篥	篥	lêd6			
+溧	溧	lêd6			
+略	略	lêg6			畧
+掠	掠	lêg6			
+卵	卵	lên2			
+麟	麟	lên4			
+遴	遴	lên4			
+磷	磷	lên4			
+论	論	lên4	论语，论孟	《论语》的简称	
+粼	粼	lên4			
+嶙	嶙	lên4			
+鳞	鱗	lên4			
+伦	倫	lên4			
+仑	崙	lên4			
+抡	掄	lên4			
+璘	璘	lên4			
+沦	淪	lên4			
+仑	侖	lên4			
+囵	圇	lên4			
+轮	輪	lên4			
+邻	鄰	lên4			
+纶	綸	lên4	涤纶，腈纶，垂纶	人工合成纤维	
+论	論	lên6	论文，论点，讨论，理论，言论，谈论，评论，相对论，一概而论，无论如何，相提并论		
+吝	吝	lên6			
+躏	躪	lên6			
+蔺	藺	lên6			
+两	兩	lêng2	银两，斤两，半斤八两	（重量单位）	両
+梁	梁	lêng4			樑
+凉	涼	lêng4			
+量	量	lêng4	量杯，量地，考量，商量，测量，估量，衡量，端量，思量，量血压，量温度	（动词）估计，考虑；用器具确定物体的性质	
+粮	糧	lêng4			
+粱	粱	lêng4			
+良	良	lêng4			
+莨	莨	lêng4	莨绸，薯莨	指薯莨	
+魉	魎	lêng5			
+俩	倆	lêng5			
+两	兩	lêng5	两边，两手，两极，两栖	（数目字）	
+谅	諒	lêng6			
+踉	踉	lêng6			
+辆	輛	lêng6			
+量	量	lêng6	量词，数量，力量，质量，容量，含量，重量，气量，胆量，量力而为，量入为出，不自量力	（名词）数量；容纳或禁受的限度；估计	
+亮	亮	lêng6			
+镭	鐳	lêu4			
+驴	驢	lêu4			
+闾	閭	lêu4			
+擂	擂	lêu4			
+嫘	嫘	lêu4			
+榈	櫚	lêu4			
+雷	雷	lêu4			
+缧	縲	lêu4			
+累	纍	lêu4			
+羸	羸	lêu4			
+骡	騾	lêu4/lo4			
+褛	褸	lêu5			
+铝	鋁	lêu5			
+缕	縷	lêu5			
+磊	磊	lêu5			
+膂	膂	lêu5			
+侣	侶	lêu5			
+旅	旅	lêu5			
+垒	壘	lêu5			
+吕	呂	lêu5			
+屡	屢	lêu5			
+累	累	lêu5	累积，累累，累次，累进，累犯，累年，危如累卵，成千累万，长年累月，日积月累，罪行累累	屡次，多次，接连；重叠，堆积，聚集	纍
+里	裡	lêu5			裏
+儡	儡	lêu5			
+蕾	蕾	lêu5/lêu4			
+滤	濾	lêu6			
+类	類	lêu6			
+泪	淚	lêu6			
+虑	慮	lêu6			
+累	累	lêu6	累人，累及，累赘，劳累，受累，连累，牵累，拖累	疲劳，疲惫，疲乏；牵连，牵扯；麻烦，多余	
+漯	漯	lêu6	漯河	（地名）	
+戾	戾	lêu6			
+捋	捋	lüd3			
+埒	埒	lüd3			
+劣	劣	lüd3/lüd6			
+恋	戀	lün2			
+脔	臠	lün2/lün4			
+鸾	鸞	lün4			
+峦	巒	lün4			
+挛	攣	lün4			
+孪	孿	lün4			
+联	聯	lün4			
+栾	欒	lün4			
+滦	灤	lün4			
+銮	鑾	lün4			
+娈	孌	lün5			
+乱	亂	lün6			
+妈	媽	ma1			
+嬷	嬤	ma1			
+吗	嗎	ma1	干吗，有吗，要吗，吗玩意儿，要吗有吗	（方言）什么	
+嘛	嘛	ma1	干嘛，有嘛，要嘛，嘛玩意儿，要嘛有嘛	（方言）什么	
+吗	嗎	ma1/ma3	好吗，行吗，可以吗	（疑问助词）	
+吗	嗎	ma1/ma5	吗啡	一种镇痛药	
+嘛	嘛	ma3	有意见就提嘛	（助词）表示提醒、劝阻、显而易见、道理明显等语气	
+麻	麻	ma4			蔴
+蟆	蟆	ma4			
+嘛	嘛	ma4	喇嘛	（藏语）对僧人、法师等的尊称	
+麻	痲	ma4			
+犸	獁	ma5			
+马	馬	ma5			
+码	碼	ma5			
+玛	瑪	ma5			
+蚂	螞	ma5			
+骂	罵	ma6			
+擘	擘	mag3			
+埋	埋	mai4			
+霾	霾	mai4/mei4			
+荬	蕒	mai5			
+买	買	mai5			
+卖	賣	mai6			
+迈	邁	mai6			
+馒	饅	man4			
+蛮	蠻	man4			
+鳗	鰻	man4			
+谩	謾	man4	欺谩	欺骗，蒙骗，蒙蔽	
+蔓	蔓	man4	蔓菁	芜菁，一种草本植物	
+晚	晚	man5			
+幔	幔	man6			
+万	萬	man6			
+曼	曼	man6			
+漫	漫	man6			
+慢	慢	man6			
+谩	謾	man6	谩骂	轻慢，不礼貌，不尊重	
+嫚	嫚	man6			
+镘	鏝	man6			
+蔓	蔓	man6	蔓延，蔓草，蔓生，藤蔓，瓜蔓，顺蔓摸瓜	植物细长能缠绕但不能直立的茎；滋生，扩展	
+墁	墁	man6			
+缦	縵	man6			
+熳	熳	man6			
+绷	繃	mang1	绷脸，绷劲，绷着脸，绷不住	板着，强忍住	綳
+盲	盲	mang4			
+锰	錳	mang5			
+蜢	蜢	mang5			
+猛	猛	mang5			
+勐	勐	mang5			
+孟	孟	mang6			
+猫	貓	mao1			
+矛	矛	mao4			
+茅	茅	mao4			
+卯	卯	mao5			
+铆	鉚	mao5			
+昴	昴	mao5			
+袤	袤	mao6			
+懋	懋	mao6			
+貌	貌	mao6			
+嘧	嘧	med6			
+密	密	med6			
+勿	勿	med6			
+蜜	蜜	med6			
+物	物	med6			
+袜	襪	med6			
+谧	謐	med6			
+宓	宓	med6	静宓	宁静，安静	
+麦	麥	meg6			
+脉	脈	meg6			
+陌	陌	meg6			
+墨	墨	meg6			
+万	万	meg6			
+默	默	meg6			
+蓦	驀	meg6			
+貘	貘	meg6			獏
+咪	咪	mei1/méi1			
+谜	謎	mei4			
+醚	醚	mei4			
+眯	瞇	mei4			
+迷	迷	mei4			
+米	米	mei5			
+袂	袂	mei6			
+蚊	蚊	men1			
+文	文	men4			
+民	民	men4			
+闻	聞	men4			
+氓	氓	men4	流氓	（俗）	
+玟	玟	men4			
+纹	紋	men4			
+雯	雯	men4			
+缗	緡	men4			
+岷	岷	men4			
+旻	旻	men4			
+忞	忞	men4			
+珉	珉	men4			
+苠	苠	men4			
+泯	泯	men5			冺
+敏	敏	men5			
+抿	抿	men5			
+悯	憫	men5			
+刎	刎	men5			
+闽	閩	men5			
+闵	閔	men5			
+吻	吻	men5			
+渑	澠	men5	渑池	（地名）	
+鳘	鰵	men5			
+黾	黽	men5			
+愍	愍	men5			
+湣	湣	men5			
+紊	紊	men6			
+汶	汶	men6			
+问	問	men6			
+萌	萌	meng4			
+盟	盟	meng4			
+哞	哞	meo1			
+谋	謀	meo4			
+牟	牟	meo4			
+眸	眸	meo4			
+缪	繆	meo4			
+牡	牡	meo5			
+某	某	meo5			
+亩	畝	meo5			
+贸	貿	meo6			
+茂	茂	meo6			
+谬	謬	meo6			
+蔑	蔑	mid6			
+篾	篾	mid6			
+灭	滅	mid6			
+蔑	衊	mid6			
+蠛	蠛	mid6			
+觅	覓	mig6			
+幂	冪	mig6			
+汨	汨	mig6			
+鼏	鼏	mig6		鼎的盖子	
+眠	眠	min4			
+棉	棉	min4			
+绵	綿	min4			
+缅	緬	min5			
+腼	靦	min5			
+免	免	min5			
+娩	娩	min5			
+冕	冕	min5			
+勉	勉	min5			
+眄	眄	min5			
+面	面	min6			
+面	麵	min6			麪
+名	名	ming4			
+明	明	ming4			
+冥	冥	ming4			
+鸣	鳴	ming4			
+洺	洺	ming4			
+溟	溟	ming4			
+螟	螟	ming4			
+瞑	瞑	ming4/ming5			
+铭	銘	ming4/ming5			
+暝	暝	ming4/ming6			
+皿	皿	ming5			
+酩	酩	ming5			
+茗	茗	ming5/ming4			
+命	命	ming6	命运，生命		
+喵	喵	miu1			
+瞄	瞄	miu4			
+苗	苗	miu4			
+描	描	miu4			
+杳	杳	miu5			
+渺	渺	miu5			
+缈	緲	miu5			
+秒	秒	miu5			
+邈	邈	miu5			
+藐	藐	miu5			
+淼	淼	miu5			
+眇	眇	miu5			
+庙	廟	miu6			
+妙	妙	miu6			
+摩	摩	mo1			
+么	麼	mo1			麽
+魔	魔	mo1			
+摸	摸	mo2			
+磨	磨	mo4	磨刀，磨损，磨灭，磨难，磨光，磨功，磨墨，磨烦，磨牙，磨破，磨粉，磨细，磨练，折磨，研磨，穷磨，磨刀石，磨洋工，磨工夫，好事多磨，消磨间，百世不磨，磨成粉末，铁杵磨成针	摩擦	
+蘑	蘑	mo4			
+馍	饃	mo4			
+无	無	mo4	南无	（梵文音译词）	
+磨	磨	mo4/mo6	磨子，磨叨，磨房，磨车，磨面，石磨，电磨，推磨，磨豆腐，磨豆浆，磨麦子，磨过来，磨不过来，有钱能使鬼推磨	（名词）碾碎谷物的器具；（动词）用磨子碾平谷物	
+剥	剝	mog1			
+漠	漠	mog6			
+膜	膜	mog6	隔膜，耳膜，脑膜，网膜，黏膜	人、动物、植物等体内部的薄皮形组织	
+幕	幕	mog6			
+莫	莫	mog6			
+寞	寞	mog6			
+镆	鏌	mog6			
+铓	鋩	mong4			
+亡	亡	mong4			
+氓	氓	mong4	流氓		
+忙	忙	mong4			
+芒	芒	mong4			
+莽	莽	mong4			
+茫	茫	mong4			
+忘	忘	mong4			
+虻	虻	mong4			
+罔	罔	mong5			
+妄	妄	mong5			
+惘	惘	mong5			
+蟒	蟒	mong5			
+网	網	mong5			
+魍	魍	mong5			
+辋	輞	mong5			
+望	望	mong6			
+模	模	mou4			
+髦	髦	mou4			
+摹	摹	mou4			
+谟	謨	mou4			
+膜	膜	mou4	膜拜	跪拜	
+诬	誣	mou4			
+毛	毛	mou4			
+无	無	mou4	无法，无论，无疑，无辜，无聊，无奈，无限，无可奈何	没有	
+芜	蕪	mou4			
+毋	毋	mou4			
+巫	巫	mou4			
+牦	氂	mou4/léi4			犛
+姆	姆	mou5			
+侮	侮	mou5			
+武	武	mou5			
+母	母	mou5			
+鹉	鵡	mou5			
+妩	嫵	mou5			
+拇	拇	mou5			
+舞	舞	mou5			
+暮	暮	mou6			
+瑁	瑁	mou6			
+雾	霧	mou6			
+帽	帽	mou6			
+慕	慕	mou6			
+募	募	mou6			
+冒	冒	mou6			
+骛	騖	mou6			
+耄	耄	mou6			
+务	務	mou6			
+墓	墓	mou6			
+鹜	鶩	mou6			
+戊	戊	mou6			
+婺	婺	mou6			
+沫	沫	mud3			
+抹	抹	mud3/mad3			
+末	末	mud6			
+没	沒	mud6			
+茉	茉	mud6			
+靺	靺	mud6			
+殁	歿	mud6			
+钼	鉬	mug6			
+木	木	mug6			
+牧	牧	mug6			
+睦	睦	mug6			
+沐	沐	mug6			
+苜	苜	mug6			
+目	目	mug6			
+仫	仫	mug6			
+穆	穆	mug6			
+梅	梅	mui4			
+媒	媒	mui4			
+煤	煤	mui4			
+玫	玫	mui4			
+枚	枚	mui4			
+霉	霉	mui4			黴
+莓	莓	mui4			
+酶	酶	mui4			
+每	每	mui5			
+妹	妹	mui6			
+昧	昧	mui6			
+门	門	mun4			
+们	們	mun4			
+瞒	瞞	mun4			
+扪	捫	mun4			
+鞔	鞔	mun4	鞔鼓，鞔鞋	用皮革做鼓，鞋等	
+满	滿	mun5			
+螨	蟎	mun5			
+闷	悶	mun6			
+焖	燜	mun6			
+曚	曚	mung4			
+蒙	矇	mung4			
+朦	朦	mung4			
+蒙	蒙	mung4			
+蒙	濛	mung4			
+檬	檬	mung4			
+獴	獴	mung4			
+蠓	蠓	mung5			
+懵	懵	mung5/mung2			
+梦	夢	mung6			
+哶	哶	mé1			
+微	微	méi4			
+楣	楣	méi4			
+嵋	嵋	méi4			
+靡	靡	méi4			
+蘼	蘼	méi4			
+眉	眉	méi4			
+麋	麋	méi4			
+薇	薇	méi4			
+湄	湄	méi4			
+糜	糜	méi4			
+縻	縻	méi4			
+弥	瀰	méi4/néi4			
+猕	獼	méi4/néi4			
+尾	尾	méi5			
+镁	鎂	méi5			
+美	美	méi5			
+娓	娓	méi5			
+媺	媺	méi5			
+魅	魅	méi6			
+媚	媚	méi6			
+寐	寐	méi6			
+味	味	méi6			
+未	未	méi6			
+命	命	méng6		（口语）	
+哪	哪	na1	天哪	（语气词）表示惊讶或停顿	
+哪	哪	na4	哪吒	（梵文音译词）	
+娜	娜	na4	丽娜，安娜	（人名用字）	
+拿	拿	na4			
+南	南	na4	南无	（梵文音译词）	
+那	那	na5	那里，那个，那年，那时，那样，那么，那地方，那棵树，那时候，那些人，那座楼，那会儿	（指定代名词）	
+哪	哪	na5	哪里，哪儿，哪个，哪呢	（疑问词）	
+钠	鈉	nab6			
+呐	吶	nab6			
+纳	納	nab6			
+衲	衲	nab6			
+捺	捺	nad6			
+氖	氖	nai5			
+乃	乃	nai5			迺
+鼐	鼐	nai5		大鼎	
+奶	奶	nai5			
+南	南	nam4	南方，南边，南面，南风，指南针	（方向）	
+囡	囡	nam4			
+喃	喃	nam4			
+楠	楠	nam4			
+男	男	nam4			
+腩	腩	nam5			
+难	難	nan4	难道，难题，艰难，困难	（形容词）	
+赧	赧	nan5			
+难	難	nan6	难民，灾难	（名词）	
+孬	孬	nao1			
+桡	橈	nao4			
+铙	鐃	nao4			
+锚	錨	nao4			
+挠	撓	nao4			
+猱	猱	nao4	猱犬，蠼猱		
+闹	鬧	nao6			
+淖	淖	nao6			
+粒	粒	neb1/leb1			
+泥	泥	nei4	泥土，泥巴，泥坑，泥濘，稀泥，水泥，污泥，爛泥，印泥，蒜泥，棗泥，肉泥，淤泥，土豆泥，泥牛入海，拖泥帶水	水和土合成的半固体；像泥的东西	
+坭	坭	nei4			
+呢	呢	nei4/néi4	呢子，呢料，呢绒，毛呢，厚呢，呢喃	一种毛织品	
+稔	稔	nem5			
+能	能	neng4			
+纽	紐	neo2			
+朽	朽	neo2			
+钮	鈕	neo2			
+扭	扭	neo2			
+妞	妞	neo2			
+狃	狃	neo2			
+嗯	嗯	ng2	嗯？怎么回事，嗯？你说什么，嗯？你在干嘛，嗯！那可不成，嗯！我看不一定	（叹词）表示疑问、怀疑、意外、出乎意料、不以为然等语气	
+蜈	蜈	ng4			
+鼯	鼯	ng4			
+梧	梧	ng4			
+吾	吾	ng4			
+吴	吳	ng4			
+伍	伍	ng5			
+牾	牾	ng5			
+午	午	ng5			
+忤	忤	ng5			
+五	五	ng5			
+焐	焐	ng6			
+晤	晤	ng6			
+误	誤	ng6			
+嗯	嗯	ng6	嗯！好吧，嗯！就这样吧，嗯！就这么办吧	（叹词）表示答应、应允等语气	
+捂	摀	ng6			
+悟	悟	ng6			
+牙	牙	nga4			
+衙	衙	nga4			
+芽	芽	nga4			
+蚜	蚜	nga4			
+雅	雅	nga5			
+佤	佤	nga5			
+瓦	瓦	nga5			
+讶	訝	nga6			
+额	額	ngag6			
+挨	捱	ngai4	挨饿，挨打，挨骂，挨日子	遭受，亲身受到，困难地度过	
+涯	涯	ngai4			
+崖	崖	ngai4			
+睚	睚	ngai4			
+厓	厓	ngai4			
+艾	艾	ngai6			
+刈	刈	ngai6			
+砹	砹	ngai6			
+岩	岩	ngam4			巖
+癌	癌	ngam4			
+颜	顏	ngan4			
+眼	眼	ngan5			
+雁	雁	ngan6			
+赝	贗	ngan6			贋
+硬	硬	ngang6			
+肴	餚	ngao4			
+爻	爻	ngao4			
+淆	淆	ngao4			
+乐	樂	ngao4/ngao6	乐山乐水，乐道安贫，知者乐水，仁者乐山	爱好，喜好，欣赏	
+咬	咬	ngao5			
+屹	屹	nged6			
+迄	迄	nged6			
+兀	兀	nged6			
+杌	杌	nged6			阢
+圪	圪	nged6			
+危	危	ngei4			
+倪	倪	ngei4			
+巍	巍	ngei4			
+霓	霓	ngei4			蜺
+嵬	嵬	ngei4			
+猊	猊	ngei4			
+鲵	鯢	ngei4			
+蚁	蟻	ngei5			
+艺	藝	ngei6			
+毅	毅	ngei6			
+呓	囈	ngei6			
+诣	詣	ngei6			
+魏	魏	ngei6			
+羿	羿	ngei6			
+伪	偽	ngei6			僞
+睨	睨	ngei6			
+银	銀	ngen4			
+垠	垠	ngen4			
+龈	齦	ngen4			
+龂	齗	ngen4			
+沂	沂	ngen4		河岸	
+狺	狺	ngen4			
+圻	圻	ngen4		界限，边际	
+鄞	鄞	ngen4			
+勾	勾	ngeo1			
+牛	牛	ngeo4			
+藕	藕	ngeo5			
+偶	偶	ngeo5			
+啮	齧	ngid6/ngad6			囓
+娥	娥	ngo4			
+俄	俄	ngo4			
+讹	訛	ngo4			
+鹅	鵝	ngo4			
+哦	哦	ngo4	吟哦	低声地唱	
+莪	莪	ngo4			
+蛾	蛾	ngo4			
+峨	峨	ngo4			峩
+我	我	ngo5			
+卧	臥	ngo6			
+饿	餓	ngo6			
+鄂	鄂	ngog6			
+噩	噩	ngog6			
+愕	愕	ngog6			
+岳	嶽	ngog6			
+颚	顎	ngog6			
+鳄	鱷	ngog6			鰐
+乐	樂	ngog6	乐器，音乐	音乐	
+岳	岳	ngog6			
+栎	櫟	ngog6	栎阳	（地名）	
+鹗	鶚	ngog6			
+崿	崿	ngog6			
+呆	呆	ngoi4	呆板，发呆，痴呆，呆呆地	傻，愚蠢，停留，逗留	獃
+碍	礙	ngoi6			
+外	外	ngoi6			
+岸	岸	ngon6			
+犴	犴	ngon6			
+肮	骯	ngong1/ngong3			
+盎	盎	ngong3/ngong2			
+昂	昂	ngong4			
+懊	懊	ngou3			
+澳	澳	ngou3			
+奥	奧	ngou3			
+袄	襖	ngou3/ngou2			
+螯	螯	ngou4			
+骜	驁	ngou4			
+獒	獒	ngou4			
+敖	敖	ngou4			
+翱	翱	ngou4			
+鳌	鰲	ngou4			
+熬	熬	ngou4/ngeo4			
+遨	遨	ngou4/ngou6			
+傲	傲	ngou6			
+镍	鎳	nib1			
+聂	聶	nib6			
+颞	顳	nib6			
+捏	捏	nib6			
+镊	鑷	nib6			
+涅	涅	nib6			
+蹑	躡	nib6			
+陧	隉	nib6			
+昵	暱	nig1			
+匿	匿	nig1			
+溺	溺	nig1/nig6	溺水，溺死	淹没，沉迷，过分	
+拈	拈	nim1			
+黏	黏	nim1	黏度，黏土，黏液，黏糊，黏稠，黏性，黏膜，黏着，黏附，黏接，黏住，黏合，黏结，发黏，很黏，黏着力	（形容词）像胶水一样有附着力	粘
+粘	粘	nim1/jim1			
+粘	粘	nim1/jim1	粘连，粘牙，粘在一起，粘在手上	（不及物动词）附着，胶着，缠着；有黏性的东西互相连结	黏
+捻	捻	nim2			
+鲇	鯰	nim4			鮎
+粘	粘	nim4	粘贴，粘封信，粘海报，粘标语，粘邮票	（及物动词）贴合，贴附；用胶水、浆糊等有黏性的东西使物件连结起来，使不分开；（姓）	黏
+念	念	nim6			
+念	唸	nim6			
+廿	廿	nim6			
+年	年	nin4			
+碾	碾	nin5	碾米，碾碎		
+宁	寧	ning4	宁静，安宁，息事宁人，坐卧不宁	安静，平静，安定	
+狞	獰	ning4			
+咛	嚀	ning4			
+柠	檸	ning4			
+佞	佞	ning6			
+拧	擰	ning6			
+泞	濘	ning6			
+宁	寧	ning6	宁可，宁愿，宁死不屈，宁缺毋滥	情愿	
+宁	寧	ning6			甯
+袅	裊	niu5			
+鸟	鳥	niu5			
+尿	尿	niu6			
+溺	溺	niu6	便溺	尿，小便	
+那	那	no1		（姓）	
+挪	挪	no4			
+挼	挼	no4			
+娜	娜	no5	婀娜，袅娜，婀娜多姿	柔软细长，轻盈柔美的样子	
+糯	糯	no6			
+懦	懦	no6			
+诺	諾	nog6			
+奈	奈	noi6			
+耐	耐	noi6			
+内	內	noi6			
+囊	囊	nong4			
+囔	囔	nong4			
+馕	饢	nong4		一种烤制的面饼	
+瓤	瓤	nong4			
+馕	饢	nong5	馕嗓，馕糠，馕糟	拼命往嘴里塞食物	
+齉	齉	nong6			
+奴	奴	nou4			
+驽	駑	nou4			
+瑙	瑙	nou5			
+弩	弩	nou5			
+恼	惱	nou5			
+脑	腦	nou5			
+努	努	nou5/lou5			
+怒	怒	nou6			
+衄	衄	nug6			衂
+忸	忸	nug6/neo2			
+农	農	nung4			
+浓	濃	nung4			
+侬	儂	nung4			
+脓	膿	nung4			
+哝	噥	nung4			
+呢	呢	né1	哪儿呢，怎么办呢	（助词）表示疑问、确定、停顿、动作正在继续等	
+妮	妮	néi4			
+怩	怩	néi4			
+弥	彌	néi4			
+铌	鈮	néi4			
+尼	尼	néi4			
+旎	旎	néi5			
+您	您	néi5			
+你	妳	néi5			
+你	你	néi5			
+饵	餌	néi6			
+腻	膩	néi6			
+泥	泥	néi6	泥古，泥墙，泥壁，拘泥，泥古不化	固执，拘束，死板，停留不前；涂抹，涂饰，用土、灰等涂抹墙壁或器物	
+讷	訥	nêd6/nab6			
+娘	娘	nêng4			孃
+钕	釹	nêu5			
+馁	餒	nêu5			
+女	女	nêu5/lêu5			
+暖	暖	nün5			
+嫩	嫩	nün6			
+婀	婀	o1			
+噢	噢	o1			
+喔	喔	o1			
+轲	軻	o1			
+柯	柯	o1			
+珂	珂	o1			
+阿	阿	o1	阿谀，阿附，阿胶，阿其所好，阿谀逢迎，阿弥陀佛，刚直不阿	迎合，偏袒	
+哦	哦	o4		（叹词）表示惊奇、疑问、将信将疑等	
+哦	哦	o6		（叹词）表示领悟、领会、醒悟等	
+恶	惡	og3	恶人，恶性，恶劣，恶霸，恶感，恶习，恶战，罪恶，凶恶，善恶	坏，不好，凶狠	
+垩	堊	og3			
+恶	噁	og3			惡
+埃	埃	oi1			
+哀	哀	oi1			
+蔼	藹	oi2			
+暧	曖	oi2			
+叆	靉	oi2			
+毐	毐	oi2			
+嗳	噯	oi2			
+爱	愛	oi3			
+瑷	璦	oi3			
+嫒	嬡	oi3			
+安	安	on1			
+鞍	鞍	on1			
+氨	氨	on1			
+铵	銨	on1			
+胺	胺	on1			
+桉	桉	on1			
+案	案	on3			
+按	按	on3			
+摁	摁	on3			
+媪	媼	ou2			
+趴	趴	pa1			
+怕	怕	pa3			
+耙	耙	pa4			
+扒	扒	pa4			
+爬	爬	pa4			
+杷	杷	pa4			
+琶	琶	pa4			
+啪	啪	pag1			
+珀	珀	pag3			
+拍	拍	pag3			
+柏	柏	pag3	柏树，柏林，松柏，侧柏，柏拉图，都柏林	一种常绿乔木；（地名、人名）译音字	
+帕	帕	pag3			
+魄	魄	pag3			
+柏	柏	pag3/bag3	柏油，柏油路	沥青	
+派	派	pai3			
+哌	哌	pai3			
+湃	湃	pai3/bai3			
+排	排	pai4			
+俳	俳	pai4			
+牌	牌	pai4			
+扳	扳	pan1			
+攀	攀	pan1			
+盼	盼	pan3			
+袢	袢	pan3			
+烹	烹	pang1			
+澎	澎	pang1/pang4	澎湃		
+彭	彭	pang4			
+鹏	鵬	pang4			
+硼	硼	pang4			
+澎	澎	pang4	澎湖	（地名）	
+棚	棚	pang4			
+膨	膨	pang4			
+棒	棒	pang5			
+脬	脬	pao1			
+抛	拋	pao1			
+泡	泡	pao1	泡儿，起泡，泡影，泡幻，眼泡，豆泡，一泡尿，一泡屎，电灯泡	像泡一样的东西，泡状器物，鼓起而松软的东西；（量词）用于屎尿	
+跑	跑	pao2			
+炮	炮	pao3			砲，礮
+豹	豹	pao3			
+疱	疱	pao3			皰
+泡	泡	pao3	泡水，泡茶，泡菜，泡饭，泡面，泡汤，泡澡，浸泡	用水冲或浸	
+趵	趵	pao3			
+咆	咆	pao4			
+匏	匏	pao4			
+庖	庖	pao4			
+刨	刨	pao4			鉋，鑤
+狍	麅	pao4			
+疋	疋	ped1			
+匹	匹	ped1			
+批	批	pei1			
+睥	睥	pei5			
+喷	噴	pen3			
+贫	貧	pen4			
+颦	顰	pen4			
+嫔	嬪	pen4			
+频	頻	pen4			
+牝	牝	pen5			
+凭	憑	peng4			
+朋	朋	peng4			
+剖	剖	peo2			
+抔	抔	peo4			
+撇	撇	pid3			
+瞥	瞥	pid3			
+辟	闢	pig1			
+辟	辟	pig1			
+癖	癖	pig1			
+僻	僻	pig1			
+霹	霹	pig1			
+䴙	鷿	pig1			
+扁	扁	pin1	扁舟		
+编	編	pin1			
+偏	偏	pin1			
+翩	翩	pin1			
+篇	篇	pin1			
+蝙	蝙	pin1/bin1			
+片	片	pin2	片子，片约，相片，唱片，照片，影片	指片子	
+片	片	pin2	纸片，卡片，名片，图片，雪片，药片，明信片	（口语）扁平而薄的物体	
+骗	騙	pin3			
+遍	遍	pin3			
+片	片	pin3	片刻，片面，片段，名片，卡片，图片，明信片，片瓦无存，片言只字	扁而薄的物体；很少，很短；（量词）	
+骈	駢	pin4			
+便	便	pin4	便宜		
+砰	砰	ping1			
+姘	姘	ping1			
+怦	怦	ping1			
+娉	娉	ping1			
+抨	抨	ping1			
+拼	拼	ping1/ping3			
+聘	聘	ping3			
+苹	蘋	ping4			
+坪	坪	ping4			
+屏	屏	ping4	屏幕，屏风，屏障，屏蔽，屏条，雀屏，画屏，孔雀开屏	（动词）遮挡；（名词）挡风或隔间的用具	
+平	平	ping4			
+萍	萍	ping4			
+瓶	瓶	ping4			
+评	評	ping4			
+缥	縹	piu1			
+飘	飄	piu1			
+漂	漂	piu1	漂浮，漂移，漂泊，漂流	浮在液体上；随风或液体流动	
+嘌	嘌	piu1			
+漂	漂	piu3	漂亮，漂白，漂洗，漂染	美，好看；用水冲洗，或用化学药品使纺织品变白	
+票	票	piu3			
+骠	驃	piu3	骠国，骠人，骠信，骠骑，骠勇	古代国名，也指勇猛，或马奔跑的样子	
+剽	剽	piu3/piu5			
+嫖	嫖	piu4			
+瓢	瓢	piu4			
+朴	朴	piu4			
+瞟	瞟	piu5			
+鳔	鰾	piu5			
+颇	頗	po1	偏颇	偏，不正	
+坡	坡	po1/bo1			
+棵	棵	po1/fo2			
+颇	頗	po2	颇久，颇大，颇多，颇少，颇感兴趣，颇有诚意，颇不以为然	略微，稍，很，甚	
+笸	笸	po2			
+叵	叵	po2			
+破	破	po3			
+婆	婆	po4			
+鄱	鄱	po4/bo3			
+璞	璞	pog3			
+朴	樸	pog3			
+噗	噗	pog3			
+扑	撲	pog3			
+钋	釙	pog3			
+粕	粕	pog3/pag3			
+谤	謗	pong3			
+膀	膀	pong4	膀胱		
+彷	彷	pong4	彷徨	徘徊不前，犹疑不决的样子	
+庞	龐	pong4			
+螃	螃	pong4			
+滂	滂	pong4			
+旁	旁	pong4			
+磅	磅	pong4	磅礴	盛大，广大，充满，无边际	
+蚌	蚌	pong5			
+铺	鋪	pou1	铺路，铺开，铺盖，床铺，搭铺	（动词）	
+谱	譜	pou2			
+溥	溥	pou2			
+浦	浦	pou2			
+普	普	pou2			
+脯	脯	pou2/fu2	果脯，杏脯，桃脯，肉脯	果干，肉干	
+铺	舖	pou3	铺子，铺位，店铺	（名词）	鋪
+菩	菩	pou4			
+蒲	蒲	pou4			
+莆	莆	pou4			
+葡	葡	pou4			
+脯	脯	pou4	胸脯，脯子	胸部	
+匍	匍	pou4			
+袍	袍	pou4			
+抱	抱	pou5			
+泡	泡	pou5	泡沫，泡子，气泡，水泡，起泡，冒泡，发泡，肥皂泡	液体内有空气的球状物	
+泼	潑	pud3			
+仆	仆	pug1	前仆后继	（俗）跌倒；以面伏地	
+胚	胚	pui1			
+坯	坯	pui1			
+霈	霈	pui3			
+配	配	pui3			
+沛	沛	pui3			
+珮	珮	pui3			
+佩	佩	pui3			
+培	培	pui4			
+赔	賠	pui4			
+裴	裴	pui4			
+徘	徘	pui4			
+陪	陪	pui4			
+倍	倍	pui5			
+蓓	蓓	pui5/pui4			
+番	番	pun1	番禺	（地名）	
+潘	潘	pun1			
+拚	拚	pun3			
+判	判	pun3			
+泮	泮	pun3			
+蟠	蟠	pun4			
+盘	盤	pun4			
+盆	盆	pun4			
+槃	槃	pun4			
+磐	磐	pun4			
+蹒	蹣	pun4/mun4			
+捧	捧	pung2/bung2			
+碰	碰	pung3			
+篷	篷	pung4			
+芃	芃	pung4			
+蓬	蓬	pung4/fung4			
+劈	劈	pég3			
+呸	呸	péi1			
+丕	丕	péi1			
+披	披	péi1			
+纰	紕	péi1			
+狉	狉	péi1			
+痞	痞	péi2			
+仳	仳	péi2			
+吡	吡	péi2			
+否	否	péi2	否极泰来	坏，恶，不好	
+鄙	鄙	péi2			
+圮	圮	péi2			
+吡	吡	péi2		斥责，诋毁	
+譬	譬	péi3			
+屁	屁	péi3			
+濞	濞	péi3			
+嬖	嬖	péi3			
+帔	帔	péi3			
+媲	媲	péi3/béi2			
+貔	貔	péi4			
+毗	毗	péi4			
+疲	疲	péi4			
+琵	琵	péi4			
+脾	脾	péi4			
+枇	枇	péi4			
+皮	皮	péi4			
+蜱	蜱	péi4			
+郫	郫	péi4			
+邳	邳	péi4			
+裨	裨	péi4	裨将，偏裨	辅佐的	
+被	被	péi5	被子，被单，棉被，毛巾被	睡觉时覆盖身体的东西	
+婢	婢	péi5			
+雌	雌	qi1			
+鸱	鴟	qi1			
+笞	笞	qi1			
+蚩	蚩	qi1			
+螭	螭	qi1			
+眵	眵	qi1			
+哧	哧	qi1			
+差	差	qi1	差等，参差，参差不齐	长短不齐	
+痴	癡	qi1			
+嗤	嗤	qi1			
+疵	疵	qi1			
+魑	魑	qi1			
+跐	跐	qi1	跐溜	脚下滑动	
+矢	矢	qi2			
+耻	恥	qi2			
+齿	齒	qi2			
+始	始	qi2			
+此	此	qi2			
+侈	侈	qi2			
+褫	褫	qi2			
+豕	豕	qi2			
+跐	跐	qi2		踏，践踏，踩	
+玼	玼	qi2			
+泚	泚	qi2			
+次	次	qi3			
+赐	賜	qi3			
+帜	幟	qi3			
+刺	刺	qi3			
+炽	熾	qi3			
+厕	廁	qi3			
+翅	翅	qi3			
+瓷	瓷	qi4			
+祠	祠	qi4			
+篪	篪	qi4			
+驰	馳	qi4			
+慈	慈	qi4			
+词	詞	qi4			
+磁	磁	qi4			
+辞	辭	qi4			
+池	池	qi4			
+墀	墀	qi4			
+弛	弛	qi4			
+糍	糍	qi4			
+持	持	qi4			
+匙	匙	qi4	汤匙，羹匙，茶匙，药匙	勺子	
+迟	遲	qi4			
+脐	臍	qi4			
+茌	茌	qi4			
+踟	踟	qi4			
+茨	茨	qi4			
+兹	茲	qi4	龟兹	（古）国名	
+恃	恃	qi5			
+柿	柿	qi5			
+似	似	qi5			
+姒	姒	qi5			
+妾	妾	qib3			
+设	設	qid3			
+切	切	qid3	切割，切菜，切开，切断，切入，切磋，切面，切实，切题，切记，切齿，亲切，密切，贴切，迫切，急切，恳切，心切，切身，不切实际	用刀把东西切断；贴近，密合，符合，急迫，务必，一定	
+彻	徹	qid3			
+辙	轍	qid3			
+澈	澈	qid3			
+撤	撤	qid3			
+掣	掣	qid3	掣签，掣剑	抽，拔	
+斥	斥	qig1			
+戚	戚	qig1			
+叱	叱	qig1			
+敕	敕	qig1			
+彳	彳	qig1			
+饬	飭	qig1			
+槭	槭	qig1			
+签	籤	qim1			簽
+纤	纖	qim1			
+歼	殲	qim1			
+签	簽	qim1			
+谄	諂	qim2			
+堑	塹	qim3			
+僭	僭	qim3			
+暹	暹	qim3/qim1			
+潜	潛	qim4			
+千	千	qin1			
+迁	遷	qin1			
+仟	仟	qin1			
+千	韆	qin1			
+阡	阡	qin1			
+芊	芊	qin1			
+浅	淺	qin2			
+前	前	qin4			
+缠	纏	qin4			
+钱	錢	qin4			
+践	踐	qin5/jin6			
+蛏	蟶	qing1			
+氰	氰	qing1			
+清	清	qing1			
+称	稱	qing1	称呼，声称，名称，简称，自称，俗称	叫，叫做	
+蜻	蜻	qing1			
+鲭	鯖	qing1			
+青	青	qing1/céng1			
+拯	拯	qing2			
+逞	逞	qing2			
+骋	騁	qing2			
+请	請	qing2/céng2			
+称	稱	qing3	称一称	（动词）量轻重，测定重量	
+秤	秤	qing3			
+称	稱	qing3/ceng3	称职，称心，称体，对称，市称，磅称，匀称，称心如意	适合，相等，相当	
+情	情	qing4			
+惩	懲	qing4			
+程	程	qing4			
+晴	晴	qing4			
+澄	澄	qing4			
+呈	呈	qing4			
+埕	埕	qing4			
+澂	澂	qing4			澄
+裎	裎	qing4			
+超	超	qiu1			
+钊	釗	qiu1			
+昭	昭	qiu1			
+锹	鍬	qiu1			
+悄	悄	qiu2	悄没声，悄然		
+悄	悄	qiu2/qiu1	悄悄，静悄悄，悄悄地走了		
+峭	峭	qiu3			
+俏	俏	qiu3			
+鞘	鞘	qiu3			
+肖	肖	qiu3			
+诮	誚	qiu3			
+朝	朝	qiu4	朝向，朝天，朝阳，王朝，朝廷	向，面对着	
+潮	潮	qiu4			
+瞧	瞧	qiu4			
+憔	憔	qiu4			
+樵	樵	qiu4			
+躇	躇	qu1			
+橱	櫥	qu1			
+杵	杵	qu2			
+贮	貯	qu2			
+褚	褚	qu2		（姓）	
+处	處	qu3/xu3	处所，处长，好处，远处，到处	（名词）地方	
+蹰	蹰	qu4			
+厨	廚	qu4/cêu4			
+署	署	qu5			
+储	儲	qu5			
+苎	苧	qu5			
+柱	柱	qu5			
+曙	曙	qu5			
+处	處	qu5	处理，处罚，处事，惩处，相处	（动词）	
+伫	佇	qu5			
+褚	褚	qu5	褚衣	丝绵，棉衣	
+杼	杼	qu5			
+猝	猝	qud3			
+撮	撮	qud3			
+踅	踅	qud3			
+穿	穿	qun1			
+汆	汆	qun1			
+川	川	qun1			
+蹿	躥	qun1			
+村	村	qun1			邨
+忖	忖	qun2			
+喘	喘	qun2			
+撺	攛	qun2/qun3			
+吋	吋	qun3			
+爨	爨	qun3			
+寸	寸	qun3			
+串	串	qun3			
+窜	竄	qun3			
+泉	泉	qun4			
+诠	詮	qun4			
+存	存	qun4			
+铨	銓	qun4			
+传	傳	qun4	传统，传授，传奇，传说，传承，传播，传染，传话，传唤，传神，传热，传情，相传，据传，遗传，宣传	转授，递送，散布，表达	
+痊	痊	qun4			
+全	全	qun4			
+醛	醛	qun4			
+荃	荃	qun4			
+辁	輇	qun4			
+筌	筌	qun4			
+椽	椽	qun4			
+莎	莎	sa1			
+啥	啥	sa1			
+痧	痧	sa1			
+沙	沙	sa1			
+砂	砂	sa1			
+卅	卅	sa1			
+裟	裟	sa1			
+鲨	鯊	sa1			
+纱	紗	sa1			
+耍	耍	sa2			
+洒	灑	sa2			
+圾	圾	sab3			
+飒	颯	sab3			
+歃	歃	sab3			
+萨	薩	sad3			
+铩	鎩	sad3			
+煞	煞	sad3			
+杀	殺	sad3			
+撒	撒	sad3			
+刹	剎	sad3	刹车，刹住	止住	
+索	索	sag3/sog3	索引，索取，搜索，线索		
+玺	璽	sai2			
+徙	徙	sai2			
+晒	曬	sai3			
+仨	仨	sam1			
+三	三	sam1	三个，三角，再三，三番五次	（数字）	
+衫	衫	sam1			
+叁	叄	sam1			
+三	三	sam3	三思	屡次，多次，再三	
+珊	珊	san1			
+栓	栓	san1			
+山	山	san1			
+闩	閂	san1			
+拴	拴	san1			
+舢	舢	san1			
+潸	潸	san1			
+删	刪	san1			
+姗	姍	san1			
+跚	跚	san1			
+散	散	san2	散文，散漫，散发	松开，不约束，不守纪律，零碎的，不集中的	
+馓	饊	san2			
+篡	篡	san3			
+讪	訕	san3			
+汕	汕	san3			
+疝	疝	san3			
+散	散	san3	散步，散心，散会，散布	分开，分离，分布，分给，排遣，解雇	
+伞	傘	san3			
+涮	涮	san3			
+孱	孱	san4			
+潺	潺	san4			
+牲	牲	sang1			
+甥	甥	sang1			
+省	省	sang2	省份，节省		
+梢	梢	sao1			
+捎	捎	sao1			
+稍	稍	sao2			
+哨	哨	sao3			
+湿	濕	seb1			溼
+涩	澀	seb1/xig1/gib3			
+霎	霎	seb3			
+十	十	seb6			
+拾	拾	seb6			
+虱	蝨	sed1			
+室	室	sed1			
+失	失	sed1			
+膝	膝	sed1			
+瑟	瑟	sed1			
+实	實	sed6			
+塞	塞	seg1	塞满，塞子，塞住，塞车，塞责，耳塞，活塞，木塞，瓶塞，堵塞，闭塞，阻塞，充塞，搪塞，软木塞，闭目塞听	堵，填满，阻隔，受阻，不畅，不通	
+噻	噻	seg1			
+犀	犀	sei1			
+嘶	嘶	sei1			
+硒	硒	sei1			
+西	西	sei1			
+筛	篩	sei1			
+舾	舾	sei1			
+樨	樨	sei1			
+茜	茜	sei1		（人名用字）	
+使	使	sei2	使用，使唤，支使，驱使，假使，即使，迫使，促使	（口语）用，差遣，令	
+洗	洗	sei2			
+驶	駛	sei2			
+婿	婿	sei3			
+世	世	sei3			
+细	細	sei3			
+势	勢	sei3			
+舐	舐	sei5/sei2			
+逝	逝	sei6			
+筮	筮	sei6			
+噬	噬	sei6			
+誓	誓	sei6			
+深	深	sem1			
+心	心	sem1			
+芯	芯	sem1	灯芯	去皮的灯心草	
+参	參	sem1	参茶，参茸，参星，参商，参须，人参，党参，高丽参，动如参商	一种草药植物；二十八宿之一	蔘
+森	森	sem1			
+琛	琛	sem1			
+郴	郴	sem1			
+婶	嬸	sem2			
+审	審	sem2			
+沈	沈	sem2			
+沈	瀋	sem2			
+渗	滲	sem3			
+沁	沁	sem3			
+涔	涔	sem4			
+岑	岑	sem4			
+忱	忱	sem4			
+梣	梣	sem4			
+谌	諶	sem4			
+什	什	sem6	什么	（疑问词）	甚
+甚	甚	sem6			
+葚	椹	sem6			
+砷	砷	sen1			
+娠	娠	sen1			
+呻	呻	sen1			
+伸	伸	sen1			
+新	新	sen1			
+薪	薪	sen1			
+燊	燊	sen1			
+身	身	sen1			
+申	申	sen1			
+绅	紳	sen1			
+辛	辛	sen1			
+锌	鋅	sen1			
+莘	莘	sen1			
+晨	晨	sen4			
+辰	辰	sen4			
+神	神	sen4			
+臣	臣	sen4			
+肾	腎	sen5			
+慎	慎	sen6			
+蜃	蜃	sen6/sen5			
+笙	笙	seng1			
+生	生	seng1/sang1			
+擤	擤	seng3			
+蹭	蹭	seng3			
+收	收	seo1			
+修	修	seo1			
+羞	羞	seo1			
+飕	颼	seo1			
+螋	螋	seo1			
+馊	餿	seo1			
+嗖	嗖	seo1		（象声词）迅速通过的声音	
+馐	饈	seo1			
+搜	搜	seo1/seo2	搜集，搜罗	寻求，寻找	蒐
+手	手	seo2			
+首	首	seo2			
+嗾	嗾	seo2			
+擞	擻	seo2			
+守	守	seo2			
+搜	搜	seo2	搜身，搜捕	搜索检查	
+薮	藪	seo2			
+艘	艘	seo2/seo1			
+宿	宿	seo3	星宿，二十八宿	（天文学）星的集合体	
+兽	獸	seo3			
+狩	狩	seo3			
+嗽	嗽	seo3			
+锈	鏽	seo3			銹
+绣	繡	seo3			綉
+漱	漱	seo3			
+琇	琇	seo3			
+瘦	瘦	seo3			
+秀	秀	seo3			
+仇	仇	seo4	仇人，仇恨，仇敌，结仇，恩仇，报仇，深仇大恨，恩将仇报，疾恶如仇	敌人，怨恨，敌意，报复	
+愁	愁	seo4			
+授	授	seo6			
+绶	綬	seo6			
+售	售	seo6			
+受	受	seo6			
+寿	壽	seo6			
+唆	唆	so1			
+嗦	嗦	so1			
+蔬	蔬	so1			
+疏	疏	so1			
+蓑	蓑	so1			簑
+梭	梭	so1			
+梳	梳	so1			
+羧	羧	so1			
+娑	娑	so1			
+所	所	so2			
+唢	嗩	so2			
+锁	鎖	so2			
+琐	瑣	so2			
+傻	傻	so4			
+朔	朔	sog3			
+索	索	sog3	绳索		
+槊	槊	sog3			
+矟	矟	sog3			
+鳃	鰓	soi1			
+腮	腮	soi1			
+丧	喪	song1	丧礼，丧葬	跟死人有关的事	
+桑	桑	song1			
+爽	爽	song2			
+嗓	嗓	song2			
+搡	搡	song2			
+塽	塽	song2			
+丧	喪	song3	丧失，丧气，丧命	丢掉，失去	
+臊	臊	sou1	臊臭，腥臊，狐臊，鸟臊，尿臊气		
+稣	穌	sou1			
+须	鬚	sou1			
+酥	酥	sou1			
+甦	甦	sou1			
+搔	搔	sou1			
+苏	蘇	sou1			
+骚	騷	sou1			
+苏	囌	sou1			
+数	數	sou2	数数，数说，倒数，数数目，数到十，数典忘祖，数一数二，不可胜数	（动词）计算，查点	
+嫂	嫂	sou2			
+塑	塑	sou3			
+数	數	sou3	数字，数学，数年，数天，数种，人数，岁数，多数，次数，整数，分数，单数，复数，自然数，数以万计，心中有数	（名词）	
+溯	溯	sou3			
+诉	訴	sou3			
+愫	愫	sou3			
+臊	臊	sou3	羞臊，害臊		
+扫	掃	sou3			
+素	素	sou3			
+夙	夙	sug1			
+僳	僳	sug1			
+宿	宿	sug1	宿舍，宿愿，宿敌，宿命，宿醉，住宿，归宿，寄宿，投宿，露宿，通宿，一宿，半宿，整宿，住一宿，三天两宿	住，过夜；年老的；素有的，旧有的；（量词）计算夜数	
+蓿	蓿	sug1			
+鹔	鷫	sug1			
+倏	倏	sug1			
+粟	粟	sug1			
+叔	叔	sug1			
+肃	肅	sug1			
+缩	縮	sug1			
+谡	謖	sug1			
+淑	淑	sug6			
+塾	塾	sug6			
+菽	菽	sug6			
+孰	孰	sug6			
+蜀	蜀	sug6			
+赎	贖	sug6			
+熟	熟	sug6			
+属	屬	sug6			
+松	鬆	sung1			
+从	從	sung1	從容，從容不迫	舒缓不急，不紧张的样子	
+淞	淞	sung1			
+忪	忪	sung1	惺忪，睡眼惺忪	未睡醒的样子	
+嵩	嵩	sung1			
+菘	菘	sung1			
+耸	聳	sung2			
+竦	竦	sung2			
+怂	慫	sung2			
+悚	悚	sung2			
+宋	宋	sung3			
+送	送	sung3			
+崇	崇	sung4			
+些	些	sé1			
+赊	賒	sé1			
+舍	捨	sé2			
+写	寫	sé2			
+泻	瀉	sé3			
+赦	赦	sé3			
+舍	舍	sé3			
+卸	卸	sé3			
+猞	猞	sé3			
+蛇	蛇	sé4	蛇皮，毒蛇		
+畲	畲	sé4			
+佘	佘	sé4			
+社	社	sé5			
+麝	麝	sé6			
+射	射	sé6			
+锡	錫	ség3			
+硕	碩	ség6			
+石	石	ség6	石头，岩石	坚硬的块状物	
+死	死	séi2			
+四	四	séi3			
+恤	恤	sêd1			
+摔	摔	sêd1			
+蟀	蟀	sêd1			
+率	率	sêd1	率先，率领，率队，率团，率真，率性，率然，直率，轻率，草率，表率，坦率，粗率	领先，带领；直爽，坦白，不慎重，不细心	
+戌	戌	sêd1			
+窣	窣	sêd1			
+述	述	sêd6			
+术	術	sêd6			
+沭	沭	sêd6			
+秫	秫	sêd6			
+削	削	sêg3			
+烁	爍	sêg3			
+铄	鑠	sêg3			
+芯	芯	sên1	芯子	引线，物体的中心部分	
+殉	殉	sên1			
+询	詢	sên1			
+峋	峋	sên1			
+荀	荀	sên1			
+笋	筍	sên2			
+榫	榫	sên2			
+信	信	sên3			
+舜	舜	sên3			
+瞬	瞬	sên3			
+巽	巽	sên3			
+迅	迅	sên3			
+逊	遜	sên3			
+汛	汛	sên3			
+讯	訊	sên3			
+浚	浚	sên3	浚县	（地名）	濬
+囟	囟	sên3/sên2			顖
+醇	醇	sên4			
+唇	脣	sên4			
+淳	淳	sên4			
+纯	純	sên4			
+驯	馴	sên4			
+鹑	鶉	sên4/cên1			
+顺	順	sên6			
+霜	霜	sêng1			
+双	雙	sêng1			
+厢	廂	sêng1			
+商	商	sêng1			
+伤	傷	sêng1			
+孀	孀	sêng1			
+觞	觴	sêng1			
+湘	湘	sêng1			
+箱	箱	sêng1			
+鹴	鸘	sêng1			
+殇	殤	sêng1			
+镶	鑲	sêng1			
+相	相	sêng1	相信，相称，相较，相像，相异，互相，相得益彰，相亲相爱，两地相思，出门相迎，守望相助，实不相瞒，旗鼓相当，有事相烦	彼此，交互，两方面	
+襄	襄	sêng1			
+想	想	sêng2			
+赏	賞	sêng2			
+鲞	鯗	sêng2			
+相	相	sêng3	相貌，相亲，相国，相命，相字，长相，面相，福相，窘相，吃相，丞相，宰相，傧相，寒酸相，穷酸相，相机而动，相夫教子，吉人天相，人不可貌相	审视，察看，辨察，占卜；外表，容貌，外形，模样；官名	
+嫦	嫦	sêng4			
+尝	嚐	sêng4			
+尝	嘗	sêng4			
+徜	徜	sêng4			
+裳	裳	sêng4			
+常	常	sêng4			
+偿	償	sêng4			
+上	上	sêng5	上山，上楼，上街，上学，上班，上油，上来，上市，上车	（动词）上升	
+上	上	sêng6	上面，上级，上次，上午，上辈，山上，以上，晚上，马上	位置在高处	
+尚	尚	sêng6			
+睢	睢	sêu1			
+衰	衰	sêu1	衰老，衰弱，衰退，衰败，兴衰，盛衰，衰微	变弱，减退	
+虽	雖	sêu1			
+胥	胥	sêu1			
+须	須	sêu1			
+荽	荽	sêu1			
+绥	綏	sêu1			
+需	需	sêu1			
+濉	濉	sêu1			
+水	水	sêu2			
+说	說	sêu3	说服，说客，游说	劝说，用言语劝人	
+税	稅	sêu3			
+帅	帥	sêu3			
+岁	歲	sêu3			
+碎	碎	sêu3			
+谁	誰	sêu4			
+垂	垂	sêu4			
+陲	陲	sêu4			
+墅	墅	sêu5			
+髓	髓	sêu5			
+绪	緒	sêu5			
+絮	絮	sêu5/sêu6			
+祟	祟	sêu6			
+穗	穗	sêu6			
+瑞	瑞	sêu6			
+隧	隧	sêu6			
+萃	萃	sêu6			
+邃	邃	sêu6			
+燧	燧	sêu6			
+睡	睡	sêu6			
+粹	粹	sêu6			
+遂	遂	sêu6			
+悴	悴	sêu6			
+彗	彗	sêu6			
+瘁	瘁	sêu6/sêu5			
+它	牠	ta1			
+铊	鉈	ta1			
+她	她	ta1			
+他	他	ta1			
+他	祂	ta1			
+它	它	ta1			
+榻	榻	tab3			
+塌	塌	tab3			
+塔	塔	tab3			
+漯	漯	tab3	漯水，漯河	（古河流名）	
+遢	遢	tab3/tad3			
+闼	闥	tad3			
+挞	撻	tad3			
+跶	躂	tad3			
+鞑	韃	tad3			
+趿	趿	tad3			
+太	太	tai3			
+肽	肽	tai3			
+泰	泰	tai3			
+傣	傣	tai3			
+态	態	tai3			
+贷	貸	tai3			
+汰	汰	tai3			
+钛	鈦	tai3			
+贪	貪	tam1			
+毯	毯	tam2			
+菼	菼	tam2			
+探	探	tam3			
+坛	罈	tam3			罎，壜
+谈	談	tam4			
+昙	曇	tam4			
+覃	覃	tam4			
+痰	痰	tam4			
+潭	潭	tam4			
+谭	譚	tam4			
+郯	郯	tam4			
+澹	澹	tam4	澹台	（复姓）	
+淡	淡	tam5	淡水，淡绿，淡酒，清淡	（口语）盐份少，不咸；某成分少，不浓	
+瘫	癱	tan1			
+坍	坍	tan1			
+摊	攤	tan1			
+滩	灘	tan1			
+坦	坦	tan2			
+袒	袒	tan2			
+忐	忐	tan2			
+钽	鉭	tan2			
+疸	疸	tan2			
+亶	亶	tan2			
+炭	炭	tan3			
+叹	歎	tan3			嘆
+碳	碳	tan3			
+檀	檀	tan4			
+弹	彈	tan4	弹奏，弹琴，弹劾，弹琵琶，弹钢琴，弹吉他，弹弦子，对牛弹琴	（动词）演奏，拨弄乐器	
+坛	壇	tan4			
+梯	梯	tei1			
+锑	銻	tei1			
+䴘	鷈	tei1			
+体	體	tei2			
+涕	涕	tei3			
+嚏	嚏	tei3			
+剃	剃	tei3			
+屉	屜	tei3			
+替	替	tei3			
+缇	緹	tei4			
+堤	堤	tei4			隄
+啼	啼	tei4			
+鹈	鵜	tei4			
+题	題	tei4			
+蹄	蹄	tei4			
+提	提	tei4			
+醍	醍	tei4			
+娣	娣	tei5/dei6			
+饨	飩	ten1			
+吞	吞	ten1			
+褪	褪	ten3			
+疼	疼	teng4			
+腾	騰	teng4			
+誊	謄	teng4			
+藤	藤	teng4			
+滕	滕	teng4			
+偷	偷	teo1			
+透	透	teo3			
+头	頭	teo4			
+投	投	teo4			
+骰	骰	teo4/xig1			
+萜	萜	tib3			
+贴	貼	tib3			
+帖	帖	tib3			
+餮	餮	tid3			
+铁	鐵	tid3			
+惕	惕	tig1			
+铽	鋱	tig1			
+剔	剔	tig1			
+忑	忑	tig1			
+忒	忒	tig1			
+倜	倜	tig1			
+裼	裼	tig1		婴儿的衣服、被褥等	
+添	添	tim1			
+舔	舔	tim2			
+甜	甜	tim4			
+恬	恬	tim4			
+菾	菾	tim4			
+天	天	tin1			
+腆	腆	tin2			
+钿	鈿	tin4	铜钿，洋钿，房钿，车钿，船钿，几钿	（方）钱，硬币	
+填	填	tin4			塡
+田	田	tin4			
+阗	闐	tin4			
+畋	畋	tin4			
+滇	滇	tin4/din1			
+钿	鈿	tin4/din6	钿镜，宝钿，螺钿，翠钿，金钿	把金属、宝石等镶嵌在物体上面作装饰	
+殄	殄	tin5/tim5			
+烃	烴	ting1			
+汀	汀	ting1	汀线	水边平地	
+厅	廳	ting1/téng1			
+听	聽	ting1/téng1	听见，听力，听觉，听到，听从，好听，打听，聆听，倾听，言听计从	用耳朵接受声音	
+听	聽	ting3	听凭，听任，听便，听讼，听其自然，听天由命，听之任之，垂帘听政	凭，任，任由，任凭，处理，判断	
+庭	庭	ting4			
+蜓	蜓	ting4			
+霆	霆	ting4			
+婷	婷	ting4			
+停	停	ting4			
+廷	廷	ting4			
+亭	亭	ting4			
+铤	鋌	ting5			
+挺	挺	ting5			
+艇	艇	ting5/téng5			
+挑	挑	tiu1	挑选，挑剔，挑刺，挑拣，挑灯，挑毛病，挑重担，挑大梁，挑肥拣瘦，挑三拣四，挑字眼儿	用肩膀承担；选，拣；故意找错，或找出小毛病而加以指摘	
+挑	挑	tiu1/tiu5	挑衅，挑拨，挑战，挑逗，挑弄，挑动，挑是非，挑拨离间	拨弄，拨动，惹起，引动，引起	
+跳	跳	tiu3			
+眺	眺	tiu3			
+迢	迢	tiu4			
+调	調	tiu4	调整，调停，调剂，调戏，调皮，调侃，调情，调和，调味，失调，空调，协调		
+条	條	tiu4			
+笤	笤	tiu4			
+龆	齠	tiu4			
+髫	髫	tiu4			
+蜩	蜩	tiu4			
+调	調	tiu4	调查	（口语）	
+窕	窕	tiu5			
+拖	拖	to1			
+妥	妥	to2			
+椭	橢	to2			
+唾	唾	to3/tê3			
+陀	陀	to4			
+沱	沱	to4			
+驼	駝	to4			
+鸵	鴕	to4			
+佗	佗	to4			
+驮	馱	to4	驮运，驮兽，驮马，驮轿	（动词）牲口用背负载人或物	
+舵	舵	to4			
+砣	砣	to4			
+鼍	鼉	to4			
+庹	庹	tog3			
+托	託	tog3			托，讬
+橐	橐	tog3			
+托	托	tog3			
+拓	拓	tog3			
+柝	柝	tog3			
+苔	苔	toi1	舌苔	一种舌头上的物质	
+胎	胎	toi1			
+台	枱	toi4			檯
+跆	跆	toi4			
+台	台	toi4			臺
+苔	苔	toi4	青苔	一种植物	
+台	颱	toi4			
+薹	薹	toi4			
+抬	抬	toi4			擡
+邰	邰	toi4			
+汤	湯	tong1			
+镗	鏜	tong1			
+淌	淌	tong2			
+倘	倘	tong2			
+躺	躺	tong2			
+傥	儻	tong2			
+帑	帑	tong2			
+蹚	蹚	tong3			
+烫	燙	tong3			
+趟	趟	tong3			
+熨	熨	tong3	熨斗	（俗）把衣服烫平；把衣服烫平的工具	
+堂	堂	tong4			
+唐	唐	tong4			
+膛	膛	tong4			
+螳	螳	tong4			
+塘	塘	tong4			
+棠	棠	tong4			
+幢	幢	tong4	石幢，经幢，一幢别墅	（量词）用于楼房、房屋等；（古）刻着佛号或经咒的石柱	
+醣	醣	tong4			
+溏	溏	tong4			
+螗	螗	tong4			
+糖	糖	tong4/tong2			
+搪	搪	tong4/tong5			
+饕	饕	tou1			
+滔	滔	tou1			
+叨	叨	tou1	叨光，叨教，叨扰，叨陪	（客套话）承受，得到，受到好处	
+韬	韜	tou1			
+钍	釷	tou2			
+讨	討	tou2			
+祷	禱	tou2			
+土	土	tou2			
+吐	吐	tou3	吐露，吐字，吐痰，吐气，吐穗，吐絮，吐芽，吐诉，吐话，吐实，吐属，吐口，吐血，吐沫，吐泻，谈吐，呕吐，吐口水，吐故纳新，吐出赃款，上吐下泻	东西从嘴里出来	
+兔	兔	tou3			
+套	套	tou3			
+图	圖	tou4			
+逃	逃	tou4			
+涂	塗	tou4			
+萄	萄	tou4			
+鼗	鼗	tou4			
+掏	掏	tou4			
+涂	涂	tou4			
+涛	濤	tou4			
+桃	桃	tou4			
+徒	徒	tou4			
+淘	淘	tou4			
+荼	荼	tou4			
+途	途	tou4			
+啕	啕	tou4			
+陶	陶	tou4			
+屠	屠	tou4			
+梼	檮	tou4			
+洮	洮	tou4	洮河	（水名）	
+肚	肚	tou5			
+秃	禿	tug1			
+通	通	tung1			
+统	統	tung2			
+桶	桶	tung2			
+捅	捅	tung2			
+筒	筒	tung2/tung4			
+痛	痛	tung3			
+童	童	tung4			
+酮	酮	tung4			
+铜	銅	tung4			
+佟	佟	tung4			
+同	衕	tung4			
+僮	僮	tung4	僮仆，家僮，书僮	（古）未成年的奴仆	
+同	同	tung4			仝
+峒	峒	tung4			
+彤	彤	tung4			
+瞳	瞳	tung4			
+桐	桐	tung4			
+潼	潼	tung4			
+踢	踢	tég3			
+湍	湍	tên1/jun1			
+彖	彖	tên3			
+盾	盾	tên5			
+推	推	têu1			
+腿	腿	têu2			
+蜕	蛻	têu3			
+退	退	têu3			
+颓	頹	têu4			
+脱	脫	tüd3			
+囤	囤	tün4			
+团	團	tün4			
+豚	豚	tün4			
+臀	臀	tün4			
+屯	屯	tün4			
+团	糰	tün4			
+断	斷	tün5	断绝，断电，断交，断奶，断气，割断，截断，绳子断了	（口语）长形的东西折掉或从中间截开，隔绝，不继续	
+屋	屋	ug1			
+瓮	甕	ung3			
+齆	齆	ung3			
+洼	窪	wa1			
+娃	娃	wa1			
+哇	哇	wa1			
+蛙	蛙	wa1			
+哗	嘩	wa1			
+哗	譁	wa1			
+凹	凹	wa1		（地名，人名）	
+话	話	wa2	话题，说话	（名词）	
+剐	剮	wa2			
+画	畫	wa2/wa6	画家，笔画	（名词）	
+华	華	wa4	华丽，华人，精华，中华，年华		
+骅	驊	wa4			
+划	划	wa4/wa1			
+踝	踝	wa5			
+华	華	wa6	华山，华佗	（姓，地名）	
+话	話	wa6		（动词）	
+桦	樺	wa6/wa4			
+斡	斡	wad3			
+挖	挖	wad3			
+滑	滑	wad6			
+猾	猾	wad6			
+惑	惑	wag6			
+或	或	wag6			
+划	劃	wag6			
+画	畫	wag6	画图，画画	（动词）	
+歪	歪	wai1			
+怀	懷	wai4			
+槐	槐	wai4			
+淮	淮	wai4			
+坏	壞	wai6			
+弯	彎	wan1			
+湾	灣	wan1			
+绾	綰	wan2			
+玩	玩	wan2	玩儿，玩火，玩足球，玩游戏，玩皮球，出去玩	游戏，玩耍	
+顽	頑	wan4			
+鬟	鬟	wan4			
+还	還	wan4			
+环	環	wan4			
+玩	玩	wan4	玩笑，玩意，开玩笑	耍笑捉弄	
+寰	寰	wan4			
+锾	鍰	wan4			
+圜	圜	wan4	转圜	环绕，围绕	
+挽	挽	wan5			
+挽	輓	wan5			
+幻	幻	wan6			
+宦	宦	wan6			
+患	患	wan6			
+豢	豢	wan6			
+横	橫	wang4	横跨，纵横，横断面		
+横	橫	wang6	横财，横祸，蛮横	粗暴，意外，不吉利	
+屈	屈	wed1			
+郁	鬱	wed1			
+熨	熨	wed1	熨贴	恰当，贴切，妥贴，舒适	
+鹬	鷸	wed6	鹬蚌相争		
+聿	聿	wed6/lêd6			
+威	威	wei1			
+委	委	wei1	委蛇，虚与委蛇	应付，敷衍	
+逶	逶	wei1			
+葳	葳	wei1			
+崴	崴	wei1			
+萎	萎	wei2			
+喟	喟	wei2			
+痿	痿	wei2			
+卉	卉	wei2			
+猥	猥	wei2			
+委	委	wei2	委任，委托，委派，委员，委婉，委屈，主委，编委，常委，省委，政委，委以重任	任命，托付	
+毁	毀	wei2			譭，燬
+诿	諉	wei2			
+蔚	蔚	wei3			
+喂	餵	wei3			
+畏	畏	wei3			
+秽	穢	wei3			
+慰	慰	wei3			
+尉	尉	wei3			
+喂	喂	wei3			
+荟	薈	wei3/wui6			
+违	違	wei4			
+唯	唯	wei4			
+桅	桅	wei4			
+帷	帷	wei4			
+为	為	wei4	以为，认为		爲
+惟	惟	wei4			
+围	圍	wei4			
+维	維	wei4			
+遗	遺	wei4			
+闱	闈	wei4			
+潍	濰	wei4			
+韪	韙	wei5			
+伟	偉	wei5			
+玮	瑋	wei5			
+苇	葦	wei5			
+纬	緯	wei5			
+韦	韋	wei5			
+讳	諱	wei5			
+炜	煒	wei5			
+𬀩	暐	wei5			
+位	位	wei6			
+惠	惠	wei6			
+谓	謂	wei6			
+卫	衛	wei6			衞
+胃	胃	wei6			
+慧	慧	wei6			
+为	為	wei6	为了，因为		爲
+猬	蝟	wei6			
+渭	渭	wei6			
+蕙	蕙	wei6			
+氲	氳	wen1			
+瘟	瘟	wen1			
+温	溫	wen1			
+赟	贇	wen1			
+稳	穩	wen2			
+愠	慍	wen3			
+蕴	蘊	wen3			
+酝	醞	wen3			
+揾	搵	wen3			
+芸	蕓	wen4			
+云	云	wen4			
+筠	筠	wen4		竹子的青皮	
+晕	暈	wen4	晕倒，晕厥，晕眩，晕船，晕车，晕机，头晕，发晕，眼晕，晕过去，晕头转向，晕头晕脑，头晕眼花	头昏，昏迷，头脑不清，丧失知觉；乘坐交通工具时头脑不舒服	
+耘	耘	wen4			
+妘	妘	wen4			
+匀	勻	wen4			
+浑	渾	wen4			
+魂	魂	wen4			
+馄	餛	wen4			
+鋆	鋆	wen4		金子	
+芸	芸	wen4			
+纭	紜	wen4			
+云	雲	wen4			
+昀	昀	wen4			
+珲	琿	wen4			
+陨	隕	wen5			
+尹	尹	wen5			
+允	允	wen5			
+殒	殞	wen5			
+狁	狁	wen5			
+晕	暈	wen6	日晕，月晕，红晕，墨晕，灯晕，酒晕	出现在日月周围的光环	
+熨	熨	wen6	熨斗	把衣服烫平；把衣服烫平的工具	
+混	混	wen6			溷
+运	運	wen6			
+诨	諢	wen6			
+郓	鄆	wen6			
+韵	韻	wen6/wen5			
+闳	閎	weng4			
+宏	宏	weng4			
+弘	弘	weng4			
+泓	泓	weng4			
+纮	紘	weng4			
+域	域	wig6			
+阈	閾	wig6			
+蜮	蜮	wig6			
+罭	罭	wig6			
+扔	扔	wing1			
+嵘	嶸	wing4			
+荣	榮	wing4			
+蝾	蠑	wing4			
+永	永	wing5			
+咏	詠	wing6			
+泳	泳	wing6			
+颖	穎	wing6			
+颍	潁	wing6			
+锅	鍋	wo1			
+蜗	蝸	wo1			
+窝	窩	wo1			
+涡	渦	wo1			
+挝	撾	wo1			
+娲	媧	wo1			
+倭	倭	wo1			
+莴	萵	wo1			
+埚	堝	wo1			
+窠	窠	wo1/fo1			
+禾	禾	wo4			
+和	和	wo4	和平，和谐，和好，和服，讲和，共和，暖和，软和，热和	停战，不争执，顺适；气候温暖	
+祸	禍	wo6			
+和	和	wo6	和诗，和韵，和答，唱和，附和，酬和，和面，和泥，和弄，拌和，掺和，搅和，和稀泥，曲高和寡，一唱一和，用水和面	声音相应；加水搅拌或揉弄粉状物；拌，调匀，搀和，混合	
+获	獲	wog6			
+获	穫	wog6			
+镬	鑊	wog6			
+汪	汪	wong1			
+枉	枉	wong2			
+王	王	wong4			
+隍	隍	wong4			
+煌	煌	wong4			
+遑	遑	wong4			
+蝗	蝗	wong4			
+黄	黃	wong4			
+皇	皇	wong4			
+磺	磺	wong4			
+惶	惶	wong4			
+潢	潢	wong4			
+凰	凰	wong4			
+徨	徨	wong4			
+簧	簧	wong4			
+蟥	蟥	wong4			
+璜	璜	wong4			
+往	往	wong5			
+旺	旺	wong6			
+邬	鄔	wu1			
+污	污	wu1			汙
+钨	鎢	wu1			
+乌	烏	wu1			
+呜	嗚	wu1			
+恶	惡	wu1	恶乎	（古疑问代词、叹词）何，怎么	
+坞	塢	wu2			
+浒	滸	wu2			
+和	和	wu2		（赌博用语）打麻将获胜	
+恶	惡	wu3	可恶，厌恶，憎恶，好恶，深恶痛绝，好逸恶劳	讨厌，憎恨	
+糊	糊	wu4			
+葫	葫	wu4			
+壶	壺	wu4			
+湖	湖	wu4			
+狐	狐	wu4			
+蝴	蝴	wu4			
+瑚	瑚	wu4			
+猢	猢	wu4			
+煳	煳	wu4			
+糊	餬	wu4			
+胡	鬍	wu4			
+胡	衚	wu4			
+鹕	鶘	wu4			
+弧	弧	wu4			
+胡	胡	wu4			
+醐	醐	wu4			
+沪	滬	wu6			
+扈	扈	wu6			
+护	護	wu6			
+祜	祜	wu6			
+户	戶	wu6			
+互	互	wu6			
+芋	芋	wu6			
+怙	怙	wu6			
+瓠	瓠	wu6/wu4			
+活	活	wud6			
+偎	偎	wui1			
+煨	煨	wui1			
+回	回	wui4			囘，囬
+徊	徊	wui4			
+洄	洄	wui4			
+回	迴	wui4			廻
+蛔	蛔	wui4			
+会	會	wui5	会说，不会，会游泳，不会来，不会懂，能说会道，不会不懂，一定会实现	能，能够，善于，可能，有能力做，懂得怎样做	
+汇	匯	wui6			滙
+会	會	wui6	会合，会话，会审，会师，会齐，会客，会面，会意，会账，都会，省会，误会，领会，机会，一会，一会儿，这会儿，那会儿，多会儿，适逢其会	聚合，集合，合拢，合在一起；城市；见面；理解，领悟；片刻，很短的时间	
+烩	燴	wui6			
+汇	彙	wui6/wei6			
+会	會	wui6/wui2	会议，开会，舞会，集会，工会，纪念会，学生会	多人集合的活动或组织	
+剜	剜	wun1			
+碗	碗	wun2			
+腕	腕	wun2			
+莞	莞	wun2	莞尔，莞尔一笑	微笑的样子	
+豌	豌	wun2/wun1			
+玩	玩	wun2/wun6	古玩，珍玩	供玩赏的东西	
+惋	惋	wun2/yun2			
+垣	垣	wun4			
+桓	桓	wun4			
+援	援	wun4/yun4			
+浣	浣	wun5			
+皖	皖	wun5			
+唤	喚	wun6			
+换	換	wun6			
+痪	瘓	wun6			
+缓	緩	wun6			
+玩	玩	wun6	玩弄，玩具，玩味，游玩，玩世不恭	戏弄，耍弄，观赏	
+奂	奐	wun6			
+焕	煥	wun6			
+涣	渙	wun6			
+施	施	xi1			
+私	私	xi1			
+丝	絲	xi1			
+师	師	xi1			
+狮	獅	xi1			
+诗	詩	xi1			
+尸	尸	xi1			
+撕	撕	xi1			
+蓍	蓍	xi1			
+斯	斯	xi1			
+司	司	xi1			
+思	思	xi1			
+尸	屍	xi1			
+厮	廝	xi1			
+锶	鍶	xi1			
+偲	偲	xi1			
+史	史	xi2			
+屎	屎	xi2			
+使	使	xi2	使用，使唤，支使，驱使，假使，即使，迫使，促使	用，差遣，令	
+谥	諡	xi3			謚
+肆	肆	xi3			
+弑	弒	xi3			
+试	試	xi3			
+驷	駟	xi3			
+嗜	嗜	xi3			
+使	使	xi3	使节，使命，使者，使徒，大使，特使，天使	奉命办理事物；派驻国外进行外交事务的人员	
+泗	泗	xi3			
+莳	蒔	xi4			
+时	時	xi4			
+鲥	鰣	xi4			
+匙	匙	xi4	钥匙，锁匙	开锁的器具	
+市	市	xi5			
+事	事	xi6			
+仕	仕	xi6			
+士	士	xi6			
+侍	侍	xi6			
+是	是	xi6			
+伺	伺	xi6	伺候	守候，服侍，照料	
+视	視	xi6			
+氏	氏	xi6	姓氏，无名氏		
+豉	豉	xi6			
+示	示	xi6			
+摄	攝	xib3			
+涉	涉	xib3			
+歙	歙	xib3	歙县	（地名）	
+慑	懾	xib3/jib3			
+屑	屑	xid3			
+泄	洩	xid3			
+窃	竊	xid3			
+亵	褻	xid3			
+薛	薛	xid3			
+楔	楔	xid3			
+绁	絏	xid3			紲
+媟	媟	xid3			
+揳	揳	xid3/xib3			
+舌	舌	xid6/xid3			
+式	式	xig1			
+饰	飾	xig1			
+晰	晰	xig1			
+析	析	xig1			
+色	色	xig1			
+适	適	xig1			
+媳	媳	xig1			
+啬	嗇	xig1			
+释	釋	xig1			
+淅	淅	xig1			
+蟋	蟋	xig1			
+悉	悉	xig1			
+螫	螫	xig1	螫针，螫伤	毒虫刺人	
+熄	熄	xig1			
+轼	軾	xig1			
+昔	昔	xig1			
+皙	皙	xig1			
+息	息	xig1			
+拭	拭	xig1			
+蜥	蜥	xig1			
+识	識	xig1	识别，识字，认识，见识，知识，常识，胆识，素不相识	知道，认得，认识	
+惜	惜	xig1			
+铯	銫	xig1			
+瘜	瘜	xig1			
+奭	奭	xig1			
+窸	窸	xig1			
+裼	裼	xig1/xig3	袒裼，袒裼裸裎	（古）长衣	
+蚀	蝕	xig6			
+食	食	xig6			
+苫	苫	xim1	苫布，草苫子	（名词）以草编成的覆盖物	
+闪	閃	xim2			
+陕	陝	xim2			
+苫	苫	xim3	苫布，苫上	（动词）用草编成的席、布等覆盖	
+禅	禪	xim4	禅宗，坐禅	指与佛教有关的事物	
+蟾	蟾	xim4			
+单	單	xim4	单于	匈奴君主的称号	
+赡	贍	xim6			
+鲜	鮮	xin1	鲜花，鲜美，鲜明，鲜艳，鲜嫩，新鲜，海鲜，尝鲜，屡见不鲜	美味，甜美，清新	
+先	先	xin1			
+仙	仙	xin1			
+酰	酰	xin1			
+籼	秈	xin1			
+氙	氙	xin1/san1			
+鲜	鮮	xin2	鲜有，鲜见，鲜少，鲜为人知，寡廉鲜耻	少，寡，不多	
+跣	跣	xin2			
+冼	冼	xin2			
+癣	癬	xin2			
+骟	騸	xin3			
+腺	腺	xin3			
+扇	扇	xin3			
+煽	煽	xin3			
+霰	霰	xin3			
+线	線	xin3			綫
+蝉	蟬	xin4			
+澶	澶	xin4			
+鳝	鱔	xin5			
+嬗	嬗	xin6			
+擅	擅	xin6			
+膳	膳	xin6			
+倩	倩	xin6			
+善	善	xin6			
+羡	羨	xin6			
+缮	繕	xin6			
+鄯	鄯	xin6			
+单	單	xin6	单县	（姓，地名）	
+禅	禪	xin6	禅让	帝王把帝位让给别人	
+掸	撣	xin6	掸族，掸邦	傣族的旧称；缅甸民族之一	
+茜	茜	xin6	茜草，茜纱	红色	
+升	陞	xing1			
+惺	惺	xing1			
+猩	猩	xing1			
+星	星	xing1			
+胜	勝	xing1	胜任，不胜，不胜枚举，不可胜数，数不胜数	能承受，禁得起	
+升	昇	xing1			
+升	升	xing1			
+腥	腥	xing1/séng1			
+声	聲	xing1/séng1			
+省	省	xing2	反省，不省人事		
+醒	醒	xing2/séng2			
+圣	聖	xing3			
+胜	勝	xing3	胜利，战胜，胜诉，胜过，胜似，胜于，胜会，胜地，胜景，取胜，名胜，获胜，优胜，打胜仗，略胜一筹，名山胜景，以少胜多，引人入胜，旗开得胜，出奇制胜	打败，超过；优美	
+姓	姓	xing3			
+性	性	xing3			
+丞	丞	xing4			
+城	城	xing4			
+成	成	xing4			
+承	承	xing4			
+乘	乘	xing4			
+盛	盛	xing4	盛饭，盛汤，盛水，盛满，盛不了，盛水不漏	用容器装东西	
+绳	繩	xing4			
+诚	誠	xing4			
+渑	澠	xing4	渑水	（古河流名）	
+晟	晟	xing4			
+宬	宬	xing4			
+剩	剩	xing6			
+盛	盛	xing6	茂盛，昌盛，兴盛，盛大，盛开，盛事，盛传，盛宴，盛怒，盛情，盛意，盛会，盛产，盛举，盛行，盛装，盛夸，盛赞，盛馔，旺盛，繁盛，丰盛，盛情难却，盛况空前，全盛时期，年轻气盛，桃花盛开，生意兴盛	兴旺，繁荣，隆重；大规模，程度深，极为	
+嵊	嵊	xing6			
+魈	魈	xiu1			
+宵	宵	xiu1			
+消	消	xiu1			
+霄	霄	xiu1			
+潇	瀟	xiu1			
+韶	韶	xiu1			
+销	銷	xiu1			
+烧	燒	xiu1			
+萧	蕭	xiu1			
+硝	硝	xiu1			
+逍	逍	xiu1			
+箫	簫	xiu1			
+小	小	xiu2			
+少	少	xiu2	少数，多少	不多	
+筱	筱	xiu2			
+少	少	xiu3	少年，少爷，少男，少女，恶少，老少	年轻，青年	
+啸	嘯	xiu3			
+笑	笑	xiu3			
+邵	邵	xiu6			
+绍	紹	xiu6			
+兆	兆	xiu6			
+肇	肇	xiu6			
+劭	劭	xiu6			
+召	召	xiu6		（姓）	
+纾	紓	xu1			
+舒	舒	xu1			
+书	書	xu1			
+枢	樞	xu1			
+输	輸	xu1			
+抒	抒	xu1			
+樗	樗	xu1			
+黍	黍	xu2			
+暑	暑	xu2			
+鼠	鼠	xu2			
+恕	恕	xu3			
+戍	戍	xu3			
+庶	庶	xu3			
+殊	殊	xu4			
+薯	薯	xu4			
+竖	豎	xu6			
+树	樹	xu6			
+澍	澍	xu6			
+雪	雪	xud3			
+鳕	鱈	xud3			
+说	說	xud3	说话，说笑，说法，说明，小说，学说，传说	讲话，解释	
+孙	孫	xun1			
+狲	猻	xun1			
+宣	宣	xun1			
+酸	酸	xun1			
+狻	狻	xun1			
+瑄	瑄	xun1			
+飧	飧	xun1			
+悛	悛	xun1			
+荪	蓀	xun1			
+选	選	xun2			
+损	損	xun2			
+蒜	蒜	xun3			
+算	算	xun3			
+渲	渲	xun3/hün1			
+璇	璇	xun4			
+船	船	xun4			
+漩	漩	xun4			
+旋	旋	xun4			
+璿	璿	xun4			
+鹮	䴉	xun4			
+吮	吮	xun5			
+隽	雋	xun5			
+篆	篆	xun6			
+也	也	ya5			
+泣	泣	yeb1			
+熠	熠	yeb1			
+悒	悒	yeb1			
+翕	翕	yeb1			
+挹	挹	yeb1			
+邑	邑	yeb1			
+揖	揖	yeb1			
+入	入	yeb6			
+壹	壹	yed1			
+一	一	yed1			
+逸	逸	yed6			
+轶	軼	yed6			
+日	日	yed6			
+溢	溢	yed6			
+佚	佚	yed6			
+镒	鎰	yed6			
+跩	跩	yei6			
+曳	曳	yei6			
+音	音	yem1			
+阴	陰	yem1			
+钦	欽	yem1			
+歆	歆	yem1			
+鑫	鑫	yem1			
+喑	喑	yem1			
+饮	飲	yem2			
+荫	蔭	yem3			
+窨	窨	yem3			
+壬	壬	yem4			
+霪	霪	yem4			
+淫	淫	yem4			
+吟	吟	yem4			
+任	任	yem4	任县，任丘	（姓，地名）	
+荏	荏	yem5/yem6			
+妊	妊	yem6			
+饪	飪	yem6			
+任	任	yem6	任务，任意，任命，任职，任用，任凭，信任，重任，担任，就任，离任，委任，连任，放任，听之任之，任重道远	担当，承受，职责，职务，委派	
+任	任	yem6	任县，任丘	（俗：姓，地名）	
+赁	賃	yem6			
+衽	衽	yem6			袵
+氤	氤	yen1			
+恩	恩	yen1			
+因	因	yen1			
+茵	茵	yen1			
+堙	堙	yen1			陻
+姻	姻	yen1			
+甄	甄	yen1			
+昕	昕	yen1			
+欣	欣	yen1			
+殷	殷	yen1			
+忻	忻	yen1			
+洇	洇	yen1			
+隐	隱	yen2			
+瘾	癮	yen2			
+忍	忍	yen2			
+印	印	yen3			
+仁	仁	yen4			
+夤	夤	yen4			
+寅	寅	yen4			
+人	人	yen4			
+蚓	蚓	yen5			
+引	引	yen5			
+衅	釁	yen6			
+孕	孕	yen6			
+胤	胤	yen6			
+纫	紉	yen6			
+刃	刃	yen6			
+仞	仞	yen6			
+韧	韌	yen6/ngeng6			
+丘	丘	yeo1			
+休	休	yeo1			
+幽	幽	yeo1			
+忧	憂	yeo1			
+邱	邱	yeo1			
+优	優	yeo1			
+蚯	蚯	yeo1			
+貅	貅	yeo1			
+鸺	鵂	yeo1			
+咻	咻	yeo1			
+髹	髹	yeo1			
+黝	黝	yeo2			
+柚	柚	yeo2	柚子，葡萄柚	一种常绿乔木	
+幼	幼	yeo3			
+疣	疣	yeo4			
+邮	郵	yeo4			
+柔	柔	yeo4			
+攸	攸	yeo4			
+油	油	yeo4			
+揉	揉	yeo4			
+游	遊	yeo4			
+铀	鈾	yeo4			
+酋	酋	yeo4			
+犹	猶	yeo4			
+鱿	魷	yeo4			
+悠	悠	yeo4			
+由	由	yeo4			
+尤	尤	yeo4			
+蹂	蹂	yeo4			
+游	游	yeo4			
+蚰	蚰	yeo4	蚰蜒		
+楢	楢	yeo4			
+鞣	鞣	yeo4			
+猷	猷	yeo4			
+柚	柚	yeo4/yeo2	柚木	一种落叶乔木	
+酉	酉	yeo5			
+友	友	yeo5			
+诱	誘	yeo5			
+有	有	yeo5			
+莠	莠	yeo5			
+牖	牖	yeo5			
+釉	釉	yeo6			
+又	又	yeo6			
+囿	囿	yeo6			
+宥	宥	yeo6			
+侑	侑	yeo6			
+佑	佑	yeo6			祐
+右	右	yeo6			
+鼬	鼬	yeo6			
+狖	狖	yeo6			
+依	依	yi1			
+衣	衣	yi1			
+铱	銥	yi1			
+漪	漪	yi1			
+医	醫	yi1			
+伊	伊	yi1			
+黟	黟	yi1			
+猗	猗	yi1			
+祎	禕	yi1			
+椅	椅	yi2			
+绮	綺	yi2			
+倚	倚	yi2			
+旖	旖	yi2			
+齮	齮	yi2			
+镱	鐿	yi3			
+薏	薏	yi3			
+癔	癔	yi3			
+意	意	yi3			
+懿	懿	yi3			
+诒	詒	yi4			
+怡	怡	yi4			
+而	而	yi4			
+谊	誼	yi4			
+颐	頤	yi4			
+迤	迤	yi4	逶迤		
+仪	儀	yi4			
+姨	姨	yi4			
+宜	宜	yi4			
+夷	夷	yi4			
+疑	疑	yi4			
+贻	貽	yi4			
+儿	兒	yi4			
+痍	痍	yi4			
+胰	胰	yi4			
+移	移	yi4			
+饴	飴	yi4			
+咦	咦	yi4			
+彝	彞	yi4			
+沂	沂	yi4	沂河	（水名）	
+眙	眙	yi4			
+蛇	蛇	yi4	委蛇，虚与委蛇		
+匜	匜	yi4			
+议	議	yi5			
+矣	矣	yi5			
+以	以	yi5			
+迩	邇	yi5			
+耳	耳	yi5			
+已	已	yi5			
+拟	擬	yi5			
+迤	迤	yi5	迤逦		
+洱	洱	yi5			
+尔	爾	yi5			
+苡	苡	yi5			
+贰	貳	yi6			
+异	異	yi6			
+肄	肄	yi6			
+义	義	yi6			
+劓	劓	yi6			
+二	二	yi6			
+易	易	yi6	易懂，容易		
+靥	靨	yib3			
+叶	葉	yib6			
+烨	燁	yib6			
+业	業	yib6			
+页	頁	yib6			
+邺	鄴	yib6			
+晔	曄	yib6			
+谒	謁	yid3			
+噎	噎	yid3			
+咽	咽	yid3	哽咽，呜咽	阻塞；声音低沉、悲凄、滞涩	
+热	熱	yid6			
+拽	拽	yid6			
+孽	孽	yid6			
+蘖	櫱	yid6			
+臬	臬	yid6/nib6			
+抑	抑	yig1			
+亿	億	yig1			
+臆	臆	yig1			
+益	益	yig1			
+忆	憶	yig1			
+阋	鬩	yig1			
+疫	疫	yig6			
+译	譯	yig6			
+绎	繹	yig6			
+亦	亦	yig6			
+奕	奕	yig6			
+驿	驛	yig6			
+役	役	yig6			
+翊	翊	yig6			
+液	液	yig6			
+翼	翼	yig6			
+弈	弈	yig6			
+蜴	蜴	yig6			
+腋	腋	yig6			
+翌	翌	yig6			
+易	易	yig6	易经，贸易，以物易物，移风易俗，时移势易		
+弋	弋	yig6			
+掖	掖	yig6			
+杙	杙	yig6			
+燚	燚	yig6			
+怿	懌	yig6			
+逆	逆	yig6/ngag6			
+淹	淹	yim1			
+阉	閹	yim1			
+奄	奄	yim1			
+恹	懨	yim1			
+腌	醃	yim1/yib3			
+魇	魘	yim2			
+掩	掩	yim2			
+揜	揜	yim2			
+餍	饜	yim3			
+厌	厭	yim3			
+盐	鹽	yim4			
+炎	炎	yim4			
+严	嚴	yim4			
+髯	髯	yim4			
+蚺	蚺	yim4			
+嫌	嫌	yim4			
+阎	閻	yim4			
+闫	閆	yim4			
+檐	簷	yim4/xim4			
+冉	冉	yim5			
+俨	儼	yim5			
+苒	苒	yim5			
+染	染	yim5			
+琰	琰	yim5			
+验	驗	yim6			
+艳	艷	yim6			
+滟	灧	yim6			灩
+焰	焰	yim6			燄
+咽	咽	yin1	咽喉，咽头	食道的上端部分	
+烟	煙	yin1	烟草，抽烟		菸
+湮	湮	yin1			
+焉	焉	yin1	焉能如此，焉知非福，焉得虎子	（疑问词）岂，怎么，如何	
+胭	胭	yin1			
+蔫	蔫	yin1			
+烟	煙	yin1	烟火，冒烟		
+燕	燕	yin1	燕京	（姓，地名）	
+嫣	嫣	yin1			
+鄢	鄢	yin1			
+阏	閼	yin1	阏氏	匈奴人妻或妾的称号	
+偃	偃	yin2			
+演	演	yin2			
+鼹	鼴	yin2			
+堰	堰	yin2			
+兖	兗	yin2			
+衍	衍	yin2/hin2			
+燕	燕	yin3	燕子，家燕		
+宴	宴	yin3			
+咽	嚥	yin3	咽气，吞咽，咽口水，狼吞虎咽，细嚼慢咽	吞	
+延	延	yin4			
+燃	燃	yin4			
+筵	筵	yin4			
+妍	妍	yin4			
+蜒	蜒	yin4			
+焉	焉	yin4	心不在焉，有厚望焉	此，乃，才	
+言	言	yin4			
+涎	涎	yin4			
+研	研	yin4			
+贤	賢	yin4			
+然	然	yin4			
+舷	舷	yin4			
+弦	弦	yin4			絃
+𫄧	綖	yin4			
+埏	埏	yin4			
+苋	莧	yin6			
+砚	硯	yin6			
+现	現	yin6			
+彦	彥	yin6			
+谳	讞	yin6			
+谚	諺	yin6			
+唁	唁	yin6			
+瑛	瑛	ying1			
+膺	膺	ying1			
+缨	纓	ying1			
+婴	嬰	ying1			
+应	應	ying1	应该，理应		
+樱	櫻	ying1			
+英	英	ying1			
+鹦	鸚	ying1			
+鹰	鷹	ying1			
+映	映	ying2			
+影	影	ying2			
+应	應	ying3	应用，答应，回应		
+营	營	ying4			
+潆	瀠	ying4			
+形	形	ying4			
+刑	刑	ying4			
+蝇	蠅	ying4			
+仍	仍	ying4			
+嬴	嬴	ying4			
+瀛	瀛	ying4			
+萦	縈	ying4			
+萤	螢	ying4			
+邢	邢	ying4			
+赢	贏	ying4	赢钱，输赢		
+楹	楹	ying4			
+迎	迎	ying4			迊
+盈	盈	ying4			
+莹	瑩	ying4			
+凝	凝	ying4			
+型	型	ying4			
+荧	熒	ying4			
+陉	陘	ying4			
+荥	滎	ying4			
+蓥	鎣	ying4			
+铏	鉶	ying4			
+滢	瀅	ying4/ying6			
+郢	郢	ying5			
+认	認	ying6			
+幺	么	yiu1			
+腰	腰	yiu1			
+妖	妖	yiu1			
+邀	邀	yiu1			
+吆	吆	yiu1			
+要	要	yiu1	要求，要挟	求取，胁迫，强迫	
+夭	夭	yiu1	夭夭，逃之夭夭	茂盛的样子	
+扰	擾	yiu2			
+夭	夭	yiu2	夭亡，夭折，夭殇，寿夭	短命，未成年而早死	
+窈	窈	yiu2			
+绕	繞	yiu2/yiu5			遶
+要	要	yiu3	要紧，要点，要旨，要是，要素，要命，要塞，要好，要害，重要，主要，提要，摘要	严重，关键，紧要，需要	
+姚	姚	yiu4			
+谣	謠	yiu4			
+鳐	鰩	yiu4			
+饶	饒	yiu4			
+飖	颻	yiu4			
+娆	嬈	yiu4			
+摇	搖	yiu4			
+瑶	瑤	yiu4			
+尧	堯	yiu4			
+窑	窯	yiu4			
+遥	遙	yiu4			
+洮	洮	yiu4	洮湖	（湖名）	
+徭	徭	yiu4			
+舀	舀	yiu5			
+曜	曜	yiu6			
+鹞	鷂	yiu6			
+耀	耀	yiu6			
+唷	唷	yo1			
+哟	喲	yo1			
+迂	迂	yu1			
+于	於	yu1	于是，终于	（介词）	
+淤	淤	yu1			
+瘀	瘀	yu2			
+妪	嫗	yu2			
+伛	傴	yu2			
+酗	酗	yu3/hêu2/hêu3			
+渝	渝	yu4			
+舆	輿	yu4			
+揄	揄	yu4			
+如	如	yu4			
+俞	俞	yu4			
+虞	虞	yu4			
+萸	萸	yu4			
+隅	隅	yu4			
+予	予	yu4	予取予求	我，吾	
+觎	覦	yu4			
+儒	儒	yu4			
+谀	諛	yu4			
+茹	茹	yu4			
+狳	狳	yu4			
+嚅	嚅	yu4			
+娱	娛	yu4			
+渔	漁	yu4			
+盂	盂	yu4			
+鱼	魚	yu4			
+欤	歟	yu4			
+余	余	yu4		（代词、姓）我	
+蠕	蠕	yu4			
+于	于	yu4		（姓）	
+蝓	蝓	yu4			
+榆	榆	yu4			
+余	餘	yu4	余下，余留，多余，业余，剩余，有余，之余，余音绕梁，不遗余力，心有余悸	剩下的，多出的，不尽的，残留的，未完的	馀
+禺	禺	yu4			
+逾	逾	yu4			
+臾	臾	yu4			
+竽	竽	yu4			
+濡	濡	yu4			
+愚	愚	yu4			
+妤	妤	yu4			
+愉	愉	yu4			
+瑜	瑜	yu4			
+逾	踰	yu4			
+腴	腴	yu4			
+薷	薷	yu4			
+雩	雩	yu4			
+玙	璵	yu4			
+孺	孺	yu4/yu6			
+雨	雨	yu5			
+羽	羽	yu5			
+乳	乳	yu5			
+宇	宇	yu5			
+语	語	yu5	语言，口语	（名词）话	
+与	與	yu5	与其，授与，给与，赠与，与虎谋皮，与人为善，与人方便，时不我与	（连词）和，跟；（动词）给，赠，赞助	
+禹	禹	yu5			
+龉	齬	yu5			
+圄	圄	yu5			
+瑀	瑀	yu5			
+予	予	yu5	赐予，赋予，给予，赠予，寄予，不予置評	授，給	
+敔	敔	yu5			
+貐	貐	yu5			
+汝	汝	yu5			
+圉	圉	yu5			
+窳	窳	yu5			
+谕	諭	yu6			
+寓	寓	yu6			
+裕	裕	yu6			
+御	御	yu6			
+愈	愈	yu6			
+驭	馭	yu6			
+愈	癒	yu6			
+预	預	yu6			
+遇	遇	yu6			
+誉	譽	yu6			
+豫	豫	yu6			
+与	與	yu6	与会，与赛，参与	（动词）参加	
+语	語	yu6	不以语人	（动词）告诉	
+御	禦	yu6			
+喻	喻	yu6			
+蓣	蕷	yu6			
+吁	籲	yu6			
+滪	澦	yu6			
+阅	閱	yud6			
+穴	穴	yud6			
+越	越	yud6			
+钇	釔	yud6			
+钺	鉞	yud6			
+曰	曰	yud6			
+月	月	yud6			
+粤	粵	yud6			
+悦	悅	yud6			
+玥	玥	yud6			
+乙	乙	yud6/yud3			
+煜	煜	yug1			
+毓	毓	yug1			
+郁	郁	yug1			
+沃	沃	yug1			
+昱	昱	yug1			
+彧	彧	yug1			
+顼	頊	yug1			
+旭	旭	yug1			
+蓐	蓐	yug6			
+褥	褥	yug6			
+钰	鈺	yug6			
+浴	浴	yug6			
+辱	辱	yug6			
+育	育	yug6			
+狱	獄	yug6			
+肉	肉	yug6			
+欲	欲	yug6			
+玉	玉	yug6			
+欲	慾	yug6			
+缛	縟	yug6			
+鬻	鬻	yug6			
+峪	峪	yug6/yu6			
+蜿	蜿	yun1			
+鸳	鴛	yun1			
+渊	淵	yun1			
+冤	冤	yun1			寃
+鸢	鳶	yun1			
+宛	宛	yun2			
+苑	苑	yun2			
+婉	婉	yun2			
+琬	琬	yun2			
+菀	菀	yun2			
+畹	畹	yun2			
+怨	怨	yun3			
+辕	轅	yun4			
+圆	圓	yun4			
+猿	猿	yun4			
+眩	眩	yun4			
+缘	緣	yun4			
+元	元	yun4			
+员	員	yun4			
+玄	玄	yun4			
+芫	芫	yun4			
+源	源	yun4			
+园	園	yun4			
+铅	鉛	yun4			
+烷	烷	yun4			
+沿	沿	yun4			
+悬	懸	yun4			
+原	原	yun4			
+袁	袁	yun4			
+完	完	yun4			
+沅	沅	yun4			
+纨	紈	yun4			
+塬	塬	yun4		（地名）	
+螈	螈	yun4			
+鼋	黿	yun4			
+圜	圜	yun4	圜丘，圜墙，圜扉	圆，圆形	
+爰	爰	yun4/wun4			
+丸	丸	yun4/yun2			
+阮	阮	yun5			
+软	軟	yun5			
+远	遠	yun5	远处，永远，深远	不近，距离或时间长	
+愿	願	yun6			
+院	院	yun6			
+媛	媛	yun6			
+县	縣	yun6			
+炫	炫	yun6/yun4			
+远	遠	yun6/yun5	敬而远之	不接近，不亲近	
+翁	翁	yung1			
+雍	雍	yung1			
+廱	廱	yung1			
+邕	邕	yung1			
+嗡	嗡	yung1			
+饔	饔	yung1			
+佣	佣	yung2			
+踊	踴	yung2			
+俑	俑	yung2			
+涌	湧	yung2			
+冗	冗	yung2			
+拥	擁	yung2			
+臃	臃	yung2			
+蛹	蛹	yung2			
+恿	慂	yung2			
+戎	戎	yung4			
+茸	茸	yung4			
+鳙	鱅	yung4			
+慵	慵	yung4			
+溶	溶	yung4			
+融	融	yung4			
+榕	榕	yung4			
+蓉	蓉	yung4			
+佣	傭	yung4			
+庸	庸	yung4			
+熔	熔	yung4			
+镛	鏞	yung4			
+容	容	yung4			
+狨	狨	yung4			
+绒	絨	yung4/yung2			
+勇	勇	yung5			
+用	用	yung6			
+椰	椰	yé4			
+邪	邪	yé4	是邪，非邪，莫邪	（文言）表示疑问、感叹等语气	耶
+揶	揶	yé4			
+耶	耶	yé4			
+爷	爺	yé4			
+琊	琊	yé4	琅琊	（地名）	
+冶	冶	yé5			
+野	野	yé5			
+惹	惹	yé5			
+若	若	yé5	般若，兰若	（梵文音译词）	
+夜	夜	yé6			
+偌	偌	yé6			
+赢	贏	yéng4		（口语）	
+约	約	yêg3			
+钥	鑰	yêg6			
+药	藥	yêg6			
+若	若	yêg6	若干，倘若，如若，宛若，旁若无人，欣喜若狂	如，似，如果，假如，好像	
+虐	虐	yêg6			
+谑	謔	yêg6			
+跃	躍	yêg6			
+疟	瘧	yêg6			
+蒻	蒻	yêg6			
+弱	弱	yêg6			
+籥	籥	yêg6			
+龠	龠	yêg6			
+瀹	瀹	yêg6			
+润	潤	yên6			
+闰	閏	yên6			
+秧	秧	yêng1			
+鸯	鴦	yêng1			
+央	央	yêng1			
+殃	殃	yêng1			
+鞅	鞅	yêng2			
+洋	洋	yêng4			
+旸	暘	yêng4			
+佯	佯	yêng4			
+扬	揚	yêng4			
+阳	陽	yêng4			
+羊	羊	yêng4			
+飏	颺	yêng4			
+疡	瘍	yêng4			
+烊	烊	yêng4			
+杨	楊	yêng4			
+徉	徉	yêng4			
+瀼	瀼	yêng4			
+禳	禳	yêng4			
+穰	穰	yêng4			
+蘘	蘘	yêng4			
+炀	煬	yêng4			
+攘	攘	yêng4	攘外，攘夺，攘除，攘臂，攘为己有	抢夺，侵夺，排斥，抵御；捋起	
+仰	仰	yêng5			
+养	養	yêng5			
+氧	氧	yêng5			
+攘	攘	yêng5	熙攘，扰攘，熙熙攘攘	扰乱	
+痒	癢	yêng5			
+嚷	嚷	yêng5/yêng6			
+让	讓	yêng6			
+样	樣	yêng6			
+漾	漾	yêng6			
+壤	壤	yêng6			
+酿	釀	yêng6			
+恙	恙	yêng6			
+蕤	蕤	yêu4			
+蕊	蕊	yêu5			
+锐	銳	yêu6			
+裔	裔	yêu6			
+睿	睿	yêu6			
+芮	芮	yêu6			
+渣	渣	za1			
+糌	糌	za1			
+吒	吒	za1			
+咱	咱	za1			
+楂	楂	za1			
+齇	齇	za1			
+查	查	za1		（姓）	
+咋	咋	za1	咋呼，咋唬	（方言）吆喝，喊叫，炫耀，张扬	
+抓	抓	za1/zao2			
+咋	咋	za2	咋办，咋样，咋回事	（方言）怎，怎么	
+炸	炸	za3			
+诈	詐	za3			
+乍	乍	za3			
+榨	榨	za3			搾
+咤	咤	za3			
+柞	柞	za3	柞水	（地名）	
+蚱	蚱	za3/zag3			
+嵖	嵖	za6			
+膪	膪	za6			
+眨	眨	zab3			
+咂	咂	zab3			
+匝	匝	zab3			
+砸	砸	zab3			
+闸	閘	zab6			
+集	集	zab6			
+习	習	zab6			
+杂	雜	zab6			
+什	什	zab6	什锦，什物，家什	各种各样，杂样	
+袭	襲	zab6			
+隰	隰	zab6			
+札	札	zad3			
+扎	扎	zad3			
+轧	軋	zad3	轧钢，轧机，热轧，冷轧	压制钢材的过程	
+紮	紮	zad3			紥
+铡	鍘	zad3			
+拶	拶	zad3			
+窄	窄	zag3			
+啧	嘖	zag3			
+责	責	zag3			
+咋	咋	zag3	咋舌	咬住	
+宅	宅	zag6			
+择	擇	zag6			
+泽	澤	zag6			
+摘	摘	zag6			
+踯	躑	zag6			
+掷	擲	zag6			
+谪	謫	zag6			
+磔	磔	zag6			
+翟	翟	zag6		（姓）	
+斋	齋	zai1			
+赍	齎	zai1			
+债	債	zai3			
+寨	寨	zai6			
+眦	眥	zai6			
+簪	簪	zam1			簮
+斩	斬	zam2			
+崭	嶄	zam2			
+湛	湛	zam3			
+蘸	蘸	zam3			
+站	站	zam6			
+錾	鏨	zam6			
+暂	暫	zam6			
+趱	趲	zan2			
+盏	盞	zan2			
+攒	攢	zan2			
+赞	讚	zan3			
+赞	贊	zan3			
+栈	棧	zan6			
+绽	綻	zan6			
+撰	撰	zan6			
+赚	賺	zan6			
+馔	饌	zan6			
+攥	攥	zan6			
+挣	掙	zang6	挣钱，挣脱，挣开，挣命，挣揣	通过劳动获取报酬；尽力摆脱	
+嘲	嘲	zao1			
+爪	爪	zao2			
+找	找	zao2			
+罩	罩	zao3			
+笊	笊	zao3			
+汁	汁	zeb1			
+执	執	zeb1			
+质	質	zed1	质量，质的，性质，物质，品质，优质，实质，变质，质疑，质问	事物的根本、特性、本性等；询问，诘问，责问	
+侄	姪	zed6			
+窒	窒	zed6			
+桎	桎	zed6			
+疾	疾	zed6			
+蛰	蟄	zed6			
+嫉	嫉	zed6			
+蛭	蛭	zed6			
+侧	側	zeg1			
+则	則	zeg1			
+昃	昃	zeg1			
+仄	仄	zeg1			
+跻	躋	zei1			
+齑	齏	zei1			
+剂	劑	zei1			
+挤	擠	zei1			
+仔	仔	zei2	牛仔裤	小孩，男孩，幼小动物	
+济	濟	zei2	济南，济宁，济源，济水，济济一堂	（地名）	
+祭	祭	zei3			
+制	製	zei3			
+霁	霽	zei3			
+济	濟	zei3	济贫，经济，赈济，接济，无济于事，同舟共济	过河，救助，有益	
+制	制	zei3			
+际	際	zei3			
+掣	掣	zei3	掣肘，牵掣，风驰电掣	拽，拉；迅疾，闪过	
+穄	穄	zei3			
+滞	滯	zei6			
+针	針	zem1			
+箴	箴	zem1			
+砧	砧	zem1			
+斟	斟	zem1			
+枕	枕	zem2	枕头，枕木，同床共枕	（名词）躺着的时候垫在头下的东西	
+怎	怎	zem2			
+浸	浸	zem3			
+枕	枕	zem3	枕戈待旦	（动词）把头放在枕头上，用枕头垫头	
+鸩	鴆	zem6			
+朕	朕	zem6			
+胗	胗	zen1			
+珍	珍	zen1			
+真	真	zen1			眞
+轸	軫	zen2/cen2			
+振	振	zen3			
+赈	賑	zen3			
+镇	鎮	zen3			
+震	震	zen3			
+圳	圳	zen3			
+阵	陣	zen6			
+僧	僧	zeng1			
+憎	憎	zeng1			
+曾	曾	zeng1		（姓）	
+筝	箏	zeng1			
+增	增	zeng1			
+峥	崢	zeng1			
+铮	錚	zeng1			
+挣	掙	zeng1/zang1	挣扎	用力支撑或尽力摆脱	
+睁	睜	zeng1/zang1			
+争	爭	zeng1/zang1			
+狰	猙	zeng1/zang1			
+赠	贈	zeng6			
+舟	舟	zeo1			
+周	周	zeo1	周围，圆周		
+州	州	zeo1			
+揪	揪	zeo1			
+周	週	zeo1	周末，周刊，周年，周游		
+洲	洲	zeo1			
+诌	謅	zeo1			
+邹	鄒	zeo1			
+陬	陬	zeo1			
+辀	輈	zeo1			
+诹	諏	zeo1			
+酒	酒	zeo2			
+肘	肘	zeo2			
+帚	帚	zeo2			
+走	走	zeo2			
+奏	奏	zeo3			
+揍	揍	zeo3			
+昼	晝	zeo3			
+咒	咒	zeo3			
+皱	皺	zeo3			
+绉	縐	zeo3			
+鹫	鷲	zeo6			
+冑	冑	zeo6			
+袖	袖	zeo6			
+就	就	zeo6			
+纣	紂	zeo6			
+宙	宙	zeo6			
+骤	驟	zeo6			
+岫	岫	zeo6			
+左	左	zo2			
+阻	阻	zo2			
+俎	俎	zo2			
+佐	佐	zo3			
+诅	詛	zo3/zo2			
+坐	坐	zo6			
+座	座	zo6			
+助	助	zo6			
+唑	唑	zo6			
+作	作	zog3			
+昨	昨	zog3/zog6			
+凿	鑿	zog6			
+擢	擢	zog6			
+酢	酢	zog6		客人向主人敬酒	
+柞	柞	zog6	柞树，柞栎，柞蚕	一种落叶乔木	
+栽	栽	zoi1			
+哉	哉	zoi1			
+灾	災	zoi1			
+载	載	zoi2	千载难逢，三年五载，一年半载	年	
+宰	宰	zoi2			
+崽	崽	zoi2			
+再	再	zoi3			
+载	載	zoi3	载货，载客，承载，运载，搭载，下载，登载，过载，记载，刊载，转载，连载，记载，刊载，转载，连载，载歌载舞，满载而归，怨声载道	装运，用交通工具装东西	
+在	在	zoi6			
+桩	樁	zong1			
+妆	妝	zong1			
+庄	莊	zong1			
+装	裝	zong1			
+脏	髒	zong1			
+赃	贓	zong1			
+驵	駔	zong2	驵侩	买卖马的经纪人	
+壮	壯	zong3			
+葬	葬	zong3			
+戆	戇	zong3/ngong6			
+奘	奘	zong6			
+藏	藏	zong6	藏人，西藏，宝藏	指西藏	
+状	狀	zong6			
+撞	撞	zong6			
+脏	臟	zong6			
+僮	僮	zong6	僮族	（中国少数民族）指壮族	
+遭	遭	zou1			
+租	租	zou1			
+糟	糟	zou1			蹧
+组	組	zou2			
+藻	藻	zou2			
+蚤	蚤	zou2			
+早	早	zou2			
+枣	棗	zou2			
+祖	祖	zou2			
+驵	駔	zou2		骏马，壮马	
+澡	澡	zou2/cou3			
+灶	灶	zou3			竈
+做	做	zou6			
+造	造	zou6	造型，造句，造纸，造船，造化，造反，造谣，制造，创造，构造，人造，改造，塑造，编造，捏造	生产，制作	
+皂	皂	zou6			
+慥	慥	zou6/cou3			
+足	足	zug1			
+竹	竹	zug1			
+祝	祝	zug1			
+粥	粥	zug1			
+捉	捉	zug1			
+瞩	矚	zug1			
+烛	燭	zug1			
+嘱	囑	zug1			
+竺	竺	zug1			
+筑	築	zug1			
+镯	鐲	zug6			
+族	族	zug6			
+逐	逐	zug6			
+浊	濁	zug6			
+轴	軸	zug6			
+续	續	zug6			
+妯	妯	zug6			
+俗	俗	zug6			
+躅	躅	zug6			
+镞	鏃	zug6	箭镞	箭头	
+中	中	zung1	中间，中心，中途，中等，中级，中央，中枢，中文，中医，中外，中原，中学，中庸，中部，中立，中介，中秋，中断，中止，中用，中看，中听，心中，山中，空中，其中，当中，适中，集中，意中人，眼中钉，肉中刺，心目中，进行中，调查中，急中生智，雪中送炭	与四周围距离相等，里面，之间；适于，合于	
+终	終	zung1			
+纵	縱	zung1	纵线，纵横，纵队，纵贯，纵剖面	直	
+盅	盅	zung1			
+宗	宗	zung1			
+棕	棕	zung1			
+钟	鍾	zung1			
+忠	忠	zung1			
+鬃	鬃	zung1			
+螽	螽	zung1			
+踪	蹤	zung1			
+钟	鐘	zung1			
+枞	樅	zung1	枞阳	（地名）	
+舂	舂	zung1			
+忪	忪	zung1	怔忪，心忪	心跳，惊惧	
+综	綜	zung1/zung3			
+种	種	zung2	种子，种类，品种，物种，各种，绝种	（名词）种子，类别	
+肿	腫	zung2			
+总	總	zung2			
+纵	縱	zung3	纵情，纵容，纵火，纵然，放纵，纵身一跳，纵虎归山，欲擒故纵	释放，放肆；即使	
+中	中	zung3	中的，中奖，中彩，中选，中意，中肯，中计，中风，中毒，中暑，中枪，中弹，中伤，中伏，中箭，中标，中邪，打中，击中，考中，猜中，看中，说中，命中，射中，中诡计，中规中矩，一语中的，正中下怀，百发百中，言必有中	射中目标，遭受	
+种	種	zung3	种植，种田，种树，种花，种菜，接种，种牛痘，种麦子，种棉花	（动词）种植；接种疫苗	
+众	眾	zung3			衆
+粽	粽	zung3/zung2			糉
+重	重	zung6	重要，重大，重任，重视，重点，重心，重用，重责，重镇，严重，慎重，郑重，庄重，尊重，敬重，器重，看重，侧重，稳重，保重，自重，珍重，重于泰山，重男轻女，任重道远，语重心长，德高望重	要紧的，意义大的；尊敬；不轻率	
+讼	訟	zung6			
+诵	誦	zung6			
+颂	頌	zung6			
+仲	仲	zung6			
+从	從	zung6/cung4	从犯，从吏，随从，侍从，仆从，主从，从兄，从叔，主从关系	跟随的人，仆役；附和的，附加的；亲族同祖的	
+遮	遮	zé1			
+嗟	嗟	zé1			
+者	者	zé2			
+姐	姐	zé2			
+蔗	蔗	zé3			
+借	借	zé3	借钱，借书	暂时用别人的财物	
+柘	柘	zé3			
+借	藉	zé3/jig6	借口，借故，借机，借助，借词，借着，借以，借端，凭借，借着权势	假托，假借，依赖，依靠	
+这	這	zé5/zé3			
+谢	謝	zé6			
+榭	榭	zé6			
+只	隻	zég3			
+跖	跖	zég3			
+郑	鄭	zéng6/jing6			
+黜	黜	zêd1			
+怵	怵	zêd1			
+卒	卒	zêd1			
+鹊	鵲	zêg3			
+着	著	zêg3	着衣，穿着，衣着，着西服，衣着打扮	穿衣服	
+嚼	嚼	zêg3	嚼舌，嚼食，嚼子，咀嚼，嚼不烂，细嚼慢咽，咬文嚼字，味同嚼蜡，过屠门而大嚼	用牙齿咬碎食物	
+酌	酌	zêg3			
+灼	灼	zêg3			
+雀	雀	zêg3			
+爵	爵	zêg3			
+斫	斫	zêg3	斫伐，斫鼻，斫树，斫营，斫木	砍，斩；用刀斧砍削或劈树	斲
+妁	妁	zêg3			
+桌	桌	zêg3/cêg3			
+焯	焯	zêg3/cêg3	焯灿，焯见	显明，光明，明显，明白	
+勺	勺	zêg3/cêg3/sêg3			杓
+着	著	zêg6	着凉，着急，着火，着迷，着慌，着忙，着魔，着热，着雨，着陆，着重，着手，着色，着实，着想，着笔，着力，着墨，着意，着落，着人，睡着，猜着，打着，沉着，执着，无着，胶着，听着，跑着，拿着，笑着，附着物，黏着力，见不着，见不着，犯不着，合不着，数得着，着手成春，歪打正着，不着边际，不着痕迹，着三不着两	接触，感受；下棋走一步；手段，办法（助词）表示动作正在进行；表示有了结果或达到目的	
+著	著	zêg6	土著	世居本地的人	
+臻	臻	zên1			
+谆	諄	zên1			
+津	津	zên1			
+榛	榛	zên1			
+樽	樽	zên1			
+蓁	蓁	zên1			
+肫	肫	zên1			
+遵	遵	zên1/jun1			
+准	準	zên2			
+尽	儘	zên2			
+准	准	zên2			
+隼	隼	zên2			
+荩	藎	zên2			
+进	進	zên3			
+俊	俊	zên3			
+晋	晉	zên3			
+骏	駿	zên3			
+竣	竣	zên3			
+缙	縉	zên3			搢
+峻	峻	zên3			
+浚	浚	zên3	浚河，浚渠，浚井，疏浚	疏通，挖深	濬
+畯	畯	zên3			
+尽	盡	zên6			
+烬	燼	zên6			
+漳	漳	zêng1			
+张	張	zêng1			
+浆	漿	zêng1			
+章	章	zêng1			
+将	將	zêng1	将军，将来，将要，将就，将近，即将，将信将疑	（介词、副词、连词）快要；把；又，且；拿，用；调养；（象棋）攻击对方的将或帅	
+蟑	蟑	zêng1			
+璋	璋	zêng1			
+樟	樟	zêng1			
+彰	彰	zêng1			
+獐	獐	zêng1			麞
+嫜	嫜	zêng1			
+鄣	鄣	zêng1			
+掌	掌	zêng2			
+长	長	zêng2	长大，厂长	（动词、名词）	
+奖	獎	zêng2			
+桨	槳	zêng2			
+蒋	蔣	zêng2			
+涨	漲	zêng2/zêng3	涨价，涨落，涨潮，涨价，涨幅，涨钱，高涨，上涨，暴涨，看涨，涨停，水涨船高	水上升，水量增加，水面提高；增长，增高，上升，提高	
+将	將	zêng3	将官，将领，将帅，将校，将士，将兵，上将，中将，少将	（军衔名）高级军官；（书）带领，统领	
+账	賬	zêng3			
+酱	醬	zêng3			
+瘴	瘴	zêng3			
+障	障	zêng3			
+仗	仗	zêng3	打仗，败仗，胜仗	（名词）战争，战斗	
+帐	帳	zêng3			
+涨	漲	zêng3	涨红，涨大，涨红了脸，烟尘涨天	扩大，扩张，变大，充满	
+胀	脹	zêng3			
+幛	幛	zêng3			
+嶂	嶂	zêng3			
+象	象	zêng6			
+丈	丈	zêng6			
+仗	仗	zêng6	仗剑，倚仗，仗势欺人，仗义执言	（动词）凭借，依靠	
+像	像	zêng6			
+橡	橡	zêng6			
+匠	匠	zêng6			
+杖	杖	zêng6			
+狙	狙	zêu1			
+椎	椎	zêu1			
+锥	錐	zêu1			
+追	追	zêu1			
+蛆	蛆	zêu1/cêu1			
+咀	咀	zêu2			
+龃	齟	zêu2			
+沮	沮	zêu2			
+嘴	嘴	zêu2			
+醉	醉	zêu3			
+惴	惴	zêu3			
+赘	贅	zêu3			
+最	最	zêu3			
+罪	罪	zêu6			
+序	序	zêu6			
+屿	嶼	zêu6			
+坠	墜	zêu6			
+叙	敘	zêu6			
+聚	聚	zêu6			
+溆	漵	zêu6			
+缀	綴	zêu6/zêu3			
+欸	欸	éi1		（语气助词）表示招呼	
+欸	欸	éi2		（語氣助詞）表示不以為然	
+欸	欸	éi4		（语气助词）表示诧异	
+欸	欸	éi6		（语气助词）表示答应或同意	
