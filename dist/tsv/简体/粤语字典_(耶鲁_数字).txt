@@ -35,6 +35,7 @@
 屃	屭	ai3			屓
 嫕	嫕	ai3/yi3			
 哑	啞	ak7	哑哑，哑然失笑，笑之哑哑	（象声词）形容笑声	
+偓	偓	ak7			
 厄	厄	ak7/aak7			
 扼	扼	ak7/aak7			
 幄	幄	ak7/aak7			
@@ -85,6 +86,7 @@
 拜	拜	baai3			
 败	敗	baai6			
 稗	稗	baai6			
+呗	唄	baai6	呗唱，梵呗	（佛）唱赞，歌赞，念诵经文，唱颂短偈	
 迫	迫	baak7/bik7			
 伯	伯	baak8			
 佰	佰	baak8			
@@ -142,7 +144,7 @@
 斌	斌	ban1			
 彬	彬	ban1			
 贲	賁	ban1	贲张，贲门，虎贲	膈膜，横隔膜	
-濒	瀕	ban1/pan4			
+锛	錛	ban1			
 品	品	ban2			
 禀	稟	ban2			
 摈	擯	ban3			
@@ -169,7 +171,7 @@
 苾	苾	bat9			
 菝	菝	bat9			
 啤	啤	be1			
-呗	唄	be6			
+呗	唄	be6	去就去呗	（语气助词）表示让步、勉强、显而易见等	
 碑	碑	bei1			
 卑	卑	bei1			
 裨	裨	bei1	裨益，无裨于事，大有裨益	补助	
@@ -336,7 +338,7 @@
 绊	絆	bun6			
 畔	畔	bun6			
 胖	胖	bun6			
-伴	伴	bun6/pun2			
+伴	伴	bun6			
 甭	甭	bung3			
 钵	缽	but8			鉢，砵
 荸	荸	but9			
@@ -377,6 +379,7 @@
 柴	柴	chaai4			
 豺	豺	chaai4			
 侪	儕	chaai4			
+咤	咤	chaak7/ja3	咤怒，叱咤	怒吼	吒
 拆	拆	chaak8			
 册	冊	chaak8			
 策	策	chaak8			
@@ -388,7 +391,7 @@
 掺	摻	chaam1			
 惨	慘	chaam2			
 忏	懺	chaam3			
-杉	杉	chaam3/saam1			
+杉	杉	chaam3			
 惭	慚	chaam4			
 谗	讒	chaam4			
 馋	饞	chaam4			
@@ -537,6 +540,7 @@
 辵	辵	cheuk8			
 焯	焯	cheuk8	焯菠菜	在开水中略煮一下	
 倬	倬	cheuk8			
+桌	桌	cheuk8/jeuk8			
 春	春	cheun1			
 椿	椿	cheun1			
 蝽	蝽	cheun1			
@@ -792,7 +796,6 @@
 龊	齪	chuk7			
 亍	亍	chuk7			
 俶	俶	chuk7			
-触	觸	chuk7/juk7			
 匆	匆	chung1			
 忡	忡	chung1			
 冲	衝	chung1			
@@ -820,7 +823,7 @@
 杵	杵	chyu2			
 贮	貯	chyu2			
 褚	褚	chyu2		（姓）	
-处	處	chyu3/syu3	处所，处长，好处，远处，到处	（名词）地方	
+处	處	chyu3	处所，处长，好处，远处，到处	（名词）地方	
 蹰	蹰	chyu4			
 橱	櫥	chyu4			
 厨	廚	chyu4/cheui4			
@@ -859,6 +862,7 @@
 辁	輇	chyun4			
 筌	筌	chyun4			
 椽	椽	chyun4			
+佺	佺	chyun4			
 猝	猝	chyut8			
 撮	撮	chyut8			
 踅	踅	chyut8			
@@ -983,12 +987,12 @@
 惇	惇	deun1			
 敦	敦	deun1			
 镦	鐓	deun1			
+吨	噸	deun1			
 遁	遁	deun6			
 顿	頓	deun6			
 钝	鈍	deun6			
 沌	沌	deun6			
 盹	盹	deun6			
-吨	噸	deun6			
 咄	咄	deut7	咄咄逼人	斥责，呵叱	
 嫡	嫡	dik7			
 滴	滴	dik7			
@@ -1009,10 +1013,9 @@
 颠	顛	din1			
 巅	巔	din1			
 癫	癲	din1			
-碘	碘	din1	碘酒		
 垫	墊	din2	垫子，椅垫，鞋垫，靠垫，草垫	（名词）衬托的东西	
 典	典	din2			
-碘	碘	din2		化学元素53	
+碘	碘	din2/din1			
 垫	墊	din3	垫高，垫好，垫平，垫上，垫桌子	（动词）衬托	
 靛	靛	din6			
 淀	澱	din6			
@@ -1027,15 +1030,16 @@
 汀	汀	ding1		（俗）	
 町	町	ding1			
 玎	玎	ding1			
+酊	酊	ding1	酊剂，碘酊	一种药剂	
 钉	釘	ding1/deng1			
 叮	叮	ding1/deng1			
 盯	盯	ding1/deng1			
 顶	頂	ding2			
-酊	酊	ding2			
+酊	酊	ding2	酩酊，酩酊大醉	喝醉的样子	
 鼎	鼎	ding2			
 碇	碇	ding3			
+订	訂	ding3/deng6			
 锭	錠	ding3/ding6			
-订	訂	ding3/ding6			
 定	定	ding6			
 啶	啶	ding6			
 腚	腚	ding6			
@@ -1088,7 +1092,7 @@
 玳	玳	doi6			
 殆	殆	doi6/toi5			
 怠	怠	doi6/toi5			
-度	度	dok9	忖度，揣度，测度，度德量力，以己度人	计算，推测，估计	
+度	度	dok9	忖度，揣度，量度，测度，度量衡，度德量力，以己度人	计算，推测，估计	
 铎	鐸	dok9			
 踱	踱	dok9			
 铛	鐺	dong1			
@@ -1148,7 +1152,6 @@
 咚	咚	dung1			
 懂	懂	dung2			
 董	董	dung2			
-踵	踵	dung2			
 冻	凍	dung3			
 栋	棟	dung3/dung6			
 恸	慟	dung6			
@@ -1185,8 +1188,8 @@
 反	反	faan2			
 返	返	faan2			
 犯	犯	faan2	战犯，要犯，贪污犯	（名词）犯罪的人	
+泛	泛	faan3			氾，汎
 贩	販	faan3/faan2			
-泛	泛	faan3/faan6			氾，汎
 繁	繁	faan4			
 帆	帆	faan4			
 凡	凡	faan4			
@@ -1266,6 +1269,7 @@
 乏	乏	fat9			
 罚	罰	fat9			
 否	否	fau2	否认，否定，否决，否则，是否，可否，与否	不然，反对，不同意	
+剖	剖	fau2/pau2			
 浮	浮	fau4			
 涪	涪	fau4			
 蜉	蜉	fau4			
@@ -1292,6 +1296,7 @@
 肥	肥	fei4			
 科	科	fo1			
 蝌	蝌	fo1			
+髁	髁	fo1			
 伙	伙	fo2			
 火	火	fo2			
 颗	顆	fo2			
@@ -1591,8 +1596,8 @@
 殣	殣	gan2/gan6			
 靳	靳	gan3			
 艮	艮	gan3			
-觐	覲	gan3/gan2			
 近	近	gan6			
+觐	覲	gan6/gan2/gan3			
 庚	庚	gang1			
 更	更	gang1	更改，更换，更衣，更动，更新，更正，变更，打更，更迭，更生，更定	改变；经历；一夜的五分之一的时间	
 羹	羹	gang1			
@@ -1620,6 +1625,7 @@
 疙	疙	gat9			
 龟	龜	gau1	龟兹	（古）国名	
 阄	鬮	gau1/kau1			
+鸠	鳩	gau1/kau1			
 篝	篝	gau1/kau1			
 韭	韭	gau2			
 枸	枸	gau2	枸杞		
@@ -1764,6 +1770,7 @@
 敬	敬	ging3			
 劲	勁	ging3	使劲，差劲，费劲，不对劲	力气，效力，兴趣	
 径	逕	ging3			迳
+茎	莖	ging3/hang4/hang1			
 竞	競	ging6			
 劲	勁	ging6	劲敌，强劲	坚强有力	
 痉	痙	ging6			
@@ -1867,7 +1874,7 @@
 蛊	蠱	gu2			
 钴	鈷	gu2			
 牯	牯	gu2			
-贾	賈	gu2	商贾	指商人或买卖	
+贾	賈	gu2	贾人，商贾	指商人或买卖	
 古	古	gu2			
 估	估	gu2			
 鼓	鼓	gu2			
@@ -1919,6 +1926,7 @@
 工	工	gung1			
 攻	攻	gung1			
 公	公	gung1			
+红	紅	gung1/hung4	女红	（旧）指女子所做的纺织、缝纫、刺绣等工作	
 巩	鞏	gung2			
 拱	拱	gung2			
 珙	珙	gung2			
@@ -1971,6 +1979,7 @@
 馈	饋	gwai6			
 跪	跪	gwai6			
 篑	簣	gwai6			
+匮	匱	gwai6			
 筠	筠	gwan1		（地名）	
 君	君	gwan1			
 钧	鈞	gwan1			
@@ -2000,7 +2009,6 @@
 掘	掘	gwat9			
 崛	崛	gwat9			
 虢	虢	gwik7			
-隙	隙	gwik7/kwing1			
 炯	炯	gwing2			
 迥	迥	gwing2			
 炅	炅	gwing2		日光，光明，明亮，热	
@@ -2092,8 +2100,8 @@
 箧	篋	haap9			
 狎	狎	haap9			
 峡	峽	haap9			
+狭	狹	haap9			
 硖	硤	haap9/gip8			
-狭	狹	haap9/haap8			
 侠	俠	haap9/hap9			
 哮	哮	haau1			
 敲	敲	haau1			
@@ -2110,7 +2118,7 @@
 奚	奚	hai4			
 兮	兮	hai4			
 鼷	鼷	hai4			
-蹊	蹊	hai4	蹊径，山蹊	小路	
+蹊	蹊	hai4	蹊径，山蹊	小路，路径	
 系	係	hai6			
 系	繫	hai6			
 系	系	hai6			
@@ -2149,7 +2157,6 @@
 铿	鏗	hang1			
 哼	哼	hang1	哼唱，哼歌，哼出来	（动词）低声歌唱	
 亨	亨	hang1			
-茎	莖	hang1/ging3			
 肯	肯	hang2			
 啃	啃	hang2			
 桁	桁	hang4			
@@ -2418,7 +2425,7 @@
 洪	洪	hung4			
 雄	雄	hung4			
 鸿	鴻	hung4			
-红	紅	hung4			
+红	紅	hung4	红色，脸红	像鲜血一样的颜色	
 蕻	蕻	hung4	雪里蕻	一种花	
 讧	訌	hung4/hung3			
 蕻	蕻	hung6	菜蕻	茂盛的样子	
@@ -2455,13 +2462,13 @@
 诈	詐	ja3			
 乍	乍	ja3			
 榨	榨	ja3			搾
-咤	咤	ja3	咤怒，叱咤	怒吼	吒
 柞	柞	ja3	柞水	（地名）	
 蚱	蚱	ja3/jaak8			
 嵖	嵖	ja6			
 膪	膪	ja6			
 斋	齋	jaai1			
 赍	齎	jaai1			
+㴓	㴓	jaai2			
 债	債	jaai3			
 寨	寨	jaai6			
 眦	眥	jaai6			
@@ -2499,7 +2506,11 @@
 赚	賺	jaan6			
 馔	饌	jaan6			
 攥	攥	jaan6			
-琤	琤	jaang1/chaang1/jang1			
+挣	掙	jaang1		（口语）	
+睁	睜	jaang1		（口语）	
+争	爭	jaang1		（口语）	
+狰	猙	jaang1		（口语）	
+琤	琤	jaang1		（口语）	
 诤	諍	jaang3/jang3			
 挣	掙	jaang6	挣钱，挣脱，挣开，挣命，挣揣	通过劳动获取报酬；尽力摆脱	
 眨	眨	jaap8			
@@ -2570,10 +2581,11 @@
 增	增	jang1			
 峥	崢	jang1			
 铮	錚	jang1			
-挣	掙	jang1/jaang1	挣扎	用力支撑或尽力摆脱	
-睁	睜	jang1/jaang1			
-争	爭	jang1/jaang1			
-狰	猙	jang1/jaang1			
+挣	掙	jang1	挣扎	用力支撑或尽力摆脱	
+睁	睜	jang1			
+争	爭	jang1			
+狰	猙	jang1			
+琤	琤	jang1			
 赠	贈	jang6			
 甑	甑	jang6			
 汁	汁	jap7			
@@ -2631,6 +2643,7 @@
 榭	榭	je6			
 只	隻	jek8			
 跖	跖	jek8			
+井	井	jeng2/jing2			
 郑	鄭	jeng6/jing6			
 狙	狙	jeui1			
 椎	椎	jeui1			
@@ -2646,6 +2659,7 @@
 惴	惴	jeui3			
 赘	贅	jeui3			
 最	最	jeui3			
+缀	綴	jeui3/jeui6			
 罪	罪	jeui6			
 序	序	jeui6			
 屿	嶼	jeui6	岛屿	小岛	
@@ -2653,7 +2667,6 @@
 叙	敘	jeui6			
 聚	聚	jeui6			
 溆	漵	jeui6			
-缀	綴	jeui6/jeui3			
 鹊	鵲	jeuk8			
 着	著	jeuk8	着衣，穿着，衣着，着西服，衣着打扮	穿衣服	
 嚼	嚼	jeuk8	嚼舌，嚼食，嚼子，咀嚼，嚼不烂，细嚼慢咽，咬文嚼字，味同嚼蜡，过屠门而大嚼	用牙齿咬碎食物	
@@ -2663,7 +2676,6 @@
 爵	爵	jeuk8			
 斫	斫	jeuk8	斫伐，斫鼻，斫树，斫营，斫木	砍，斩；用刀斧砍削或劈树	斲
 妁	妁	jeuk8			
-桌	桌	jeuk8/cheuk8			
 焯	焯	jeuk8/cheuk8	焯灿，焯见	显明，光明，明显，明白	
 芍	芍	jeuk8/cheuk8			
 勺	勺	jeuk8/cheuk8/seuk8			杓
@@ -2692,6 +2704,7 @@
 浚	浚	jeun3	浚河，浚渠，浚井，疏浚	疏通，挖深	濬
 畯	畯	jeun3			
 焌	焌	jeun3		用火来烧东西	
+隽	雋	jeun3	隽才	杰出，出众，英俊，才能过人	
 尽	盡	jeun6			
 烬	燼	jeun6			
 漳	漳	jeung1			
@@ -2783,6 +2796,7 @@
 趾	趾	ji2			
 芷	芷	ji2			
 秭	秭	ji2			
+黹	黹	ji2			
 致	致	ji3			
 轾	輊	ji3			
 至	至	ji3			
@@ -2896,7 +2910,6 @@
 箐	箐	jing1			
 桢	楨	jing1			
 整	整	jing2			
-井	井	jing2/jeng2			
 症	症	jing3			
 证	證	jing3			証
 正	正	jing3	正式，正常，正当，正经，正面，正义，正门，正好，正派，修正，改正，纠正，端正，公正，纯正，方正	不偏斜的，不歪斜的，符合规范的，符合标准方向的	
@@ -3010,6 +3023,7 @@
 嘱	囑	juk7			
 竺	竺	juk7			
 筑	築	juk7			
+触	觸	juk7/chuk7			
 瘃	瘃	juk7/juk9			
 镯	鐲	juk9			
 族	族	juk9			
@@ -3041,6 +3055,7 @@
 种	種	jung2	种子，种类，品种，物种，各种，绝种	（名词）种子，类别	
 肿	腫	jung2			
 总	總	jung2			
+踵	踵	jung2/dung2			
 纵	縱	jung3	纵情，纵容，纵火，纵然，放纵，纵身一跳，纵虎归山，欲擒故纵	释放，放肆；即使	
 中	中	jung3	中的，中奖，中彩，中选，中意，中肯，中计，中风，中毒，中暑，中枪，中弹，中伤，中伏，中箭，中标，中邪，打中，击中，考中，猜中，看中，说中，命中，射中，中诡计，中规中矩，一语中的，正中下怀，百发百中，言必有中	射中目标，遭受	
 种	種	jung3	种植，种田，种树，种花，种菜，接种，种牛痘，种麦子，种棉花	（动词）种植；接种疫苗	
@@ -3113,6 +3128,7 @@
 靠	靠	kaau3			
 稽	稽	kai1	稽查，稽留，稽延，稽核，滑稽，无稽之谈，反唇相稽	停留，延迟，考核，计较	
 溪	溪	kai1			
+蹊	蹊	kai1	蹊跷，跷蹊	奇怪，可疑	
 嵇	嵇	kai1/hai4			
 启	啟	kai2			啓
 稽	稽	kai2	稽首	（古）一种类似磕头的跪拜礼	
@@ -3138,7 +3154,6 @@
 芨	芨	kap9/gap7			
 咳	咳	kat7	咳嗽，干咳		
 抠	摳	kau1			
-鸠	鳩	kau1/gau1			
 沟	溝	kau1/gau1			
 叩	叩	kau3			
 扣	扣	kau3			
@@ -3160,14 +3175,13 @@
 璆	璆	kau4			
 俅	俅	kau4			
 𨱇	銶	kau4			
-舅	舅	kau5/kau3			
-臼	臼	kau5/kau3			
+舅	舅	kau5			
+臼	臼	kau5			
 茄	茄	ke2	茄子，番茄	一种蔬菜	
 骑	騎	ke4	骑马，骑车，骑墙	指骑马，也泛指两腿跨在东西上	
 瘸	瘸	ke4			
 伽	伽	ke4	伽蓝，伽陀，僧伽，伽南香	（梵文音译用字）	
 崎	崎	kei1			
-蹊	蹊	kei1/kai1	蹊跷，跷蹊	奇怪，可疑	
 暨	暨	kei3			
 冀	冀	kei3			
 骥	驥	kei3			
@@ -3195,6 +3209,7 @@
 祇	祇	kei4	神祇	（古）地神	祗
 锜	錡	kei4			
 圻	圻	kei4		边界，地界；方圆千里之地	
+䓫	䓫	kei4			
 企	企	kei5			
 屐	屐	kek9			
 剧	劇	kek9			
@@ -3235,6 +3250,7 @@
 擎	擎	king4			
 鲸	鯨	king4			
 黥	黥	king4			
+勍	勍	king4			
 黠	黠	kit8			
 孑	孑	kit8			
 揭	揭	kit8			
@@ -3249,8 +3265,9 @@
 讦	訐	kit8			
 撷	擷	kit8/git8			
 跷	蹺	kiu1/hiu1	跷着脚，跷跷板	垫起脚后跟走	
-跷	蹺	kiu2	高跷，踩高跷		
+跷	蹺	kiu2	蹊跷		
 藠	藠	kiu2/kiu5			
+跷	蹺	kiu3	高跷，踩高跷		
 翘	翹	kiu3/hiu3	翘尾巴，翘起来	一端向上扬起，突起，高起	
 侨	僑	kiu4			
 桥	橋	kiu4			
@@ -3337,17 +3354,19 @@
 焜	焜	kwan1/wan6			
 菌	菌	kwan2			
 捆	捆	kwan2			綑
+麕	麕	kwan2			
 困	困	kwan3			
 窘	窘	kwan3			
 困	睏	kwan3			
 群	群	kwan4			羣
 裙	裙	kwan4			
+隙	隙	kwik7/gwik7			
 扩	擴	kwok8	扩散，扩大		
 漷	漷	kwok8/gwok8			
 旷	曠	kwong3			
 纩	纊	kwong3			
+矿	礦	kwong3			
 圹	壙	kwong3			
-矿	礦	kwong3/kong3			
 邝	鄺	kwong3/kong3			
 狂	狂	kwong4			
 蜷	蜷	kyun4			
@@ -3380,6 +3399,8 @@
 赖	賴	laai6			
 籁	籟	laai6			
 落	落	laai6	落下，丢三落四	丢下，遗漏，忘了拿，被丢在后面	
+勒	勒	laak9/lak9			
+肋	肋	laak9/lak9			
 篮	籃	laam4			
 褴	襤	laam4			
 婪	婪	laam4			
@@ -3432,8 +3453,6 @@
 荔	荔	lai6			
 俪	儷	lai6			
 疠	癘	lai6			
-勒	勒	lak9/laak9			
-肋	肋	lak9/laak9			
 鳓	鰳	lak9/laak9			
 林	林	lam4			
 啉	啉	lam4			
@@ -3698,7 +3717,7 @@
 锣	鑼	lo4			
 箩	籮	lo4			
 萝	蘿	lo4			
-螺	螺	lo4/lo2			
+螺	螺	lo4			
 莱	萊	loi4			
 来	來	loi4			
 徕	徠	loi4			
@@ -3732,6 +3751,7 @@
 莨	莨	long4	莨菪	一种多年生草本植物	
 阆	閬	long4	闶阆，阆阆	高大，空旷	
 朗	朗	long5			
+㙟	㙟	long5			
 晾	晾	long6			
 浪	浪	long6			
 蒗	蒗	long6			
@@ -3944,6 +3964,7 @@
 牟	牟	mau4			
 眸	眸	mau4			
 缪	繆	mau4			
+鍪	鍪	mau4			
 牡	牡	mau5			
 某	某	mau5			
 亩	畝	mau5			
@@ -3963,7 +3984,6 @@
 湄	湄	mei4			
 糜	糜	mei4			
 縻	縻	mei4			
-弥	瀰	mei4/nei4			
 猕	獼	mei4/nei4			
 尾	尾	mei5			
 镁	鎂	mei5			
@@ -4001,10 +4021,10 @@
 溟	溟	ming4			
 螟	螟	ming4			
 瞑	瞑	ming4/ming5			
-铭	銘	ming4/ming5			
 暝	暝	ming4/ming6			
 皿	皿	ming5			
 酩	酩	ming5			
+铭	銘	ming5/ming4			
 茗	茗	ming5/ming4			
 命	命	ming6	命运，生命		
 蔑	蔑	mit9			
@@ -4020,10 +4040,10 @@
 渺	渺	miu5			
 缈	緲	miu5			
 秒	秒	miu5			
-邈	邈	miu5			
 藐	藐	miu5			
 淼	淼	miu5			
 眇	眇	miu5			
+邈	邈	miu5/mok9			
 庙	廟	miu6			
 妙	妙	miu6			
 摩	摩	mo1			
@@ -4195,6 +4215,7 @@
 弥	彌	nei4			
 铌	鈮	nei4			
 尼	尼	nei4			
+弥	瀰	nei4/mei4			
 旎	旎	nei5			
 您	您	nei5			
 你	妳	nei5			
@@ -4204,7 +4225,7 @@
 泥	泥	nei6	泥古，泥墙，泥壁，拘泥，泥古不化	固执，拘束，死板，停留不前；涂抹，涂饰，用土、灰等涂抹墙壁或器物	
 钕	釹	neui5			
 馁	餒	neui5			
-女	女	neui5/leui5			
+女	女	neui5			
 娘	娘	neung4			孃
 讷	訥	neut9/naap9			
 嗯	嗯	ng2	嗯？怎么回事，嗯？你说什么，嗯？你在干嘛，嗯！那可不成，嗯！我看不一定	（叹词）表示疑问、怀疑、意外、出乎意料、不以为然等语气	
@@ -4223,7 +4244,6 @@
 晤	晤	ng6			
 误	誤	ng6			
 嗯	嗯	ng6	嗯！好吧，嗯！就这样吧，嗯！就这么办吧	（叹词）表示答应、应允等语气	
-捂	摀	ng6			
 悟	悟	ng6			
 牙	牙	nga4			
 衙	衙	nga4			
@@ -4284,6 +4304,7 @@
 兀	兀	ngat9			
 杌	杌	ngat9			阢
 圪	圪	ngat9			
+汔	汔	ngat9			
 勾	勾	ngau1			
 钩	鉤	ngau1			鈎
 牛	牛	ngau4			
@@ -4327,7 +4348,7 @@
 翱	翱	ngou4			
 鳌	鰲	ngou4			
 聱	聱	ngou4			
-熬	熬	ngou4/ngau4			
+熬	熬	ngou4/ngaau4			
 遨	遨	ngou4/ngou6			
 傲	傲	ngou6			
 昵	暱	nik7			
@@ -4432,7 +4453,7 @@
 案	案	on3			
 按	按	on3			
 摁	摁	on3			
-盎	盎	ong3/ong2			
+盎	盎	ong3			
 鏖	鏖	ou1/ngou4			
 媪	媼	ou2			
 懊	懊	ou3			
@@ -4471,6 +4492,7 @@
 澎	澎	paang4	澎湖	（地名）	
 棚	棚	paang4			
 膨	膨	paang4			
+嘭	嘭	paang4			
 棒	棒	paang5			
 脬	脬	paau1			
 抛	拋	paau1			
@@ -4493,12 +4515,12 @@
 颦	顰	pan4			
 嫔	嬪	pan4			
 频	頻	pan4			
+濒	瀕	pan4/ban1			
 牝	牝	pan5			
 凭	憑	pang4			
 朋	朋	pang4			
 匹	疋	pat7			
 匹	匹	pat7			
-剖	剖	pau2			
 抔	抔	pau4			
 呸	呸	pei1			
 丕	丕	pei1			
@@ -4650,6 +4672,7 @@
 槃	槃	pun4			
 磐	磐	pun4			
 蹒	蹣	pun4/mun4			
+伴	伴	pun5		（口语）	
 捧	捧	pung2/bung2			
 碰	碰	pung3			
 篷	篷	pung4			
@@ -4671,7 +4694,6 @@
 徙	徙	saai2			
 屣	屣	saai2			
 晒	曬	saai3			
-索	索	saak8/sok8	索引，索取，搜索，线索		
 仨	仨	saam1			
 三	三	saam1	三个，三角，再三，三番五次	（数字）	
 衫	衫	saam1			
@@ -4897,6 +4919,7 @@
 峋	峋	seun1			
 荀	荀	seun1			
 珣	珣	seun1			
+洵	洵	seun1			
 笋	筍	seun2			
 榫	榫	seun2			
 信	信	seun3			
@@ -4931,6 +4954,7 @@
 相	相	seung1	相信，相称，相较，相像，相异，互相，相得益彰，相亲相爱，两地相思，出门相迎，守望相助，实不相瞒，旗鼓相当，有事相烦	彼此，交互，两方面	
 襄	襄	seung1			
 骧	驤	seung1			
+熵	熵	seung1			
 想	想	seung2			
 赏	賞	seung2			
 鲞	鯗	seung2			
@@ -5158,6 +5182,8 @@
 槊	槊	sok8			
 矟	矟	sok8			
 蒴	蒴	sok8			
+数	數	sok8	频数，数见不鲜	屡次，频频	
+索	索	sok8/saak8	索引，索取，搜索，线索		
 丧	喪	song1	丧礼，丧葬	跟死人有关的事	
 桑	桑	song1			
 爽	爽	song2			
@@ -5229,6 +5255,7 @@
 恕	恕	syu3			
 戍	戍	syu3			
 庶	庶	syu3			
+处	處	syu3	处所，处长，好处，远处，到处	（口语，名词）地方	
 殊	殊	syu4			
 薯	薯	syu4			
 竖	豎	syu6			
@@ -5255,7 +5282,7 @@
 璿	璿	syun4			
 鹮	䴉	syun4			
 吮	吮	syun5			
-隽	雋	syun5			
+隽	雋	syun5	隽语，隽永	言论、文章等意味深长	
 篆	篆	syun6			
 雪	雪	syut8			
 鳕	鱈	syut8			
@@ -5348,6 +5375,8 @@
 投	投	tau4			
 骰	骰	tau4/sik7			
 踢	踢	tek8			
+厅	廳	teng1			
+听	聽	teng1	听见，听到，听错，听过，听话，听筒，听课，听诊，接听，偷听，听清楚，听诊器	（白读，用于口语词汇和单独使用）用耳朵接受声音	
 推	推	teui1			
 腿	腿	teui2			
 蜕	蛻	teui3			
@@ -5380,9 +5409,9 @@
 殄	殄	tin5/tim5			
 烃	烴	ting1			
 汀	汀	ting1	汀线	水边平地	
-厅	廳	ting1/teng1			
-听	聽	ting1/teng1	听见，听力，听觉，听到，听从，好听，打听，聆听，倾听，言听计从	用耳朵接受声音	
+听	聽	ting1	听觉，听力，听说，听信，听众，听闻，听障，倾听，聆听，打听，探听，动听，旁听，视听，窃听，监听，截听，幻听，公听会，助听器，窃听器，百听不厌，骇人听闻，洗耳恭听，娓娓动听，危言耸听	（文读，用于合成词和成语）用耳朵接受声音	
 听	聽	ting3	听凭，听任，听便，听讼，听其自然，听天由命，听之任之，垂帘听政	凭，任，任由，任凭，处理，判断	
+听	聽	ting3/ting1	听觉，听力，听说，听信，听众，听闻，听障，倾听，聆听，打听，探听，动听，旁听，视听，窃听，监听，截听，幻听，公听会，助听器，窃听器，百听不厌，骇人听闻，洗耳恭听，娓娓动听，危言耸听	（俗，用于合成词和成语）用耳朵接受声音	
 庭	庭	ting4			
 蜓	蜓	ting4			
 霆	霆	ting4			
@@ -5426,6 +5455,7 @@
 坨	坨	to4			
 妥	妥	to5			
 椭	橢	to5			
+柁	柁	to5/to4			
 苔	苔	toi1	舌苔	一种舌头上的物质	
 胎	胎	toi1			
 台	枱	toi4			檯
@@ -5593,7 +5623,6 @@
 委	委	wai2	委任，委托，委派，委员，委婉，委屈，主委，编委，常委，省委，政委，委以重任	任命，托付	
 毁	毀	wai2			譭，燬
 诿	諉	wai2			
-猥	猥	wai2/wui1			
 蔚	蔚	wai3			
 喂	餵	wai3			
 畏	畏	wai3			
@@ -5664,13 +5693,13 @@
 允	允	wan5			
 殒	殞	wan5			
 狁	狁	wan5			
+韵	韻	wan5/wan6			
 晕	暈	wan6	日晕，月晕，红晕，墨晕，灯晕，酒晕	出现在日月周围的光环	
 熨	熨	wan6	熨斗	把衣服烫平；把衣服烫平的工具	
 混	混	wan6			溷
 运	運	wan6			
 诨	諢	wan6			
 郓	鄆	wan6			
-韵	韻	wan6/wan5			
 闳	閎	wang4			
 宏	宏	wang4			
 弘	弘	wang4			
@@ -5741,6 +5770,7 @@
 呜	嗚	wu1			
 恶	惡	wu1	恶乎	（古疑问代词、叹词）何，怎么	
 圬	圬	wu1			
+捂	摀	wu2			
 坞	塢	wu2			
 浒	滸	wu2			
 和	和	wu2		（赌博用语）打麻将获胜	
@@ -5773,6 +5803,7 @@
 瓠	瓠	wu6/wu4			
 偎	偎	wui1			
 煨	煨	wui1			
+猥	猥	wui1/wai2			
 回	回	wui4			囘，囬
 徊	徊	wui4			
 洄	洄	wui4			
@@ -5795,6 +5826,7 @@
 垣	垣	wun4			
 桓	桓	wun4			
 援	援	wun4/yun4			
+媛	媛	wun4/yun4			
 浣	浣	wun5			
 皖	皖	wun5			
 唤	喚	wun6			
@@ -5954,6 +5986,7 @@
 睿	睿	yeui6			
 芮	芮	yeui6			
 蚋	蚋	yeui6			
+叡	叡	yeui6			
 约	約	yeuk8			
 钥	鑰	yeuk9			
 药	藥	yeuk9			
@@ -6172,6 +6205,7 @@
 英	英	ying1			
 鹦	鸚	ying1			
 鹰	鷹	ying1			
+媖	媖	ying1			
 映	映	ying2			
 影	影	ying2			
 瘿	癭	ying2			
@@ -6346,6 +6380,7 @@
 彧	彧	yuk7			
 顼	頊	yuk7			
 旭	旭	yuk7			
+鋈	鋈	yuk7			
 蓐	蓐	yuk9			
 褥	褥	yuk9			
 钰	鈺	yuk9			
@@ -6406,7 +6441,6 @@
 泫	泫	yun5			
 愿	願	yun6			
 院	院	yun6			
-媛	媛	yun6			
 县	縣	yun6			
 炫	炫	yun6/yun4			
 远	遠	yun6/yun5	敬而远之	不接近，不亲近	
@@ -6446,6 +6480,7 @@
 绒	絨	yung4/yung2			
 勇	勇	yung5			
 用	用	yung6			
+乙	乙	yut8/yut9			
 阅	閱	yut9			
 穴	穴	yut9			
 越	越	yut9			
@@ -6456,4 +6491,3 @@
 悦	悅	yut9			
 玥	玥	yut9			
 曰	曰	yut9/yeuk9			
-乙	乙	yut9/yut8			
